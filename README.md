@@ -8,6 +8,12 @@
    3. [Data Sharing](#data-sharing)
    4. [Unused Accounts](#unused-accounts)
    5. [Data Brokers](#data-brokers)
+   6. [Manual Data Removal](#manual-data-removal)
+   7. [Paid Data Removal](#paid-data-removal)
+4. [Web Browsing](#web-browsing)
+   1. [Browsers](#browsers)
+   2. [Search Engines](#search-engines)
+   3. [Extensions & Add-ons](#extensions--add-ons)
 
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
