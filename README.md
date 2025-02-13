@@ -14,11 +14,13 @@
    1. [Browsers](#browsers)
    2. [Search Engines](#search-engines)
    3. [Extensions & Add-ons](#extensions--add-ons)
+   4. [Website Cookies](#website-cookies)
+   5. [VPNs](#vpns)
 
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
 
-As we’ve seen, data collected by corporations often ends up in data breaches; AT&T, Change Healthcare, and Ticketmaster to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences for them losing it?
+As we’ve seen, data collected by corporations often ends up in data breaches; AT&T, Change Healthcare, and Ticketmaster to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you get started. If you want a more thorough guide, check out The Hitchhiker’s Guide to Online Anonymity.
 
@@ -54,7 +56,7 @@ Publicly available information about you can be used:
 - to dox you
 - to stalk or harass you
 - against you politically or socially
-- your sexual orientation, political affiliation, or gender identity
+  - your sexual orientation, political affiliation, or gender identity
 
 ## Social Media
 Here are some suggestions you can apply to all of your social media accounts:
