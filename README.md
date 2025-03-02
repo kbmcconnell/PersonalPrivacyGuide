@@ -17,8 +17,9 @@
    4. [Website Cookies](#website-cookies)
    5. [VPNs](#vpns)
    6. [Passwords](#passwords)
-   7. [Password Managers](#passwordmanagers)
-   8. [MFA/2FA](#mfa-2fa)
+   7. [Password Managers](#password-managers)
+   8. [MFA/2FA](#mfa--2fa)
+5. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
