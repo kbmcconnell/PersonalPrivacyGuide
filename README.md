@@ -26,6 +26,11 @@
    3. [Android Settings](#android-settings)
    4. [Useful Apps](#useful-apps)
    5. [Apps to Avoid](#apps-to-avoid)
+7. [Computers](#computers)
+   1. [MacOS Settings](#macos-settings)
+   2. [Windows Settings](#windows-settings)
+   3. [Cloud Storage](#cloud-storage)
+8. [Email](#email)
 
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
@@ -470,7 +475,7 @@ Regular software updates patch vulnerabilities.
 - Temu
   - It’s probably malware.
 - Period trackers
-There is valid concern that data from period tracker apps will be used against someone who received an abortion. Even the Stardust app has been guilty of sharing user data. Here’s a 2022 Wired article that covers the concern around period tracker privacy. Clue scored the highest, but doesn’t support local storage, which is a key privacy feature you should look for.
+  - There is valid concern that data from period tracker apps could be used against someone who received an abortion. Even the Stardust app has been guilty of sharing user data. Here’s a 2022 Wired article that covers the concern around period tracker privacy. Clue scored the highest, but doesn’t support local storage, which is a key privacy feature you should look for.
 
 Tracker apps that store your data on your phone instead of the cloud:
 - Euki
