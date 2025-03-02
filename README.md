@@ -1,3 +1,4 @@
+## this is still a WIP
 # Table of Contents
 
 1. [Purpose](#purpose)
@@ -35,9 +36,9 @@
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
 
-As we’ve seen, data collected by corporations often ends up in data breaches; AT&T, Change Healthcare, and Ticketmaster to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
+As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
-You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you get started. If you want a more thorough guide, check out The Hitchhiker’s Guide to Online Anonymity.
+You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you get started. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
@@ -68,7 +69,7 @@ Try Googling yourself and look at the results. What did you find?
 Publicly available information about you can be used:
 
 - in targeted ads
-- to dox you
+- to [dox you](https://en.wikipedia.org/wiki/Doxing#:~:text=Doxing%20or%20doxxing%20is%20the,Internet%20and%20without%20their%20consent.)
 - to stalk or harass you
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
@@ -86,7 +87,7 @@ Here are some suggestions you can apply to all of your social media accounts:
 - make your profiles private
 
 ## Public Records
-Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. This guide provides tools to help you get started.
+Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities.
 
 ## Data sharing
 Outside of social media, most websites you have an account with have privacy settings. For sites that allow it, opt out of third-party data sharing.
@@ -95,18 +96,18 @@ Outside of social media, most websites you have an account with have privacy set
 If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint.
 
 ## Data brokers
-Data brokers collect information about you to sell. People finder sites are a type of data broker. You can manually request your information be deleted or pay for a removal service to contact them on your behalf. US government agencies buy your location data from brokers.
+Data brokers collect information about you to sell. People finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). You can manually request your information be deleted or pay for a removal service to contact them on your behalf. US government agencies [buy your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers.
 
 Most, if not all, people finder sites include a “known associates” section of your user profile, meaning the personal details of close friends, significant others, housemates, and others can easily be linked to you.
 
 Start here:
 
-- modify your Google Activity settings
-- Google Account
+- [modify your Google Activity settings](https://myactivity.google.com/myactivity)
+- [Google Account](https://myaccount.google.com)
   - turn off YouTube history
   - turn off personalization
   - turn off location tracking
-- opt out of prescreen offers
+- [opt out of prescreen offers](https://www.optoutprescreen.com/)
 
 ## Manual data removal
 **Pros:** 
@@ -121,9 +122,9 @@ Start here:
 
 These resources will help:
 
-- IntelTechniques Data Removal Guide
-- Big Ass Data Broker Opt Out LIst Github
-- Privacy Guides | Data Removal Services
+- [IntelTechniques Data Removal Guide](https://inteltechniques.com/workbook.html)
+- [Big Ass Data Broker Opt Out LIst Github](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
+- [Privacy Guides | Data Removal Services](https://www.privacyguides.org/en/data-broker-removals/)
 
 ## Paid data removal
 
