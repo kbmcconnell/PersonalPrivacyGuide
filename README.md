@@ -20,6 +20,12 @@
    7. [Password Managers](#password-managers)
    8. [MFA/2FA](#mfa--2fa)
 5. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+6. [Phones](#phones)
+   1. [Phone Number Masking](#phone-number-masking)
+   2. [iPhone Settings](#iphone-settings)
+   3. [Android Settings](#android-settings)
+   4. [Useful Apps](#useful-apps)
+   5. [Apps to Avoid](#apps-to-avoid)
 
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
@@ -361,7 +367,7 @@ What you can do to protect your privacy:
 - disable unused AI features on your devices
 
 # Phones
-**Important:** Police are allowed to ask you to use biometrics to unlock your phone. Courts currently consider the use of biometrics as a “nontestimonial act.”
+**Important:** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
 
 **Testimonial act:** Providing a password or PIN is considered a testimonial act because it involves revealing potentially incriminating information.
 
@@ -378,7 +384,9 @@ With this in mind:
 - on iOS, quickly disable face ID by triggering the “power off” screen, then canceling
 - on Android, you can enable lockdown mode from the lock screen
 
-### Phone Number Masking
+I highly recommend that you restart your phone every day.
+
+## Phone Number Masking
 Alternative to giving your actual phone number out. This Proton blog post offers tips on what to look for.
 
 Some examples:
@@ -386,15 +394,11 @@ Some examples:
 - Mozilla Relay
 - Google Voice
 
-### Automatic Updates
-Turn on automatic updates.
+## iPhone Settings
 
+### Turn on automatic updates
 - regular software updates patch vulnerabilities.
 - the latest versions may foil tools like Cellebrite and GrayKey
-
-### Restart Daily
-
-## iPhone Settings
 
 ### Turn on Advanced Data Protection
 
