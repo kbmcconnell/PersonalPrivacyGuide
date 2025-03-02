@@ -352,7 +352,7 @@ Your username and password fall under the “something you know” authenticatio
 
 **MFA** requires you to present at least one (1) additional authentication **method** along with your username and password. However, the additional method cannot be the same **type**. For example, if you log in with a username/password, you cannot use a PIN, but you can use an authenticator app or biometrics.
 
-MFA is considered more secure than 2FA, and both are more secure than single-factor authentication (just a username and password).
+MFA is more secure than 2FA, and both are more secure than single-factor authentication (just a username and password). Always choose MFA over 2FA if it's available.
 
 # Artificial Intelligence (AI)
 If no AI haters exist, then I’m dead.
