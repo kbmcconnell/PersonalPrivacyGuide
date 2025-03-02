@@ -16,6 +16,9 @@
    3. [Extensions & Add-ons](#extensions--add-ons)
    4. [Website Cookies](#website-cookies)
    5. [VPNs](#vpns)
+   6. [Passwords](#passwords)
+   7. [Password Managers](#passwordmanagers)
+   8. [MFA/2FA](#mfa-2fa)
 
 # Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
@@ -299,7 +302,7 @@ Passwords saved in an encrypted app, extension, or software that requires login 
 
 If setting up a passkey is an option, choose it over a password. More information here.
 
-## Password managers
+## Password Managers
 **What:** Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
 
 **Why:** They enable you to save a lot of unique passwords that you don’t have to memorize.
