@@ -141,12 +141,12 @@ These resources will help:
 
 Some popular providers:
 
-- DeleteMe
-- Incogni
-- EasyOptOuts
-- Kanary
-- Optery
-  - concerns around OpenAI use
+- [DeleteMe](https://joindeleteme.com/)
+- [Incogni](https://incogni.com/)
+- [EasyOptOuts](https://easyoptouts.com/)
+- [Kanary](https://www.kanary.com/)
+- [Optery](https://www.optery.com/)
+  - [concerns around OpenAI use](https://www.reddit.com/r/Optery/comments/1flswcu/disappointed_in_optery_opting_customers_in_to/)
 
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
@@ -154,15 +154,15 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 ## Browsers
 
 ### Chrome
-Chrome is not recommended for privacy. Google harvests vast swaths of data, and Chrome will disable ad blockers with manifest v3.
+Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome will [disable ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
-If you use Chrome, here are some recommendations:
+If you must use Chrome, here are some recommendations:
 
 - use a VPN
 - turn off everything related to ads and tracking
 - change the default search engine to DuckDuckGo or another of your preference
 - turn on secure browsing
-- advanced security settings
+- [advanced security settings](https://support.google.com/chrome/answer/10468685?hl=en&co=GENIE.Platform%3DDesktop)
 - uBlock Origin Lite extension once uBlock Origin is disabled
 - use a password manager
 - block / reject third party cookies
@@ -170,7 +170,7 @@ If you use Chrome, here are some recommendations:
 ### Safari
 Apple does not allow you to uninstall Safari. If you want to use another browser, you only need to change the default browser in your settings.
 
-If you use Safari, here are some recommendations:
+If you must use Safari, here are some recommendations:
 
 - use a VPN
 - change the default search engine to DuckDuckGo or another of your preference
@@ -180,12 +180,12 @@ If you use Safari, here are some recommendations:
 - uBlock Origin
 - use a password manager
 
-Many privacy settings can be found here.
+Many privacy settings can be found [here](https://support.apple.com/en-mz/guide/safari/sfri35610/mac).
 
 ### Edge
 Much like Apple with Safari, Microsoft does not allow you to uninstall Edge. If you use another browser, I recommend the following:
 
-- change the browser used in taskbar search: https://www.youtube.com/watch?v=tSIyvUFdoyc
+- [change the browser used in taskbar search](https://www.youtube.com/watch?v=tSIyvUFdoyc)
 - disable Edge background services
 - disable startup features
 - block tracking you while you use other browsers: 
@@ -202,20 +202,22 @@ If you use Edge, here are some recommendations:
 - use a VPN
 - password manager (instead of saving them in the browser)
 
-More settings and information can be found here.
+More settings and information can be found [here](https://fingerprint.com/blog/edge-privacy-security-guide/).
 
 ### Tor Browser
+Download [here](https://www.torproject.org/download/)
 **Pros:**
 - best for privacy
 - best for anonymity
 - doesn’t require a VPN (in fact a VPN is not recommended)
-- mitigates fingerprinting
+- [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/)
 
 **Cons:**
 - add-ons/extensions not recommended, they might break the browser or compromise your privacy
 - slower performance
 
 ### Firefox
+Download [here](https://www.mozilla.org/en-US/firefox/)
 **Pros:**
 - good choice for privacy
 - user friendly
@@ -228,10 +230,11 @@ More settings and information can be found here.
 - less user friendly than Chrome
 
 ### Brave
+Download [here](https://brave.com/)
 **Pros:**
 - great for privacy
 - blocks ads by default
-- mitigates fingerprinting
+- [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/)
 
 **Cons:**
 - crypto settings turned on by default
@@ -239,6 +242,7 @@ More settings and information can be found here.
 - websites might break due to its strict privacy and ad blocking features
 
 ### DuckDuckGo
+Download [here](https://start.duckduckgo.com/)
 **Pros:**
 - user friendly
 - good for privacy
@@ -257,11 +261,13 @@ Google is one of the worst offenders when it comes to surveillance capitalism.
 - aggregates search results from Bing and DDG’s own indexing
 
 ### Start Page
+Download [here](https://www.startpage.com/en/)
 
 ### Brave
+Download [here](https://search.brave.com/)
 
 ### Kagi
-- paid service
+Download [here](https://kagi.com/)
 
 ## Extensions & add-ons
 Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
@@ -287,18 +293,18 @@ Think of cookies as identifiers that tie your browsing activity to you. There ar
 ## VPNs
 **What:** A VPN is a virtual private network that can encrypt your internet traffic and masks your IP address.
 
-**Why:** VPNs are useful when using public wifi or when you wish to mask your IP address while browsing the web. Reasons to mask your IP address.
+**Why:** VPNs are useful when using public wifi or when you wish to mask your IP address while browsing the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
 
 **What to look for:** Whether the VPN service logs/saves your activity and their reputation.
 
 Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Here are some providers who have been third party verified (based on this post) and are popular:
 
-- NordVPN
-- Surfshark
-- ExpressVPN
-- Proton
-- Mullvad
-- PIA
+- [NordVPN](https://nordvpn.com/)
+- [Surfshark](https://surfshark.com/)
+- [ExpressVPN](https://www.expressvpn.com/)
+- [Proton](https://protonvpn.com/)
+- [Mullvad](https://mullvad.net/en)
+- [PIA](https://www.privateinternetaccess.com/)
 
 Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you. Proton also accepts cash.
 
@@ -306,14 +312,14 @@ Mullvad accounts are randomly generated without your personal details, and they 
 
 **Consider this:** You post from a fake account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
 
-**Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out The Hitchhiker’s Guide.
+**Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
 ## Passwords
-Passwords saved in an encrypted app, extension, or software that requires login credentials and 2FA/MFA are safer than in your browser. Always change default passwords and avoid reusing passwords. CISA best practices guide.
+Passwords saved in an encrypted app, extension, or software that requires login credentials and 2FA/MFA are safer than in your browser. Always change default passwords and avoid reusing passwords. CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
 
 ### Passkeys
 
-If setting up a passkey is an option, choose it over a password. More information here.
+If setting up a passkey is an option, choose it over a password. More information [here](https://www.passkeys.com/passkey-vs-password).
 
 ## Password Managers
 **What:** Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
