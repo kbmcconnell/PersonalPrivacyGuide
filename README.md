@@ -332,10 +332,10 @@ Apple and Google Passwords are secure if that’s your preference. The downside 
 
 Some popular password managers:
 
-- Bitwarden
-- LastPass
-- NordPass
-- 1Password
+- [Bitwarden](https://bitwarden.com/)
+- [LastPass](https://www.lastpass.com/)
+- [NordPass](https://nordpass.com/)
+- [1Password](https://1password.com/)
 
 ## MFA / 2FA
 **What:** Multi-factor (MFA) and 2-factor (2FA) authentication are an extra step to verifying your identity when you log into something.
@@ -364,17 +364,17 @@ MFA is more secure than 2FA, and both are more secure than single-factor authent
 # Artificial Intelligence (AI)
 If no AI haters exist, then I’m dead.
 
-- privacy concerns
-- steals from artists/creatives
-- unsustainable resource consumption
-- generative AI uses more resources than task-specific tools
+- [privacy concerns](https://iapp.org/news/a/shaping-the-future-a-dynamic-taxonomy-for-ai-privacy-risks)
+- [steals from artists/creatives](https://www.latimes.com/opinion/story/2024-06-18/artificial-intelligence-openai-media-manager-apple)
+- [unsustainable resource consumption](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising)
+- [generative AI uses more resources than task-specific tools](https://www.rwdigital.ca/blog/how-much-energy-do-google-search-and-chatgpt-use/)
 
-AI can be a useful tool to those with disabilities, so abandoning it entirely is not an option for everyone. When most people think of AI, they think of generative AI, but narrow AI has been around for years. Generative AI poses a large risk to privacy. Here’s the difference.
+AI can be a useful tool to those with disabilities, so abandoning it entirely is not an option for everyone. When most people think of AI, they think of generative AI, but narrow AI has been around for years. Generative AI poses a large risk to privacy. [Here’s the difference](https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/).
 
 What you can do to protect your privacy:
 
 - opt out of AI training
-  - this Wired guide is a good place to start
+  - this [Wired guide](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/) is a good place to start
 - never provide personal information to AI tools like ChatGBT
 - disable unused AI features on your devices
 
@@ -390,16 +390,16 @@ With this in mind:
 - leave your phone and smartwatch at home when attending protests
 - consider disabling face ID / fingerprint when you’re outside of the home
 - if you are stopped by police, and it’s safe to do so, turn off your phone
-  - turning off your phone may prevent police from breaking into it with Cellebrite
+  - turning off your phone may prevent police from breaking into it with [Cellebrite](https://discuss.privacyguides.net/t/claims-made-by-forensics-companies-their-capabilities-and-how-grapheneos-fares/18445)
 - for the safety of Black folks and other POC, you need your phone available to record police interactions
   - you may want to disable face ID / fingerprint instead
-- on iOS, quickly disable face ID by triggering the “power off” screen, then canceling
-- on Android, you can enable lockdown mode from the lock screen
+- on iOS, quickly [disable face ID](https://www.phonearena.com/news/How-to-force-iPhone-to-require-passcode-quickly-temporarily-disable-Face-ID_id121758) by triggering the “power off” screen, then canceling
+- on Android, you can [enable lockdown mode from the lock screen](https://www.androidcentral.com/apps-software/how-to-disable-biometrics-on-your-android-phone-from-the-lock-screen)
 
 I highly recommend that you restart your phone every day.
 
 ## Phone Number Masking
-Alternative to giving your actual phone number out. This Proton blog post offers tips on what to look for.
+Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
 
 Some examples:
 
