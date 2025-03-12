@@ -423,6 +423,7 @@ Some examples:
 - [instructions]((https://www.businessinsider.com/guides/tech/how-to-turn-on-automatic-updates-on-iphone?op=1))
 
 ### 🔹 Turn on Advanced Data Protection
+- [instructions](https://support.apple.com/en-us/108756)
 
 ### 🔹 Push Notifications
 Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/).
