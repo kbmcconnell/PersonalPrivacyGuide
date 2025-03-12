@@ -14,24 +14,24 @@
 4. [Web Browsing](#-web-browsing)
    1. [Browsers](#-browsers)
    2. [Search Engines](#-search-engines)
-   3. [Extensions & Add-ons](#extensions--add-ons)
-   4. [Website Cookies](#website-cookies)
-   5. [VPNs](#vpns)
-   6. [Passwords](#passwords)
-   7. [Password Managers](#password-managers)
-   8. [MFA/2FA](#mfa--2fa)
-5. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-6. [Phones](#phones)
-   1. [Phone Number Masking](#phone-number-masking)
-   2. [iPhone Settings](#iphone-settings)
-   3. [Android Settings](#android-settings)
-   4. [Useful Apps](#useful-apps)
-   5. [Apps to Avoid](#apps-to-avoid)
-7. [Computers](#computers)
-   1. [MacOS Settings](#macos-settings)
-   2. [Windows Settings](#windows-settings)
-   3. [Cloud Storage](#cloud-storage)
-8. [Email](#email)
+   3. [Extensions & Add-ons](#-extensions--add-ons)
+   4. [Website Cookies](#-website-cookies)
+   5. [VPNs](#-vpns)
+   6. [Passwords](#-passwords)
+   7. [Password Managers](#-password-managers)
+   8. [MFA/2FA](#-mfa--2fa)
+5. [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
+6. [Phones](#-phones)
+   1. [Phone Number Masking](#-phone-number-masking)
+   2. [iPhone Settings](#-iphone-settings)
+   3. [Android Settings](#-android-settings)
+   4. [Useful Apps](#-useful-apps)
+   5. [Apps to Avoid](#-apps-to-avoid)
+7. [Computers](#-computers)
+   1. [MacOS Settings](#-macos-settings)
+   2. [Windows Settings](#-windows-settings)
+   3. [Cloud Storage](#-cloud-storage)
+8. [Email](#-email)
 
 | Symbol | Heading level |
 | ----------- | ----------- |
@@ -284,19 +284,19 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 - supports filters that prevent website tracking from sites like Facebook
 - uBlock Origin, along with other ad blockers, will be disabled when Chrome manifest v3 is released
 
-### uBlock Origin Lite
+### 🔹 uBlock Origin Lite
 - only use if uBlock Origin is unavailable
 
-### ClearURLs
+### 🔹 ClearURLs
 
-### Password manager
+### 🔹 Password manager
 
-### VPN
+### 🔹 VPN
 
-## Website cookies
+## 🔸 Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
-## VPNs
+## 🔸 VPNs
 **What:** A VPN is a virtual private network that can encrypt your internet traffic and masks your IP address.
 
 **Why:** VPNs are useful when using public wifi or when you wish to mask your IP address while browsing the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
@@ -320,14 +320,14 @@ Mullvad accounts are randomly generated without your personal details, and they 
 
 **Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
-## Passwords
+## 🔸 Passwords
 Passwords saved in an encrypted app, extension, or software that requires login credentials and 2FA/MFA are safer than in your browser. Always change default passwords and avoid reusing passwords. CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
 
-### Passkeys
+### 🔹 Passkeys
 
 If setting up a passkey is an option, choose it over a password. More information [here](https://www.passkeys.com/passkey-vs-password).
 
-## Password Managers
+## 🔸 Password Managers
 **What:** Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
 
 **Why:** They enable you to save a lot of unique passwords that you don’t have to memorize.
@@ -343,7 +343,7 @@ Some popular password managers:
 - [NordPass](https://nordpass.com/)
 - [1Password](https://1password.com/)
 
-## MFA / 2FA
+## 🔸 MFA / 2FA
 **What:** Multi-factor (MFA) and 2-factor (2FA) authentication are an extra step to verifying your identity when you log into something.
 
 **Why:** These measures help prevent unauthorized access to your accounts by requiring additional steps to log into an account.
@@ -367,7 +367,7 @@ Your username and password fall under the “something you know” authenticatio
 
 MFA is more secure than 2FA, and both are more secure than single-factor authentication (just a username and password). Always choose MFA over 2FA if it's available.
 
-# Artificial Intelligence (AI)
+# 🔶 Artificial Intelligence (AI)
 If no AI haters exist, then I’m dead.
 
 - [privacy concerns](https://iapp.org/news/a/shaping-the-future-a-dynamic-taxonomy-for-ai-privacy-risks)
@@ -384,7 +384,7 @@ What you can do to protect your privacy:
 - never provide personal information to AI tools like ChatGBT
 - disable unused AI features on your devices
 
-# Phones
+# 🔶 Phones
 **Important:** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
 
 **Testimonial act:** Providing a password or PIN is considered a testimonial act because it involves revealing potentially incriminating information.
@@ -404,7 +404,7 @@ With this in mind:
 
 I highly recommend that you restart your phone every day.
 
-## Phone Number Masking
+## 🔸 Phone Number Masking
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
 
 Some examples:
@@ -412,86 +412,86 @@ Some examples:
 - [Firefox Relay](https://relay.firefox.com/)
 - [Google Voice](https://voice.google.com/u/0/about)
 
-## iPhone Settings
+## 🔸 iPhone Settings
 
-### Turn on automatic updates
+### 🔹 Turn on automatic updates
 - regular software updates patch vulnerabilities
 - the latest versions may foil tools like Cellebrite and GrayKey
 - [instructions]((https://www.businessinsider.com/guides/tech/how-to-turn-on-automatic-updates-on-iphone?op=1))
 
-### Turn on Advanced Data Protection
+### 🔹 Turn on Advanced Data Protection
 
-### Push Notifications
+### 🔹 Push Notifications
 Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/).
 - [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842)
 
-### Turn on Two-Factor Authentication (2FA)
+### 🔹 Turn on Two-Factor Authentication (2FA)
 - [instructions](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios)
 
-### Set up Account Recovery
+### 🔹 Set up Account Recovery
 Save your key in a safe location like a fire safe or password manager. Do not save it on any of your Apple devices.
 - [instructions](https://support.apple.com/en-us/109345)
 
-### Face ID / Passcode Settings
+### 🔹 Face ID / Passcode Settings
 - [use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)
 - [Turn on ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)
 - [Disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)
 
-### Screen Time Settings
+### 🔹 Screen Time Settings
 - [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/)
   - this disables the ability to make changes to Passcode or Face ID and hides the option from your settings
   - to increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode
   - note: to make changes to Passcode & Face ID, you must turn this setting back on
 
-### Enable Find My tracking when the phone is turned off
+### 🔹 Enable Find My tracking when the phone is turned off
 - [instructions](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to)
 
-### Turn off ‘Location Services’
+### 🔹 Turn off ‘Location Services’
 Toggle off for any app that does not require your location for functionality and use “while using app” for everything else. Location data brokers.
 - [instructions](https://support.apple.com/en-us/102647)
 
-### Turn off ‘Allow Apps to Request to Track’
+### 🔹 Turn off ‘Allow Apps to Request to Track’
 - [instructions](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
-### Configure ‘Stolen device protection’
+### 🔹 Configure ‘Stolen device protection’
 - [instructions](https://support.apple.com/en-us/120340)
 
-### Turn off Airdrop
+### 🔹 Turn off Airdrop
 Or set to “Contacts Only.”
 - [instructions](https://support.apple.com/en-us/119857)
 
-## Android Settings
+## 🔸 Android Settings
 Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand the privacy and security settings available to you.
 
-### Notifications
+### 🔹 Notifications
 Don’t show any notifications or Hide silent conversations and notifications. Turn off sensitive notifications when locked.
 - [instructions](https://support.google.com/android/answer/9079661?hl=en)
 
-### Turn off ‘Web & App Activity’
+### 🔹 Turn off ‘Web & App Activity’
 - [instructions](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid)
 
-### Location
+### 🔹 Location
 Deny anything that doesn’t need your location, and turn on “while in use” for apps that need your location sometimes.
 - [instructions](https://support.google.com/accounts/answer/3467281?hl=en)
 
-### Turn off personalization
+### 🔹 Turn off personalization
 - [instructions](https://support.google.com/My-Ad-Center-Help/answer/12155656?hl=en&co=GENIE.Platform%3DAndroid#turn-on-or-off-personalized-ads)
 
-### 2FA
+### 🔹 Enable 2FA
 - [instructions](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid)
 
-### Device admin apps
+### 🔹 Device admin apps
 Disable admin privileges for apps that don’t require it.
 - [instructions](https://support.google.com/android/answer/9431959?hl=en)
 
-### Permission manager
+### 🔹 Permission manager
 Use this to review individual app permissions.
 - [same link as above](https://support.google.com/android/answer/9431959?hl=en)
 
-### Leave on automatic system updates
+### 🔹 Leave on automatic system updates
 Regular software updates patch vulnerabilities.
 
-## Useful Apps
+## 🔸 Useful Apps
 - [Privacy.com](https://www.privacy.com/)
 - [Signal](https://signal.org/download/)
 - [Threema](https://threema.ch/en)
@@ -499,7 +499,7 @@ Regular software updates patch vulnerabilities.
 - [Telegram](https://telegram.org/)
 - [Briar](https://briarproject.org/)
 
-## Apps to Avoid
+## 🔸 Apps to Avoid
 - Temu
   - [it’s basically malware](https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/)
 - Period trackers
@@ -512,16 +512,16 @@ Period tracker apps that store your data on your phone instead of the cloud:
 - [Euki](https://eukiapp.org/)
 - [Drip](https://bloodyhealth.gitlab.io/)
 
-# Computers
+# 🔶 Computers
 Most of you are probably not going to use Linux. I think Linux is the best option for security and usability. Consider [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/). This [TechRadar article](https://www.techradar.com/news/best-linux-distro-privacy-security) has some additional OS recommendations.
 
-## MacOS Settings
+## 🔸 MacOS Settings
 
-### FileVault
+### 🔹 FileVault
 Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
 - [instructions](https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac)
 
-### Antivirus
+### 🔹 Antivirus
 MacOS has built-in protection tools that help prevent malware from being installed. Here’s an [explanation](https://www.macworld.com/article/670537/do-macs-need-antivirus.html) of those features and their shortfalls.
 
 Some options available for MacOS:
@@ -531,26 +531,26 @@ Some options available for MacOS:
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Surfshark One](https://surfshark.com/one)
 
-### Updates
+### 🔹 Updates
 Regular software updates patch vulnerabilities.
 - [instructions](https://support.apple.com/guide/mac-help/keep-your-mac-up-to-date-mchlpx1065/mac)
 
-## Windows Settings
+## 🔸 Windows Settings
 
-### BitLocker
+### 🔹 BitLocker
 Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
 - [instructions]()
 
-### Turn off ‘Diagnostic data’
+### 🔹 Turn off ‘Diagnostic data’
 - [instructions]()
 
-### Turn off ‘Improve inking and typing’
+### 🔹 Turn off ‘Improve inking and typing’
 - [instructions]()
 
-### Turn off ‘Tailored experiences’
+### 🔹 Turn off ‘Tailored experiences’
 - [instructions]()
 
-### Antivirus
+### 🔹 Antivirus
 Windows Defender is built-in and enough for 99% of people. You may wish to supplement it if you’re torrenting or downloading unofficial software.
 
 Some options available for Windows:
@@ -560,11 +560,11 @@ Some options available for Windows:
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Surfshark One](https://surfshark.com/one)
 
-### Updates
+### 🔹 Updates
 Regular software updates patch vulnerabilities.
 - [instructions]()
 
-## Cloud Storage
+## 🔸 Cloud Storage
 The safest place your data can be stored is locally on your physical devices. If that’s not an option, it’s possible to improve cloud storage security.
 
 **What to look for:** End to end encryption and what information could be handed over if subpoenaed.
@@ -579,22 +579,22 @@ These companies are required to comply with local regulations if subpoenaed. Con
 - encrypt using 7zip
 - encrypt on MacOS
 
-# Email
+# 🔶 Email
 
-### Email masking
+### 🔹 Email masking
 - Firefox Relay
 
-### Use multiple accounts
+### 🔹 Use multiple accounts
 I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else.
 
-### Privacy-focused options
+### 🔹 Privacy-focused options
 - ProtonMail
 
-### Temporary email options
+### 🔹 Temporary email options
 - Emailnator
 - 10 minute mail
 
-# Resources
+# 🔶 Resources
 Here are some resources if you’d like to learn more.
 - Electronic Frontier Foundation
 - Privacy Rights Clearinghouse
