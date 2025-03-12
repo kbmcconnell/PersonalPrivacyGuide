@@ -8,8 +8,6 @@
    3. [Data Sharing](#-data-sharing)
    4. [Unused Accounts](#-unused-accounts)
    5. [Data Brokers](#-data-brokers)
-   6. [Manual Data Removal](#-manual-data-removal)
-   7. [Paid Data Removal](#-paid-data-removal)
 4. [Web Browsing](#-web-browsing)
    1. [Browsers](#-browsers)
    2. [Search Engines](#-search-engines)
