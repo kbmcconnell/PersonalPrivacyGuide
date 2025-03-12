@@ -212,6 +212,7 @@ More settings and information can be found [here](https://fingerprint.com/blog/e
 
 ### 🔹 Tor Browser
 Download [here](https://www.torproject.org/download/)
+
 **Pros:**
 - best for privacy
 - best for anonymity
@@ -224,6 +225,7 @@ Download [here](https://www.torproject.org/download/)
 
 ### 🔹 Firefox
 Download [here](https://www.mozilla.org/en-US/firefox/)
+
 **Pros:**
 - good choice for privacy
 - user friendly
@@ -237,6 +239,7 @@ Download [here](https://www.mozilla.org/en-US/firefox/)
 
 ### 🔹 Brave
 Download [here](https://brave.com/)
+
 **Pros:**
 - great for privacy
 - blocks ads by default
@@ -249,6 +252,7 @@ Download [here](https://brave.com/)
 
 ### 🔹 DuckDuckGo
 Download [here](https://start.duckduckgo.com/)
+
 **Pros:**
 - user friendly
 - good for privacy
