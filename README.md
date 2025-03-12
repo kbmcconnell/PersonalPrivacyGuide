@@ -2,7 +2,7 @@
 
 1. [Purpose](#-purpose)
 2. [TL;DR](#-tldr)
-3. [Reduce Public Data](#-reduce-public-data)
+3. [Reduce Publicly Available Data](#-reduce-publicly-available-data)
    1. [Social Media](#-social-media)
    2. [Public Records](#-public-records)
    3. [Data Sharing](#-data-sharing)
