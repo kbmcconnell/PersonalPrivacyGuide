@@ -68,7 +68,7 @@ There is a lot of information in this guide, so below is a succinct list of reco
 - Opt out of third party cookies, AI training, website tracking, and data & location services
 - Use applications/software that have end to end encryption (E2EE)
 
-# 🔶 Reduce Public Data
+# 🔶 Reduce Publicly Available Data
 Try Googling yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
@@ -114,7 +114,7 @@ Start here:
   - turn off location tracking
 - [opt out of prescreen offers](https://www.optoutprescreen.com/)
 
-## 🔸 Manual data removal
+### 🔸 Manual data removal
 **Pros:** 
 - free
 - most effective
@@ -131,7 +131,7 @@ These resources will help:
 - [Big Ass Data Broker Opt Out LIst Github](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Privacy Guides | Data Removal Services](https://www.privacyguides.org/en/data-broker-removals/)
 
-## 🔸 Paid data removal
+### 🔸 Paid data removal
 
 **What to look for:** How many data brokers they contact, reputation, and reporting.
 
