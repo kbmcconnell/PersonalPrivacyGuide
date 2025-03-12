@@ -405,6 +405,10 @@ With this in mind:
 
 I highly recommend that you restart your phone every day.
 
+### 🔹 General FYI
+Please, PLEASE turn off your public activity on apps like Venmo. There is no good reason for your transactions to be public.
+- [instructions for Venmo](https://www.wikihow.com/Delete-Venmo-History)
+
 ## 🔸 Phone Number Masking
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
 
@@ -412,10 +416,6 @@ Some examples:
 
 - [Firefox Relay](https://relay.firefox.com/)
 - [Google Voice](https://voice.google.com/u/0/about)
-
-### 🔹 General FYI
-Please, PLEASE turn off your public activity on apps like Venmo. There is no good reason for your transactions to be public.
-- [instructions for Venmo](https://www.wikihow.com/Delete-Venmo-History)
 
 ## 🔸 iPhone Settings
 
