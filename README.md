@@ -413,6 +413,10 @@ Some examples:
 - [Firefox Relay](https://relay.firefox.com/)
 - [Google Voice](https://voice.google.com/u/0/about)
 
+### 🔹 General FYI
+Please, PLEASE turn off your public activity on apps like Venmo. There is no good reason for your transactions to be public.
+- [instructions for Venmo](https://www.wikihow.com/Delete-Venmo-History)
+
 ## 🔸 iPhone Settings
 
 ### 🔹 Turn on automatic updates
