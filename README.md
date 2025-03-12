@@ -48,7 +48,7 @@ You deserve to control access to your personal information - who gets it, when i
 
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
-# TL;DR
+# 🔶 TL;DR
 I think the following will have the largest impact on improving your privacy and security:
 
 - Privacy-focused browser
@@ -80,7 +80,7 @@ Publicly available information about you can be used:
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
 
-## 🔸🔸 Social Media
+## 🔸 Social Media
 Here are some suggestions you can apply to all of your social media accounts:
 
 - remove personal details such as your employer, full name, relatives, gender identity, significant others, sexual orientation, etc
@@ -154,12 +154,12 @@ Some popular providers:
 - [Optery](https://www.optery.com/)
   - [concerns around OpenAI use](https://www.reddit.com/r/Optery/comments/1flswcu/disappointed_in_optery_opting_customers_in_to/)
 
-# Web Browsing
+# 🔶 Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
 
-## Browsers
+## 🔸 Browsers
 
-### Chrome
+### 🔹 Chrome
 Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome will [disable ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
 If you must use Chrome, here are some recommendations:
