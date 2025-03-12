@@ -48,7 +48,7 @@ You deserve to control access to your personal information - who gets it, when i
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
 # 🔶 TL;DR
-I think the following will have the largest impact on improving your privacy and security:
+There is a lot of information in this guide, so below is a succinct list of recommendations. I think the following will have the largest impact on improving your privacy and security:
 
 - Privacy-focused browser
   - **user-friendly:** Firefox with DuckDuckGo & uBlock Origin
