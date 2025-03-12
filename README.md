@@ -1,4 +1,3 @@
-## this is still a WIP
 # Table of Contents
 
 1. [Purpose](#-purpose)
@@ -543,16 +542,16 @@ Regular software updates patch vulnerabilities.
 
 ### 🔹 BitLocker
 Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
-- [instructions]()
+- [instructions](https://support.microsoft.com/en-us/windows/bitlocker-drive-encryption-76b92ac9-1040-48d6-9f5f-d14b3c5fa178)
 
 ### 🔹 Turn off ‘Diagnostic data’
-- [instructions]()
+- [instructions](https://learn.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization#diagnostic-data-settings)
 
 ### 🔹 Turn off ‘Improve inking and typing’
-- [instructions]()
+- [instructions](https://support.microsoft.com/en-us/windows/speech-voice-activation-inking-typing-and-privacy-149e0e60-7c93-dedd-a0d8-5731b71a4fef)
 
 ### 🔹 Turn off ‘Tailored experiences’
-- [instructions]()
+- [instructions](https://windowsloop.com/change-privacy-settings-in-windows-11/)
 
 ### 🔹 Antivirus
 Windows Defender is built-in and enough for 99% of people. You may wish to supplement it if you’re torrenting or downloading unofficial software.
@@ -564,46 +563,45 @@ Some options available for Windows:
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Surfshark One](https://surfshark.com/one)
 
-### 🔹 Updates
+### 🔹 Automatic Updates
 Regular software updates patch vulnerabilities.
-- [instructions]()
 
 ## 🔸 Cloud Storage
 The safest place your data can be stored is locally on your physical devices. If that’s not an option, it’s possible to improve cloud storage security.
 
 **What to look for:** End to end encryption and what information could be handed over if subpoenaed.
 
-iCloud, Google Drive, and OneDrive are considered safe, but you may want to activate advanced security settings. This Wired guide is a good starting point.
-- iCloud security overview
-- Google Drive key security controls
-- OneDrive security overview
+iCloud, Google Drive, and OneDrive are considered safe, but you may want to activate advanced security settings. This [Wired guide](https://www.wired.com/story/9-tips-cloud-storage-security/) is a good starting point.
+- [iCloud security overview](https://support.apple.com/en-us/102651)
+- [Google Drive key security controls](https://cloud.google.com/docs/security/overview/whitepaper#key_security_controls)
+- [OneDrive security overview](https://learn.microsoft.com/en-us/sharepoint/onedrive-privacy-security-overview)
 
 These companies are required to comply with local regulations if subpoenaed. Consider manually encrypting sensitive files/folders. Use a long, complex password and store it in a fire safe AND password manager.
-- encrypt on Windows
-- encrypt using 7zip
-- encrypt on MacOS
+- [encrypt on Windows](https://support.microsoft.com/en-us/windows/how-to-encrypt-a-file-1131805c-47b8-2e3e-a705-807e13c10da7)
+- [encrypt using 7zip](https://info.lse.ac.uk/staff/divisions/dts/help/guides-faqs/software/using-7-Zip-to-encrypt-and-decrypt-files)
+- [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
 
 # 🔶 Email
 
 ### 🔹 Email masking
-- Firefox Relay
+- [Firefox Relay](https://relay.firefox.com/)
 
 ### 🔹 Use multiple accounts
 I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else.
 
 ### 🔹 Privacy-focused options
-- ProtonMail
+- [ProtonMail](https://mail.proton.me/)
 
 ### 🔹 Temporary email options
-- Emailnator
-- 10 minute mail
+- [Emailnator](https://www.emailnator.com/)
+- [10 minute mail](https://10minutemail.com/)
 
 # 🔶 Resources
-Here are some resources if you’d like to learn more.
-- Electronic Frontier Foundation
-- Privacy Rights Clearinghouse
-- The Digital Standard
-- Surveillance Technology Oversight Project
-- Kaspersky
-- IntelTechniques
-- Privacy Guides
+Here are some great resources if you’d like to learn more.
+- [Electronic Frontier Foundation](https://www.eff.org/)
+- [Privacy Rights Clearinghouse](https://privacyrights.org/)
+- [The Digital Standard](https://thedigitalstandard.org/)
+- [Surveillance Technology Oversight Project](https://www.stopspying.org/)
+- [Kaspersky](https://usa.kaspersky.com/)
+- [IntelTechniques](https://inteltechniques.com/)
+- [Privacy Guides](https://www.privacyguides.org/en/)
