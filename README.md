@@ -390,14 +390,14 @@ What you can do to protect your privacy:
 # 🔶 Phones
 **Important:** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
 
-**Testimonial act:** Providing a password or PIN is considered a testimonial act because it involves revealing potentially incriminating information.
+**Testimonial act:** Providing a password or PIN is considered a testimonial act because it involves revealing potentially incriminating information. Testimonial acts are protected by the 5th amendment.
 
-**Nontestimonial act:** Using a fingerprint or facial recognition relies on physical characteristics instead of personal knowledge, and is therefore considered a nontestimonial act.
+**Nontestimonial act:** Using a fingerprint or facial recognition relies on physical characteristics instead of personal knowledge, and is therefore considered (in at least some recent court cases) a nontestimonial act. Nontestimonial acts are **not** protected by the 5th amendment.
 
 With this in mind:
 
 - leave your phone and smartwatch at home when attending protests
-- consider disabling face ID / fingerprint when you’re outside of the home
+- consider manually disabling face ID / fingerprint when you’re outside of the home
 - if you are stopped by police, and it’s safe to do so, turn off your phone
   - turning off your phone may prevent police from breaking into it with [Cellebrite](https://discuss.privacyguides.net/t/claims-made-by-forensics-companies-their-capabilities-and-how-grapheneos-fares/18445)
 - for the safety of Black folks and other POC, you need your phone available to record police interactions
