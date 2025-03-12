@@ -1,19 +1,19 @@
 ## this is still a WIP
 # Table of Contents
 
-1. [Purpose](#purpose)
-2. [TL;DR](#tldr)
-3. [Reduce Public Data](#reduce-public-data)
-   1. [Social Media](#social-media)
-   2. [Public Records](#public-records)
-   3. [Data Sharing](#data-sharing)
-   4. [Unused Accounts](#unused-accounts)
-   5. [Data Brokers](#data-brokers)
-   6. [Manual Data Removal](#manual-data-removal)
-   7. [Paid Data Removal](#paid-data-removal)
-4. [Web Browsing](#web-browsing)
-   1. [Browsers](#browsers)
-   2. [Search Engines](#search-engines)
+1. [Purpose](#-purpose)
+2. [TL;DR](#-tldr)
+3. [Reduce Public Data](#-reduce-public-data)
+   1. [Social Media](#-social-media)
+   2. [Public Records](#-public-records)
+   3. [Data Sharing](#-data-sharing)
+   4. [Unused Accounts](#-unused-accounts)
+   5. [Data Brokers](#-data-brokers)
+   6. [Manual Data Removal](#-manual-data-removal)
+   7. [Paid Data Removal](#-paid-data-removal)
+4. [Web Browsing](#-web-browsing)
+   1. [Browsers](#-browsers)
+   2. [Search Engines](#-search-engines)
    3. [Extensions & Add-ons](#extensions--add-ons)
    4. [Website Cookies](#website-cookies)
    5. [VPNs](#vpns)
@@ -36,8 +36,8 @@
 | Symbol | Heading level |
 | ----------- | ----------- |
 | 🔶 | heading 1 |
-| 🔸🔸 | heading 2 | 
-| 🔸🔸🔸 | heading 3 | 
+| 🔸 | heading 2 | 
+| 🔹 | heading 3 | 
 
 # 🔶 Purpose
 Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
@@ -69,7 +69,7 @@ I think the following will have the largest impact on improving your privacy and
 - Opt out of third party cookies, AI training, website tracking, and data & location services
 - Use applications/software that have end to end encryption (E2EE)
 
-# Reduce Public Data
+# 🔶 Reduce Public Data
 Try Googling yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
@@ -92,16 +92,16 @@ Here are some suggestions you can apply to all of your social media accounts:
 - disable third party cookies
 - make your profiles private
 
-## Public Records
+## 🔸 Public Records
 Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities.
 
-## Data sharing
+## 🔸 Data sharing
 Outside of social media, most websites you have an account with have privacy settings. For sites that allow it, opt out of third-party data sharing.
 
-## Unused accounts
+## 🔸 Unused accounts
 If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint.
 
-## Data brokers
+## 🔸 Data brokers
 Data brokers collect information about you to sell. People finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). You can manually request your information be deleted or pay for a removal service to contact them on your behalf. US government agencies [buy your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers.
 
 Most, if not all, people finder sites include a “known associates” section of your user profile, meaning the personal details of close friends, significant others, housemates, and others can easily be linked to you.
@@ -115,7 +115,7 @@ Start here:
   - turn off location tracking
 - [opt out of prescreen offers](https://www.optoutprescreen.com/)
 
-## Manual data removal
+## 🔸 Manual data removal
 **Pros:** 
 - free
 - most effective
@@ -132,7 +132,7 @@ These resources will help:
 - [Big Ass Data Broker Opt Out LIst Github](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Privacy Guides | Data Removal Services](https://www.privacyguides.org/en/data-broker-removals/)
 
-## Paid data removal
+## 🔸 Paid data removal
 
 **What to look for:** How many data brokers they contact, reputation, and reporting.
 
@@ -173,7 +173,7 @@ If you must use Chrome, here are some recommendations:
 - use a password manager
 - block / reject third party cookies
 
-### Safari
+### 🔹 Safari
 Apple does not allow you to uninstall Safari. If you want to use another browser, you only need to change the default browser in your settings.
 
 If you must use Safari, here are some recommendations:
@@ -188,7 +188,7 @@ If you must use Safari, here are some recommendations:
 
 Many privacy settings can be found [here](https://support.apple.com/en-mz/guide/safari/sfri35610/mac).
 
-### Edge
+### 🔹 Edge
 Much like Apple with Safari, Microsoft does not allow you to uninstall Edge. If you use another browser, I recommend the following:
 
 - [change the browser used in taskbar search](https://www.youtube.com/watch?v=tSIyvUFdoyc)
@@ -210,7 +210,7 @@ If you use Edge, here are some recommendations:
 
 More settings and information can be found [here](https://fingerprint.com/blog/edge-privacy-security-guide/).
 
-### Tor Browser
+### 🔹 Tor Browser
 Download [here](https://www.torproject.org/download/)
 **Pros:**
 - best for privacy
@@ -222,7 +222,7 @@ Download [here](https://www.torproject.org/download/)
 - add-ons/extensions not recommended, they might break the browser or compromise your privacy
 - slower performance
 
-### Firefox
+### 🔹 Firefox
 Download [here](https://www.mozilla.org/en-US/firefox/)
 **Pros:**
 - good choice for privacy
@@ -235,7 +235,7 @@ Download [here](https://www.mozilla.org/en-US/firefox/)
 - can use a lot of RAM
 - less user friendly than Chrome
 
-### Brave
+### 🔹 Brave
 Download [here](https://brave.com/)
 **Pros:**
 - great for privacy
@@ -247,7 +247,7 @@ Download [here](https://brave.com/)
 - small selection of extensions
 - websites might break due to its strict privacy and ad blocking features
 
-### DuckDuckGo
+### 🔹 DuckDuckGo
 Download [here](https://start.duckduckgo.com/)
 **Pros:**
 - user friendly
@@ -257,28 +257,28 @@ Download [here](https://start.duckduckgo.com/)
 - lack of extension support
 - DDG search engine pulls from Bing, which some users dislike
 
-## Search engines
+## 🔸 Search engines
 Google is one of the worst offenders when it comes to surveillance capitalism.
 
-### DuckDuckGo (DDG)
+### 🔹 DuckDuckGo (DDG)
 - most popular privacy-focused search engine
 - doesn’t link your IP address to your identity
 - blocks most third party cookies and trackers by default
 - aggregates search results from Bing and DDG’s own indexing
 
-### Start Page
+### 🔹 Start Page
 Download [here](https://www.startpage.com/en/)
 
-### Brave
+### 🔹 Brave
 Download [here](https://search.brave.com/)
 
-### Kagi
+### 🔹 Kagi
 Download [here](https://kagi.com/)
 
-## Extensions & add-ons
+## 🔸 Extensions & add-ons
 Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
 
-### uBlock Origin
+### 🔹 uBlock Origin
 - blocks ads
 - advanced mode can block scripts and is customizable
 - supports filters that prevent website tracking from sites like Facebook
