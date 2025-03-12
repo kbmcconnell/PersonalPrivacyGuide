@@ -606,3 +606,6 @@ Here are some great resources if you’d like to learn more.
 - [Kaspersky](https://usa.kaspersky.com/)
 - [IntelTechniques](https://inteltechniques.com/)
 - [Privacy Guides](https://www.privacyguides.org/en/)
+
+
+If you find this project useful and wish to show your appreciation, I'll happily accept a few bucks: [venmo](https://venmo.com/u/kristonisms)
