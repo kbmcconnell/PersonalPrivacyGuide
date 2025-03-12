@@ -403,121 +403,160 @@ Alternative to giving your actual phone number out. This Proton [blog post](http
 
 Some examples:
 
-- Mozilla Relay
-- Google Voice
+- [Firefox Relay](https://relay.firefox.com/)
+- [Google Voice](https://voice.google.com/u/0/about)
 
 ## iPhone Settings
 
 ### Turn on automatic updates
-- regular software updates patch vulnerabilities.
+- regular software updates patch vulnerabilities
 - the latest versions may foil tools like Cellebrite and GrayKey
+- [instructions]((https://www.businessinsider.com/guides/tech/how-to-turn-on-automatic-updates-on-iphone?op=1))
 
 ### Turn on Advanced Data Protection
 
 ### Push Notifications
-Push alerts from apps can be tied to your identity.
-- turn off notification previews while your phone is locked
+Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/).
+- [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842)
 
 ### Turn on Two-Factor Authentication (2FA)
+- [instructions](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios)
 
 ### Set up Account Recovery
 Save your key in a safe location like a fire safe or password manager. Do not save it on any of your Apple devices.
+- [instructions](https://support.apple.com/en-us/109345)
 
 ### Face ID / Passcode Settings
-- Passcode
-  - use a 6 digit passcode instead of 4
-  - consider using a password instead as it’s more secure
-- Turn on ‘Face ID Attention’
-- Turn on ‘Require passcode outside of your home’
-- Disable control center when the phone is locked
+- [use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)
+- [Turn on ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)
+- [Disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)
 
 ### Screen Time Settings
-- Set up ‘Allow changes to: Passcode & Face ID’
-  - This disables the ability to make changes to Passcode or Face ID and hides the option from your settings. To increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode.
+- [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/)
+  - this disables the ability to make changes to Passcode or Face ID and hides the option from your settings
+  - to increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode
+  - note: to make changes to Passcode & Face ID, you must turn this setting back on
 
 ### Enable Find My tracking when the phone is turned off
+- [instructions](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to)
 
 ### Turn off ‘Location Services’
 Toggle off for any app that does not require your location for functionality and use “while using app” for everything else. Location data brokers.
+- [instructions](https://support.apple.com/en-us/102647)
 
 ### Turn off ‘Allow Apps to Request to Track’
+- [instructions](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
 
-### Set up ‘Stolen device protection’
+### Configure ‘Stolen device protection’
+- [instructions](https://support.apple.com/en-us/120340)
 
 ### Turn off Airdrop
 Or set to “Contacts Only.”
+- [instructions](https://support.apple.com/en-us/119857)
 
 ## Android Settings
-Start here to understand the privacy and security settings available to you.
+Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand the privacy and security settings available to you.
 
 ### Notifications
 Don’t show any notifications or Hide silent conversations and notifications. Turn off sensitive notifications when locked.
+- [instructions](https://support.google.com/android/answer/9079661?hl=en)
 
 ### Turn off ‘Web & App Activity’
+- [instructions](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid)
 
 ### Location
 Deny anything that doesn’t need your location, and turn on “while in use” for apps that need your location sometimes.
+- [instructions](https://support.google.com/accounts/answer/3467281?hl=en)
 
 ### Turn off personalization
+- [instructions](https://support.google.com/My-Ad-Center-Help/answer/12155656?hl=en&co=GENIE.Platform%3DAndroid#turn-on-or-off-personalized-ads)
 
 ### 2FA
+- [instructions](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid)
 
 ### Device admin apps
 Disable admin privileges for apps that don’t require it.
+- [instructions](https://support.google.com/android/answer/9431959?hl=en)
 
 ### Permission manager
 Use this to review individual app permissions.
+- [same link as above](https://support.google.com/android/answer/9431959?hl=en)
 
-### Android updates
+### Leave on automatic system updates
 Regular software updates patch vulnerabilities.
 
 ## Useful Apps
-- Privacy.com
-- Signal
-- Threema
-- Session
-- Telegram
+- [Privacy.com](https://www.privacy.com/)
+- [Signal](https://signal.org/download/)
+- [Threema](https://threema.ch/en)
+- [Session](https://getsession.org/)
+- [Telegram](https://telegram.org/)
+- [Briar](https://briarproject.org/)
 
 ## Apps to Avoid
 - Temu
-  - It’s probably malware.
+  - [it’s basically malware](https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/)
 - Period trackers
-  - There is valid concern that data from period tracker apps could be used against someone who received an abortion. Even the Stardust app has been guilty of sharing user data. Here’s a 2022 Wired article that covers the concern around period tracker privacy. Clue scored the highest, but doesn’t support local storage, which is a key privacy feature you should look for.
+- DeepSeek
+  - [awful security practices](https://www.forbes.com/sites/torconstantino/2025/02/04/4-warnings-about-deepseek-you-need-to-know-before-using-it/)
 
-Tracker apps that store your data on your phone instead of the cloud:
-- Euki
-- Drip
+There is concern that data from period tracker apps could be used against someone who received an abortion. Even the Stardust app has been [guilty of sharing user data](https://techcrunch.com/2022/06/27/stardust-period-tracker-phone-number/). Here’s a 2022 [Wired article](https://www.wired.com/story/period-tracking-apps-flo-clue-stardust-ranked-data-privacy/) that covers the concern around period tracker privacy. Clue scored the highest, but doesn’t support local storage, which is a key privacy feature you should look for.
+
+Period tracker apps that store your data on your phone instead of the cloud:
+- [Euki](https://eukiapp.org/)
+- [Drip](https://bloodyhealth.gitlab.io/)
 
 # Computers
-Most of you are probably not going to use Linux. I think Linux is the best option for security and usability. Consider Debian or Ubuntu. This TechRadar article has some additional OS recommendations.
+Most of you are probably not going to use Linux. I think Linux is the best option for security and usability. Consider [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/). This [TechRadar article](https://www.techradar.com/news/best-linux-distro-privacy-security) has some additional OS recommendations.
 
 ## MacOS Settings
 
 ### FileVault
 Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
+- [instructions](https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac)
 
 ### Antivirus
-Not generally recommended. MacOS has built-in protection tools that help prevent malware from being installed. Here’s an explanation of those features and their shortfalls.
+MacOS has built-in protection tools that help prevent malware from being installed. Here’s an [explanation](https://www.macworld.com/article/670537/do-macs-need-antivirus.html) of those features and their shortfalls.
+
+Some options available for MacOS:
+
+- [NordVPN Threat Protection Pro](https://nordvpn.com/features/threat-protection/)
+- [Bitdefender](https://www.bitdefender.com/en-us/)
+- [Malwarebytes](https://www.malwarebytes.com/)
+- [Surfshark One](https://surfshark.com/one)
 
 ### Updates
 Regular software updates patch vulnerabilities.
+- [instructions](https://support.apple.com/guide/mac-help/keep-your-mac-up-to-date-mchlpx1065/mac)
 
 ## Windows Settings
 
 ### BitLocker
 Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
+- [instructions]()
 
 ### Turn off ‘Diagnostic data’
+- [instructions]()
 
 ### Turn off ‘Improve inking and typing’
+- [instructions]()
 
 ### Turn off ‘Tailored experiences’
+- [instructions]()
 
 ### Antivirus
 Windows Defender is built-in and enough for 99% of people. You may wish to supplement it if you’re torrenting or downloading unofficial software.
 
+Some options available for Windows:
+
+- [NordVPN Threat Protection Pro](https://nordvpn.com/features/threat-protection/)
+- [Bitdefender](https://www.bitdefender.com/en-us/)
+- [Malwarebytes](https://www.malwarebytes.com/)
+- [Surfshark One](https://surfshark.com/one)
+
 ### Updates
 Regular software updates patch vulnerabilities.
+- [instructions]()
 
 ## Cloud Storage
 The safest place your data can be stored is locally on your physical devices. If that’s not an option, it’s possible to improve cloud storage security.
