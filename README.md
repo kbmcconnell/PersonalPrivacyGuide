@@ -210,7 +210,7 @@ If you use Edge, here are some recommendations:
 More settings and information can be found [here](https://fingerprint.com/blog/edge-privacy-security-guide/).
 
 ### 🔹 Tor Browser
-Download [here](https://www.torproject.org/download/)
+Download [here](https://www.torproject.org/download/).
 
 **Pros:**
 - best for privacy
@@ -223,7 +223,7 @@ Download [here](https://www.torproject.org/download/)
 - slower performance
 
 ### 🔹 Firefox
-Download [here](https://www.mozilla.org/en-US/firefox/)
+Download [here](https://www.mozilla.org/en-US/firefox/).
 
 **Pros:**
 - good choice for privacy
@@ -237,7 +237,7 @@ Download [here](https://www.mozilla.org/en-US/firefox/)
 - less user friendly than Chrome
 
 ### 🔹 Brave
-Download [here](https://brave.com/)
+Download [here](https://brave.com/).
 
 **Pros:**
 - great for privacy
@@ -250,7 +250,7 @@ Download [here](https://brave.com/)
 - websites might break due to its strict privacy and ad blocking features
 
 ### 🔹 DuckDuckGo
-Download [here](https://start.duckduckgo.com/)
+Download [here](https://start.duckduckgo.com/).
 
 **Pros:**
 - user friendly
@@ -270,13 +270,13 @@ Google is one of the worst offenders when it comes to surveillance capitalism.
 - aggregates search results from Bing and DDG’s own indexing
 
 ### 🔹 Start Page
-Download [here](https://www.startpage.com/en/)
+Download [here](https://www.startpage.com/en/).
 
 ### 🔹 Brave
-Download [here](https://search.brave.com/)
+Download [here](https://search.brave.com/).
 
 ### 🔹 Kagi
-Download [here](https://kagi.com/)
+Download [here](https://kagi.com/).
 
 ## 🔸 Extensions & add-ons
 Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
