@@ -335,7 +335,7 @@ If setting up a passkey is an option, choose it over a password. More informatio
 
 **Why:** They enable you to save a lot of unique passwords that you don’t have to memorize.
 
-**What** to look for: Reputation, features, and recent security breaches.
+**What to look for:** Reputation, features, and recent security breaches.
 
 Apple and Google Passwords are secure if that’s your preference. The downside is if you lose access to your Apple ID or Google account, you’ll lose access to all of your passwords.
 
