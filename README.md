@@ -231,7 +231,6 @@ Download [here](https://www.mozilla.org/en-US/firefox/).
 
 **Cons:**
 - smaller selection of extensions than Chrome
-- can use a lot of RAM
 - less user friendly than Chrome
 
 ### 🔹 Brave
