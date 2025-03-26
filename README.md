@@ -89,6 +89,8 @@ Here are some suggestions you can apply to all of your social media accounts:
 - disable third party cookies
 - make your profiles private
 
+Avoid using "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead.
+
 ## 🔸 Public Records
 Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities.
 
@@ -97,6 +99,9 @@ Outside of social media, most websites you have an account with have privacy set
 
 ## 🔸 Unused accounts
 If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint.
+
+## 🔸 Photo metadata
+Remove photo metadata using [ExifTool](https://exiftool.org/). There's other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years.
 
 ## 🔸 Data brokers
 Data brokers collect information about you to sell. People finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). You can manually request your information be deleted or pay for a removal service to contact them on your behalf. US government agencies [buy your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers.
@@ -499,10 +504,12 @@ Regular software updates patch vulnerabilities.
 ## 🔸 Useful Apps
 - [Privacy.com](https://www.privacy.com/)
 - [Signal](https://signal.org/download/)
+  - turn on vanishing messages
 - [Threema](https://threema.ch/en)
 - [Session](https://getsession.org/)
 - [Telegram](https://telegram.org/)
 - [Briar](https://briarproject.org/)
+  - turn on vannishing messages
 
 ## 🔸 Apps to Avoid
 - Temu
@@ -584,6 +591,7 @@ These companies are required to comply with local regulations if subpoenaed. Con
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
 
 # 🔶 Email
+To start, do not use email to engage in sensitive conversations. Email was not designed to be secure. Engage in sensitive conversations in person or over secure messaging apps like Signal.
 
 ### 🔹 Email masking
 - [Firefox Relay](https://relay.firefox.com/)
