@@ -1,52 +1,25 @@
 # Table of Contents
 
-1. [Purpose](#-purpose)
-2. [TL;DR](#-tldr)
-3. [Reduce Publicly Available Data](#-reduce-publicly-available-data)
-   1. [Social Media](#-social-media)
-   2. [Public Records](#-public-records)
-   3. [Data Sharing](#-data-sharing)
-   4. [Unused Accounts](#-unused-accounts)
-   5. [Data Brokers](#-data-brokers)
-4. [Web Browsing](#-web-browsing)
-   1. [Browsers](#-browsers)
-   2. [Search Engines](#-search-engines)
-   3. [Extensions & Add-ons](#-extensions--add-ons)
-   4. [Website Cookies](#-website-cookies)
-   5. [VPNs](#-vpns)
-   6. [Passwords](#-passwords)
-   7. [Password Managers](#-password-managers)
-   8. [MFA/2FA](#-mfa--2fa)
-5. [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-6. [Phones](#-phones)
-   1. [Phone Number Masking](#-phone-number-masking)
-   2. [iPhone Settings](#-iphone-settings)
-   3. [Android Settings](#-android-settings)
-   4. [Useful Apps](#-useful-apps)
-   5. [Apps to Avoid](#-apps-to-avoid)
-7. [Computers](#-computers)
-   1. [MacOS Settings](#-macos-settings)
-   2. [Windows Settings](#-windows-settings)
-   3. [Cloud Storage](#-cloud-storage)
-8. [Email](#-email)
+1. [TL;DR](#-tldr)
+2. [Reduce Publicly Available Data](#-reduce-publicly-available-data)
+3. [Web Browsing](#-web-browsing)
+4. [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
+5. [Phones](#-phones)
+6. [Computers](#-computers)
+7. [Email](#-email)
 
-| Symbol | Heading level |
-| ----------- | ----------- |
-| 🔶 | heading 1 |
-| 🔸 | heading 2 | 
-| 🔹 | heading 3 | 
+---
 
-# 🔶 Purpose
-Corporations, through surveillance capitalism, harvest your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
+Surveillance capitalism harvests your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
 
 As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
-You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you get started. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
+You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take back some control. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
 # 🔶 TL;DR
-There is a lot of information in this guide, so below is a succinct list of recommendations. I think the following will have the largest impact on improving your privacy and security:
+There's a lot of information here, so below are some best practices and recommendations. I think the following will have the largest impact on improving your privacy and security:
 
 - Privacy-focused browser
   - **user-friendly:** Firefox with DuckDuckGo & uBlock Origin
