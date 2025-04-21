@@ -1,12 +1,12 @@
 # Table of Contents
 
 1. [TL;DR](#tldr)
-2. [Reduce Publicly Available Data](#reduce-publicly-available-data)
+2. [Reduce Publicly Available Data](#reduce-digital-footprint)
 3. [Web Browsing](#web-browsing)
 4. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 5. [Phones](#phones)
-6. [Computers](#-computers)
-7. [Email](#-email)
+6. [Computers](#computers)
+7. [Email](#email)
 
 ---
 
@@ -39,7 +39,7 @@ There's a lot of information here, so below are some best practices and recommen
 - Opt out of third party cookies, AI training, website tracking, and data & location services
 - Use applications/software that have end to end encryption (E2EE)
 
-# Reduce Publicly Available Data
+# Reduce Digital Footprint
 Try Googling yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
@@ -134,19 +134,14 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 
 ## Browsers
 
-### Chrome
-Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome will [disable ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
+Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome has [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
-If you must use Chrome, here are some recommendations:
-
-- use a VPN
-- turn off everything related to ads and tracking
-- change the default search engine to DuckDuckGo or another of your preference
-- turn on secure browsing
-- [advanced security settings](https://support.google.com/chrome/answer/10468685?hl=en&co=GENIE.Platform%3DDesktop)
-- uBlock Origin Lite extension once uBlock Origin is disabled
-- use a password manager
-- block / reject third party cookies
+| Browser | Pros | Cons | Explanation |
+| --- | --- | --- | --- |
+| Tor | <ul><li>best for privacy</li><li>best for anonymity</li><li>[mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/)<li></ul> | tbd | tbd |
+| Firefox | tbd | tbd | tbd |
+| Brave | tbd | tbd | tbd |
+| DuckDuckGo | tbd | tbd | tbd |
 
 ### Safari
 Apple does not allow you to uninstall Safari. If you want to use another browser, you only need to change the default browser in your settings.
