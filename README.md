@@ -136,12 +136,12 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 
 Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome has [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
-| Browser | Pros | Cons | Explanation |
-| --- | --- | --- | --- |
-| Tor | <ul><li>best for privacy</li><li>best for anonymity</li><li>[mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/)<li></ul> | tbd | tbd |
-| Firefox | tbd | tbd | tbd |
-| Brave | tbd | tbd | tbd |
-| DuckDuckGo | tbd | tbd | tbd |
+| Browser | Explanation |
+| --- | --- |
+| [Tor](https://www.torproject.org/download/) | tbd |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | tbd |
+| [Brave](https://brave.com/) | tbd |
+| [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
 
 ### Safari
 Apple does not allow you to uninstall Safari. If you want to use another browser, you only need to change the default browser in your settings.
