@@ -1,10 +1,10 @@
 # Table of Contents
 
-1. [TL;DR](#-tldr)
-2. [Reduce Publicly Available Data](#-reduce-publicly-available-data)
-3. [Web Browsing](#-web-browsing)
-4. [Artificial Intelligence (AI)](#-artificial-intelligence-ai)
-5. [Phones](#-phones)
+1. [TL;DR](#tldr)
+2. [Reduce Publicly Available Data](#reduce-publicly-available-data)
+3. [Web Browsing](#web-browsing)
+4. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+5. [Phones](#phones)
 6. [Computers](#-computers)
 7. [Email](#-email)
 
