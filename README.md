@@ -132,6 +132,16 @@ Some popular providers:
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
 
+| Action | Priority | Explanation |
+| --- | --- | --- |
+| Privacy-focused browser | tbd | tbd |
+| Privacy-focused search engine | tbd | tbd |
+| VPN | tbd | tbd |
+| Password manager | tbd | tbd |
+| Extensions | tbd | tbd |
+| tbd | tbd | tbd |
+| tbd | tbd | tbd |
+
 ## Browsers
 
 Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome has [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
@@ -143,42 +153,7 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 | [Brave](https://brave.com/) | tbd |
 | [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
 
-### Safari
-Apple does not allow you to uninstall Safari. If you want to use another browser, you only need to change the default browser in your settings.
-
-If you must use Safari, here are some recommendations:
-
-- use a VPN
-- change the default search engine to DuckDuckGo or another of your preference
-- turn off everything related to ads and tracking
-- block / reject third party cookies
-- turn on hide your IP
-- uBlock Origin
-- use a password manager
-
 Many privacy settings can be found [here](https://support.apple.com/en-mz/guide/safari/sfri35610/mac).
-
-### Edge
-Much like Apple with Safari, Microsoft does not allow you to uninstall Edge. If you use another browser, I recommend the following:
-
-- [change the browser used in taskbar search](https://www.youtube.com/watch?v=tSIyvUFdoyc)
-- disable Edge background services
-- disable startup features
-- block tracking you while you use other browsers: 
-
-If you use Edge, here are some recommendations:
-
-- turn on tracking prevention
-- turn on send “do not track” requests
-- turn off optional diagnostic data
-- you need to have optional diagnostic data turned off in your Windows settings
-- turn off personalization & advertising
-- use uBlock Origin
-- change the default search engine to DuckDuckGo or another of your preference
-- use a VPN
-- password manager (instead of saving them in the browser)
-
-More settings and information can be found [here](https://fingerprint.com/blog/edge-privacy-security-guide/).
 
 ### Tor Browser
 Download [here](https://www.torproject.org/download/).
@@ -233,20 +208,18 @@ Download [here](https://start.duckduckgo.com/).
 ## Search engines
 Google is one of the worst offenders when it comes to surveillance capitalism.
 
+| Search engine | Explanation |
+| --- | --- |
+| [DuckDuckgo](https://duckduckgo.com/) | tbd |
+| [Start Page](https://www.startpage.com/en/) | tbd |
+| [Brave](https://search.brave.com/) | tbd |
+| [Kagi](https://kagi.com/) | tbd |
+
 ### DuckDuckGo (DDG)
 - most popular privacy-focused search engine
 - doesn’t link your IP address to your identity
 - blocks most third party cookies and trackers by default
 - aggregates search results from Bing and DDG’s own indexing
-
-### Start Page
-Download [here](https://www.startpage.com/en/).
-
-### Brave
-Download [here](https://search.brave.com/).
-
-### Kagi
-Download [here](https://kagi.com/).
 
 ## Extensions & add-ons
 Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
@@ -262,10 +235,6 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 
 ### ClearURLs
 
-### Password manager
-
-### VPN
-
 ## Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
@@ -278,12 +247,14 @@ Think of cookies as identifiers that tie your browsing activity to you. There ar
 
 Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Here are some providers who have been third party verified (based on this post) and are popular:
 
-- [NordVPN](https://nordvpn.com/)
-- [Surfshark](https://surfshark.com/)
-- [ExpressVPN](https://www.expressvpn.com/)
-- [Proton](https://protonvpn.com/)
-- [Mullvad](https://mullvad.net/en)
-- [PIA](https://www.privateinternetaccess.com/)
+| VPN | Details |
+| --- | --- |
+| [NordVPN](https://nordvpn.com/) | tbd |
+| [Proton](https://protonvpn.com/) | tbd |
+| [Mullvad](https://mullvad.net/en) | tbd |
+| [Surfshark](https://surfshark.com/) | tbd |
+| [ExpressVPN](https://www.expressvpn.com/) | tbd |
+| [PIA](https://www.privateinternetaccess.com/) | tbd |
 
 Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you. Proton also accepts cash.
 
@@ -295,6 +266,13 @@ Mullvad accounts are randomly generated without your personal details, and they 
 
 ## Passwords
 Passwords saved in an encrypted app, extension, or software that requires login credentials and 2FA/MFA are safer than in your browser. Always change default passwords and avoid reusing passwords. CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
+
+| Action | Priority | Explanation |
+| --- | --- | --- |
+| Password strength | Highest | tbd |
+| Passkeys | Highest | tbd |
+| Password manager | Highest | tbd |
+| MFA / 2FA | Highest | tbd |
 
 ### Passkeys
 
