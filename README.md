@@ -269,7 +269,8 @@ Passwords saved in an encrypted app, extension, or software that requires login 
 
 | Action | Priority | Explanation |
 | --- | --- | --- |
-| Password strength | Highest | tbd |
+| Strong passwords | Highest | tbd |
+| Unique Passwords | Highest | tbd |
 | Passkeys | Highest | tbd |
 | Password manager | Highest | tbd |
 | MFA / 2FA | Highest | tbd |
@@ -304,7 +305,7 @@ Some popular password managers:
 There are four **types** of authentication, and a variety of **methods** to achieve each type.
 
 | Type | Method(s) |
-| ----------- | ----------- |
+| --- | --- |
 | something you know | password, PIN, security questions |
 | something you have | one time password (OTP), authenticator app | 
 | something you are | biometrics such as face ID or fingerprint | 
@@ -353,11 +354,13 @@ With this in mind:
 - on iOS, quickly [disable face ID](https://www.phonearena.com/news/How-to-force-iPhone-to-require-passcode-quickly-temporarily-disable-Face-ID_id121758) by triggering the “power off” screen, then canceling
 - on Android, you can [enable lockdown mode from the lock screen](https://www.androidcentral.com/apps-software/how-to-disable-biometrics-on-your-android-phone-from-the-lock-screen)
 
-I highly recommend that you restart your phone every day.
-
-### General FYI
-Please, PLEASE turn off your public activity on apps like Venmo. There is no good reason for your transactions to be public.
-- [instructions for Venmo](https://www.wikihow.com/Delete-Venmo-History)
+| Action | Explanation |
+| --- | --- |
+| Daily restart | tbd |
+| Automatic updates | Regular software updates patch vulnerabilities. The latest versions may foil tools like Cellebrite and GrayKey | 
+| Public activity | Turn off your public activity on apps like Venmo. There's no good reason for your transations to be public. This activity can be used to tie you to others. [Instructions](https://www.wikihow.com/Delete-Venmo-History) | 
+| Tracking | tbd |
+| Location services | tbd |
 
 ## Phone Number Masking
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
@@ -369,20 +372,20 @@ Some examples:
 
 ## iPhone Settings
 
-### Turn on automatic updates
-- regular software updates patch vulnerabilities
-- the latest versions may foil tools like Cellebrite and GrayKey
-- [instructions]((https://www.businessinsider.com/guides/tech/how-to-turn-on-automatic-updates-on-iphone?op=1))
-
-### Turn on Advanced Data Protection
-- [instructions](https://support.apple.com/en-us/108756)
-
-### Push Notifications
-Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/).
-- [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842)
-
-### Turn on Two-Factor Authentication (2FA)
-- [instructions](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios)
+| Action | Explanation |
+| --- | --- |
+| [Enable Advanced Data Protection](https://support.apple.com/en-us/108756) | tbd |
+| Push notifications | Consider turning off push notifications. Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
+| [Enable 2FA](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
+| [Set up Account Recovery](https://support.apple.com/en-us/109345) | tbd |
+| Face ID | tbd |
+| Passcode | tbd |
+| Screen Time | tbd |
+| Find My | tbd |
+| Location Services | tbd |
+| Disable 'Allow Apps to Request to Track' | tbd |
+| Configure 'Stolen device protection' | tbd |
+| Airdrop | tbd |
 
 ### Set up Account Recovery
 Save your key in a safe location like a fire safe or password manager. Do not save it on any of your Apple devices.
