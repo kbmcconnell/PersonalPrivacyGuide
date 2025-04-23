@@ -148,62 +148,10 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 
 | Browser | Explanation |
 | --- | --- |
-| [Tor](https://www.torproject.org/download/) | tbd |
+| [Tor](https://www.torproject.org/download/) | Tor [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/). |
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | tbd |
-| [Brave](https://brave.com/) | tbd |
+| [Brave](https://brave.com/) | Brave [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/). |
 | [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
-
-Many privacy settings can be found [here](https://support.apple.com/en-mz/guide/safari/sfri35610/mac).
-
-### Tor Browser
-Download [here](https://www.torproject.org/download/).
-
-**Pros:**
-- best for privacy
-- best for anonymity
-- doesn’t require a VPN (in fact a VPN is not recommended)
-- [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/)
-
-**Cons:**
-- add-ons/extensions not recommended, they might break the browser or compromise your privacy
-- slower performance
-
-### Firefox
-Download [here](https://www.mozilla.org/en-US/firefox/).
-
-**Pros:**
-- good choice for privacy
-- user friendly
-- near feature parity with Chrome
-- supports many add-ons and extensions
-
-**Cons:**
-- smaller selection of extensions than Chrome
-- less user friendly than Chrome
-
-### Brave
-Download [here](https://brave.com/).
-
-**Pros:**
-- great for privacy
-- blocks ads by default
-- [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/)
-
-**Cons:**
-- crypto settings turned on by default
-- small selection of extensions
-- websites might break due to its strict privacy and ad blocking features
-
-### DuckDuckGo
-Download [here](https://start.duckduckgo.com/).
-
-**Pros:**
-- user friendly
-- good for privacy
-
-**Cons:**
-- lack of extension support
-- DDG search engine pulls from Bing, which some users dislike
 
 ## Search engines
 Google is one of the worst offenders when it comes to surveillance capitalism.
@@ -214,12 +162,6 @@ Google is one of the worst offenders when it comes to surveillance capitalism.
 | [Start Page](https://www.startpage.com/en/) | tbd |
 | [Brave](https://search.brave.com/) | tbd |
 | [Kagi](https://kagi.com/) | tbd |
-
-### DuckDuckGo (DDG)
-- most popular privacy-focused search engine
-- doesn’t link your IP address to your identity
-- blocks most third party cookies and trackers by default
-- aggregates search results from Bing and DDG’s own indexing
 
 ## Extensions & add-ons
 Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
@@ -258,14 +200,14 @@ Select a VPN provider that does not log your activity. Confirm they don’t save
 
 Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you. Proton also accepts cash.
 
-**Important:** People have the false impression that a VPN will keep them completely anonymous regardless of their online activity. This is incorrect.
+**Important:** A VPN does *not* keep your online activity completely anonymous.
 
 **Consider this:** You post from a fake account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
 
 **Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
 ## Passwords
-Passwords saved in an encrypted app, extension, or software that requires login credentials and 2FA/MFA are safer than in your browser. Always change default passwords and avoid reusing passwords. CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
+For more detailed information, see CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
 
 | Action | Priority | Explanation |
 | --- | --- | --- |
@@ -361,6 +303,9 @@ With this in mind:
 | Public activity | Turn off your public activity on apps like Venmo. There's no good reason for your transations to be public. This activity can be used to tie you to others. [Instructions](https://www.wikihow.com/Delete-Venmo-History) | 
 | Tracking | tbd |
 | Location services | tbd |
+| Phone number masking | tbd |
+| tbd | tbd |
+| tbd | tbd |
 
 ## Phone Number Masking
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
@@ -374,22 +319,18 @@ Some examples:
 
 | Action | Explanation |
 | --- | --- |
-| [Enable Advanced Data Protection](https://support.apple.com/en-us/108756) | tbd |
+| [Advanced Data Protection](https://support.apple.com/en-us/108756) | tbd |
 | Push notifications | Consider turning off push notifications. Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
 | [Enable 2FA](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
-| [Set up Account Recovery](https://support.apple.com/en-us/109345) | tbd |
+| [Account Recovery](https://support.apple.com/en-us/109345) | tbd |
 | Face ID | tbd |
 | Passcode | tbd |
 | Screen Time | tbd |
-| Find My | tbd |
+| Find My | Enable Find My device tracking even when the device is turned off. [Instructions](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to). |
 | Location Services | tbd |
-| Disable 'Allow Apps to Request to Track' | tbd |
-| Configure 'Stolen device protection' | tbd |
+| [Allow Apps to Request to Track](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios) | tbd |
+| [Stolen device protection](https://support.apple.com/en-us/120340) | tbd |
 | Airdrop | tbd |
-
-### Set up Account Recovery
-Save your key in a safe location like a fire safe or password manager. Do not save it on any of your Apple devices.
-- [instructions](https://support.apple.com/en-us/109345)
 
 ### Face ID / Passcode Settings
 - [use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)
@@ -402,18 +343,9 @@ Save your key in a safe location like a fire safe or password manager. Do not sa
   - to increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode
   - note: to make changes to Passcode & Face ID, you must turn this setting back on
 
-### Enable Find My tracking when the phone is turned off
-- [instructions](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to)
-
 ### Turn off ‘Location Services’
 Toggle off for any app that does not require your location for functionality and use “while using app” for everything else. Location data brokers.
 - [instructions](https://support.apple.com/en-us/102647)
-
-### Turn off ‘Allow Apps to Request to Track’
-- [instructions](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios)
-
-### Configure ‘Stolen device protection’
-- [instructions](https://support.apple.com/en-us/120340)
 
 ### Turn off Airdrop
 Or set to “Contacts Only.”
@@ -421,6 +353,16 @@ Or set to “Contacts Only.”
 
 ## Android Settings
 Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand the privacy and security settings available to you.
+
+| Action | Explanation |
+| --- | --- |
+| Notifications | tbd |
+| Web & App Activity | tbd |
+| Location | tbd |
+| Personalization | tbd |
+| Enable 2FA | tbd |
+| Permission manager | tbd |
+| tbd | tbd |
 
 ### Notifications
 Don’t show any notifications or Hide silent conversations and notifications. Turn off sensitive notifications when locked.
@@ -446,9 +388,6 @@ Disable admin privileges for apps that don’t require it.
 ### Permission manager
 Use this to review individual app permissions.
 - [same link as above](https://support.google.com/android/answer/9431959?hl=en)
-
-### Leave on automatic system updates
-Regular software updates patch vulnerabilities.
 
 ## Useful Apps
 - [Privacy.com](https://www.privacy.com/)
