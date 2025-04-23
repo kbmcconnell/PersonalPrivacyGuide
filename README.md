@@ -49,20 +49,15 @@ Publicly available information about you can be used:
 - to stalk or harass you
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
-
-## Social Media
-Here are some suggestions you can apply to all of your social media accounts:
-
-- remove personal details such as your employer, full name, relatives, gender identity, significant others, sexual orientation, etc
-- avoid sharing detailed personal information in social media comments
-- opt out of data sharing
-- block access to your location
-- block access to your address book
-- disable cross-website tracking
-- disable third party cookies
-- make your profiles private
-
-Avoid using "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead.
+ 
+| Data | Action |
+| --- | --- |
+| Social media | <ul><li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li><li>avoid sharing detailed personal information in social media comments</li><li>opt out of data sharing</li><li>block access to your location</li><li>block access to your address book</li><li>disable cross-website tracking</li><li>disable third party cookies</li><li>make your profile private</li><li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li></ul> |
+| tbd | tbd |
+| tbd | tbd |
+| tbd | tbd |
+| tbd | tbd |
+| tbd | tbd |
 
 ## Public Records
 Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities.
@@ -139,6 +134,8 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | VPN | tbd | tbd |
 | Password manager | tbd | tbd |
 | Extensions | tbd | tbd |
+| Cookies | tbd | tbd |
+| Third party tracking | tbd | tbd |
 | tbd | tbd | tbd |
 | tbd | tbd | tbd |
 
@@ -304,7 +301,7 @@ With this in mind:
 | Tracking | tbd |
 | Location services | tbd |
 | Phone number masking | tbd |
-| tbd | tbd |
+| Biometrics | tbd |
 | tbd | tbd |
 
 ## Phone Number Masking
@@ -504,4 +501,4 @@ Here are some great resources if you’d like to learn more.
 - [IntelTechniques](https://inteltechniques.com/)
 - [Privacy Guides](https://www.privacyguides.org/en/)
 
-If you find this project useful and wish to show your appreciation, I'll happily accept a few bucks: [venmo](https://venmo.com/u/kristonisms)
+If you find this project useful and wish to show your appreciation, I'll gladly accept a few bucks: [venmo](https://venmo.com/u/kristonisms)
