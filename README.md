@@ -50,51 +50,30 @@ Publicly available information about you can be used:
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
  
-| Data | Action |
+| Accessible Data | Action |
 | --- | --- |
 | Social media | <ul><li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li><li>avoid sharing detailed personal information in social media comments</li><li>opt out of data sharing</li><li>block access to your location</li><li>block access to your address book</li><li>disable cross-website tracking</li><li>disable third party cookies</li><li>make your profile private</li><li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li></ul> |
+| [Google activity](https://myactivity.google.com/myactivity) | tbd  |
+| [Google account](https://myaccount.google.com) | Turn off YouTube history. Turn off personalization. Turn off location tracking |
+| Prescreen offers | [opt out of prescreen offers](https://www.optoutprescreen.com/) |
+| Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. |
+| Privacy settings | Outside of social media, most websites you have an account with have privacy settings. For sites that allow it, opt out of third-party data sharing. |
+| Unused accounts | If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint. |
+| Photo metadata | Remove photo metadata using [ExifTool](https://exiftool.org/). There's other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years. |
 | tbd | tbd |
 | tbd | tbd |
-| tbd | tbd |
-| tbd | tbd |
-| tbd | tbd |
-
-## Public Records
-Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities.
-
-## Data sharing
-Outside of social media, most websites you have an account with have privacy settings. For sites that allow it, opt out of third-party data sharing.
-
-## Unused accounts
-If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint.
-
-## Photo metadata
-Remove photo metadata using [ExifTool](https://exiftool.org/). There's other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years.
 
 ## Data brokers
 Data brokers collect information about you to sell. People finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). You can manually request your information be deleted or pay for a removal service to contact them on your behalf. US government agencies [buy your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers.
 
 Most, if not all, people finder sites include a “known associates” section of your user profile, meaning the personal details of close friends, significant others, housemates, and others can easily be linked to you.
 
-Start here:
-
-- [modify your Google Activity settings](https://myactivity.google.com/myactivity)
-- [Google Account](https://myaccount.google.com)
-  - turn off YouTube history
-  - turn off personalization
-  - turn off location tracking
-- [opt out of prescreen offers](https://www.optoutprescreen.com/)
-
 ### Manual data removal
-**Pros:** 
-- free
-- most effective
-- you control the information you share with the data brokers
-
-**Cons:** 
-- time-consuming
-- requires regular follow up
-- not 100% effective
+| Pros | Cons |
+| --- | --- |
+| free | time-consuming |
+| most effective | requires regular follow up |
+| you control the information<br> you share with the data brokers | not 100% effective |
 
 These resources will help:
 
@@ -103,17 +82,12 @@ These resources will help:
 - [Privacy Guides | Data Removal Services](https://www.privacyguides.org/en/data-broker-removals/)
 
 ### Paid data removal
+| Pros | Cons |
+| --- | --- |
+| significantly less<br> time-consuming | ongoing subscription |
+| regular reporting | may still require<br> some manual removal |
 
 **What to look for:** How many data brokers they contact, reputation, and reporting.
-
-**Pros:** 
-- significantly less time-consuming
-- most offer regular reporting
-
-**Cons:**
-- ongoing subscription
-- you will likely have to manually reach out to some data brokers anyway
-- service may unintentionally provide data brokers too much of your information
 
 Some popular providers:
 
