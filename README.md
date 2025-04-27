@@ -265,6 +265,7 @@ With this in mind:
 - for the safety of Black folks and other POC, you need your phone available to record police interactions
   - you may want to disable face ID / fingerprint instead
 - on iOS, quickly [disable face ID](https://www.phonearena.com/news/How-to-force-iPhone-to-require-passcode-quickly-temporarily-disable-Face-ID_id121758) by triggering the “power off” screen, then canceling
+  - this will also work if you rapidly hit the power button 5 times
 - on Android, you can [enable lockdown mode from the lock screen](https://www.androidcentral.com/apps-software/how-to-disable-biometrics-on-your-android-phone-from-the-lock-screen)
 
 | Action | Explanation |
