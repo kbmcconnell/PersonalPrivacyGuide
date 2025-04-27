@@ -54,7 +54,7 @@ Publicly available information about you can be used:
 | --- | --- |
 | Social media | <ul><li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li><li>avoid sharing detailed personal information in social media comments</li><li>opt out of data sharing</li><li>block access to your location</li><li>block access to your address book</li><li>disable cross-website tracking</li><li>disable third party cookies</li><li>make your profile private</li><li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li></ul> |
 | [Google activity](https://myactivity.google.com/myactivity) | tbd  |
-| [Google account](https://myaccount.google.com) | Turn off YouTube history. Turn off personalization. Turn off location tracking |
+| [Google account](https://myaccount.google.com) | Turn off YouTube history. Turn off personalization. Turn off location tracking. Here are some more ways to (de-Google your life)[https://proton.me/blog/how-to-de-google]. |
 | Prescreen offers | [opt out of prescreen offers](https://www.optoutprescreen.com/) |
 | Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. |
 | Privacy settings | Outside of social media, most websites you have an account with have privacy settings. For sites that allow it, opt out of third-party data sharing. |
