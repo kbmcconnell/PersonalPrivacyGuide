@@ -159,13 +159,11 @@ Select a VPN provider that does not log your activity. Confirm they don’t save
 | VPN | Details |
 | --- | --- |
 | [NordVPN](https://nordvpn.com/) | tbd |
-| [Proton](https://protonvpn.com/) | tbd |
-| [Mullvad](https://mullvad.net/en) | tbd |
+| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly. |
+| [Mullvad](https://mullvad.net/en) | Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you. |
 | [Surfshark](https://surfshark.com/) | tbd |
 | [ExpressVPN](https://www.expressvpn.com/) | tbd |
 | [PIA](https://www.privateinternetaccess.com/) | tbd |
-
-Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you. Proton also accepts cash.
 
 **Important:** A VPN does *not* keep your online activity completely anonymous.
 
@@ -174,7 +172,7 @@ Mullvad accounts are randomly generated without your personal details, and they 
 **Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
 ## Passwords
-For more detailed information, see CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
+For more information, see CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
 
 | Action | Priority | Explanation |
 | --- | --- | --- |
