@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [TL;DR](#tldr)
-2. [Reduce Publicly Available Data](#reduce-digital-footprint)
+2. [Reduce Digital Footprint](#reduce-digital-footprint)
 3. [Web Browsing](#web-browsing)
 4. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 5. [Phones](#phones)
@@ -50,18 +50,15 @@ Publicly available information about you can be used:
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
  
-| Accessible Data | Action |
+| Topic | Action |
 | --- | --- |
-| Social media | <ul><li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li><li>avoid sharing detailed personal information in social media comments</li><li>opt out of data sharing</li><li>block access to your location</li><li>block access to your address book</li><li>disable cross-website tracking</li><li>disable third party cookies</li><li>make your profile private</li><li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li></ul> |
-| [Google activity](https://myactivity.google.com/myactivity) | tbd  |
-| [Google account](https://myaccount.google.com) | Turn off YouTube history. Turn off personalization. Turn off location tracking. Here are some more ways to (de-Google your life)[https://proton.me/blog/how-to-de-google]. |
+| Social media | Social media sites are major offenders when it comes to leaking your personal data. They're incentivized to get as much information about you as possible to serve you personalized ads and maximize the money they earn from you. Your data, your enagement, and your attention are worth billions to these companies. The best option is to delete your social media accounts, which admittedly is unappealing and in some cases impossible. Instead, there are actions you can take that will reduce how much of your information these sites get from you.<br><br><ul><li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li><li>avoid sharing detailed personal information in social media comments</li><li>opt out of (third party) data sharing - this may be framed as "personalization"</li><li>block access to your location</li><li>block access to your address book</li><li>disable cross-website tracking</li><li>disable third party cookies</li><li>make your profile private</li><li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li></ul> |
+| [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br><ul><li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li><li>turn off [personalized ads](https://myadcenter.google.com)</li><li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li><li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li></ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google). |
 | Prescreen offers | [opt out of prescreen offers](https://www.optoutprescreen.com/) |
 | Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. |
 | Privacy settings | Outside of social media, most websites you have an account with have privacy settings. For sites that allow it, opt out of third-party data sharing. |
 | Unused accounts | If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint. |
 | Photo metadata | Remove photo metadata using [ExifTool](https://exiftool.org/). There's other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years. |
-| tbd | tbd |
-| tbd | tbd |
 
 ## Data brokers
 Data brokers collect information about you to sell. People finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). You can manually request your information be deleted or pay for a removal service to contact them on your behalf. US government agencies [buy your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers.
