@@ -13,7 +13,7 @@
 
 Surveillance capitalism harvests your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
 
-As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
+As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take back some control. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
@@ -22,31 +22,22 @@ You deserve to control access to your personal information - who gets it, when i
 # TL;DR
 There's a lot of information here, so below are some best practices and recommendations. I think the following will have the largest impact on improving your privacy and security:
 
-- Privacy-focused browser
-  - **user-friendly:** Firefox with DuckDuckGo & uBlock Origin
-  - **best for privacy:** Tor with DuckDuckGo
-    - VPNs and extensions are not recommended with Tor
-- “No user logs” VPN
-  - **user-friendly:** Proton
-  - **best for privacy:** Mullvad
-- Password manager
-  - **user-friendly:** NordPass or 1Password
-  - **offers free tier:** Bitwarden
-- Enable MFA / 2FA on everything
-- Social media
-  - **best:** delete them
-  - **good:** remove personal information & make accounts private
-- Remove your personal information from data broker databases
-- Opt out of third party cookies, AI training, website tracking, and data & location services for everything
-  - apps, phone settings, computer settings, websites you have an account with, web browser, etc
-- Use applications/software that have end to end encryption (E2EE)
-- Stop using Google
+| Action | Recommendation |
+| --- | --- |
+| Privacy-focused<br>browser & search engine | <ul> <li>**popular:** Firefox with DuckDuckGo</li> <li>**best for privacy:** Tor with DuckDuckGo</li> </ul> |
+| “No user logs” VPN | <ul> <li>**user-friendly:** NordVPN or Proton</li> <li>**best for privacy:** Mullvad</li> </ul> |
+| Password manager | Stop reusing passwords. The best option is to use randomly generated, long, complex passwords. A password manager will help<br><ul> <li>**user-friendly:** NordPass or 1Password</li> <li>**offers free tier:** Bitwarden</li> </ul> |
+| MFA / 2FA | Enable for everything |
+| Social media | <ul> <li>**best:** delete them</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
+| Website privacy settings | Opt out of third party cookies, AI training, website tracking, and data & location services for everything |
+| Data brokers | Remove your personal information from data broker databases |
+| Apps & software | Use applications/software that have end to end encryption (E2EE) |
+| Google | Stop using it - [how to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
 Try Googling yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
-
 - in targeted ads
 - to [dox you](https://en.wikipedia.org/wiki/Doxing#:~:text=Doxing%20or%20doxxing%20is%20the,Internet%20and%20without%20their%20consent.)
 - to stalk or harass you
@@ -55,8 +46,8 @@ Publicly available information about you can be used:
  
 | Topic | Action |
 | --- | --- |
-| Social media | Social media sites are basically information-harvesting tools. Your personal information, activity, enagement, and attention are worth billions. You can combat this by deleting your social media accounts, which is my recommendation. I understand that's very unappealing, so instead, there are some actions you can take that will reduce how much of your information they harvest.<br><br><ul><li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li><li>avoid sharing detailed personal information in social media comments</li><li>opt out of (third party) data sharing - this may be framed as "personalization"</li><li>block access to your location</li><li>block access to your address book</li><li>disable cross-website tracking</li><li>disable third party cookies</li><li>make your profile private</li><li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li><li>specific instructions for Facebook / Meta will be below</li></ul> |
-| [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br><ul><li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li><li>turn off [personalized ads](https://myadcenter.google.com)</li><li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li><li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li></ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google). |
+| Social media | Social media sites are basically information-harvesting tools. Your personal information, activity, enagement, and attention are worth billions. You can combat this by deleting your social media accounts, which is my recommendation. I understand that's very unappealing, so instead, there are some actions you can take that will reduce how much of your information they harvest.<br><br> <ul> <li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li> <li>avoid sharing detailed personal information in social media comments</li> <li>opt out of (third party) data sharing - this may be framed as "personalization"</li> <li>block access to your location</li> <li>block access to your address book</li> <li>disable cross-website tracking</li> <li>disable third party cookies</li> <li>make your profile private</li> <li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li> <li>specific instructions for Facebook / Meta will be below</li> </ul> |
+| [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br ><ul> <li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li> <li>turn off [personalized ads](https://myadcenter.google.com)</li> <li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li> <li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li> </ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google). |
 | [Prescreen offers](https://consumer.ftc.gov/articles/prescreened-credit-insurance-offers) | You can opt out of prescreen offers [here](https://www.optoutprescreen.com/). You may want to consider freezing your credit with the 3 major credit bureaus as well. Info on that can be found [here](https://www.usa.gov/credit-freeze). |
 | Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. |
 | Privacy settings | Outside of social media, most websites you have an account with have privacy settings. There is no easy way to do this, but you will need to visit each website you have an account with and manually change your privacy settings to opt out of persaonization, diagnostic data sharing, third party data sharing, and anything else that could link your information or activity to you (whether it's anonymized or not). |
@@ -64,7 +55,7 @@ Publicly available information about you can be used:
 | Photo metadata | Photos have metadata that can contain lots of information about what device was used to take the photo, location data, and more. Remove photo metadata using [ExifTool](https://exiftool.org/). There are other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years. |
 | Data brokers | Data brokers are entities who collect information about you to sell. They exist in different forms and buy/sell different types of data to build profiles on you, the consumer. For example, people finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). Removing your information from data broker databases is a multi-step process that will take a lot of effort to accomplish, but is well-worth the energy to reduce who has access to your data. There are plenty of reasons to delete your information from these databases and prevent future information from being sold. One example is that US government agencies have been found to be [buying your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers. |
 | End to end encryption (E2EE) | Encryption is meant to keep prying eyes from accessing data without permission. For example, if you send an unencrypted text message to your friend, it could be intercepted and read by an unknown third party. Think of encryption as a process that scrambles the content of your message, so even if a third party snags the text, your message would be unreadable. Not all encryption is created equal, and here is a guide (TBD) I wrote about it. Prioritize apps and software that utlize E2EE. Encrypt your phone and computers (more details in their respective sections). |
-| Internet of Things (IoT) devices | For the love of all things holy, you do **not** need a bluetooth toothbrush that tells you your brushing habits! Nearly ALL smart devices and activity & wellness apps sell your data to advertisers. |
+| Internet of Things (IoT) devices | For the love of all things holy, you do **not** need a bluetooth toothbrush that tells you your brushing habits! Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers. |
 
 ## Meta (Facebook, Instagram, Whatsapp)
 Meta is just here to get your data and make money. Here are some tips to fix that.
@@ -73,17 +64,8 @@ Meta is just here to get your data and make money. Here are some tips to fix tha
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. The best thing you can do for your privacy is:
 - opt out of third party data sharing on everything
 - delete unnecessary apps
-- stop relying on IoT devices
+- reduce the amount of IoT devices you use
 - verify the type of data your smart devices gather and share with third parties (and opt out where possible)
-
-### IoT and Smart Devic
-Here are some well-known examples of apps and devices that share user data. I recommend finding alternatives and/or researching your options for reducing what informaton is shared by them.
-
-| Device | Information shared |
-| --- | --- |
-| Fitbit | tbd |
-| tbd | tbd |
-| tbd | tbd |
 
 ### Manual data removal
 | Pros | Cons |
@@ -93,7 +75,6 @@ Here are some well-known examples of apps and devices that share user data. I re
 | you control the information<br> shared with the data brokers | not 100% effective |
 
 These resources will help:
-
 - [IntelTechniques Data Removal Guide](https://inteltechniques.com/workbook.html)
 - [Big Ass Data Broker Opt Out LIst Github](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 - [Privacy Guides | Data Removal Services](https://www.privacyguides.org/en/data-broker-removals/)
@@ -111,6 +92,15 @@ Some popular providers:
 - [EasyOptOuts](https://easyoptouts.com/)
 - [Kanary](https://www.kanary.com/)
 - [Optery](https://www.optery.com/)
+
+### IoT and Smart Devices
+Here are some well-known examples of devices that share user data. I recommend finding alternatives and/or researching your options for reducing what informaton is shared by them. I will get into apps in the Phones section.
+
+| Device | Information shared |
+| --- | --- |
+| Fitbit | tbd |
+| Ring | tbd |
+| tbd | tbd |
 
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
@@ -136,6 +126,8 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | tbd |
 | [Brave](https://brave.com/) | Brave [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/). |
 | [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
+
+## Fingerprinting
 
 ## Search engines
 Google is one of the worst offenders when it comes to surveillance capitalism.
@@ -299,7 +291,6 @@ Some examples:
 - [Google Voice](https://voice.google.com/u/0/about)
 
 ## iPhone Settings
-
 | Action | Explanation |
 | --- | --- |
 | [Advanced Data Protection](https://support.apple.com/en-us/108756) | tbd |
@@ -468,6 +459,7 @@ To start, do not use email to engage in sensitive conversations. Email was not d
 ### Email masking
 - [Firefox Relay](https://relay.firefox.com/)
 - [Apple iCloud+ Hide My Email](https://support.apple.com/guide/iphone/create-and-manage-hide-my-email-addresses-iphcb02e76f7/ios)
+- Startmail
 
 ### Use multiple accounts
 I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else.
