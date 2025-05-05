@@ -456,6 +456,14 @@ These companies are required to comply with local regulations if subpoenaed. Con
 # Email
 To start, do not use email to engage in sensitive conversations. Email was not designed to be secure. Engage in sensitive conversations in person or over secure messaging apps like Signal.
 
+| Action | Explanation |
+| --- | --- |
+| Email masking | tbd |
+| Newsletters | tbd |
+| Multiple accounts | tbd |
+| Privacy-focused options | tbd |
+| Temporary options | tbd |
+
 ### Email masking
 - [Firefox Relay](https://relay.firefox.com/)
 - [Apple iCloud+ Hide My Email](https://support.apple.com/guide/iphone/create-and-manage-hide-my-email-addresses-iphcb02e76f7/ios)
