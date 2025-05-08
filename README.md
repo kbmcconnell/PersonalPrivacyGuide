@@ -11,7 +11,7 @@
 
 ---
 
-Surveillance capitalism harvests your personal information for profit. That data is often gathered without your explicit informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
+Your personal information is worth a lot of money. That information is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
 
 As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
 
