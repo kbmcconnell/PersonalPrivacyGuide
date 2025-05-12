@@ -11,7 +11,9 @@
 
 ---
 
-Your personal information is worth a lot of money. That information is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
+A note: this guide focuses primarily on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
+
+Your personal information is incredibly valuable. To you, scammers, businesses, the government, and more. Your information is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
 
 As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
 
@@ -236,7 +238,7 @@ Your username and password fall under the “something you know” authenticatio
 MFA is more secure than 2FA, and both are more secure than single-factor authentication (just a username and password). Always choose MFA over 2FA if it's available.
 
 # Artificial Intelligence (AI)
-If no AI haters exist, then I’m dead.
+There are good reasons to be concerned about how much of personal information generative AI consumes.
 
 - [privacy concerns](https://iapp.org/news/a/shaping-the-future-a-dynamic-taxonomy-for-ai-privacy-risks)
 - [steals from artists/creatives](https://www.latimes.com/opinion/story/2024-06-18/artificial-intelligence-openai-media-manager-apple)
