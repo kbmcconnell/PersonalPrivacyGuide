@@ -34,10 +34,10 @@ There's a lot of information here, so below are some best practices and recommen
 | Website privacy settings | Opt out of third party cookies, AI training, website tracking, and data & location services for everything |
 | Data brokers | Remove your personal information from data broker databases and reduce the amount of information you give to social media + websites |
 | Apps & software | Use applications/software that have end to end encryption (E2EE) |
-| Google | Stop using it - [how to de-Google your life](https://proton.me/blog/how-to-de-google) |
+| Google | Stop using their products as much as you can - [how to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
-Try Googling yourself and look at the results. What did you find?
+Try Googline yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
 - in targeted ads
