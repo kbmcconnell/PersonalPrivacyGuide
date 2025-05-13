@@ -296,20 +296,20 @@ Some examples:
 - [Google Voice](https://voice.google.com/u/0/about)
 
 ## iPhone Settings
-| Action | Explanation |
-| --- | --- |
-| [Advanced Data Protection](https://support.apple.com/en-us/108756) | tbd |
-| Push notifications | Consider turning off push notifications. Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
-| [Enable 2FA](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
-| [Account Recovery](https://support.apple.com/en-us/109345) | tbd |
-| Face ID | tbd |
-| Passcode | tbd |
-| Screen Time | tbd |
-| Find My | Enable Find My device tracking even when the device is turned off. [Instructions](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to). |
-| Location Services | tbd |
-| [Allow Apps to Request to Track](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios) | tbd |
-| [Stolen device protection](https://support.apple.com/en-us/120340) | tbd |
-| Airdrop | tbd |
+| Setting | Action | Details |
+| --- | --- | --- |
+| Advanced Data Protection | [toggle off](https://support.apple.com/en-us/108756) | tbd |
+| Push notifications | Consider turning off push notifications. | Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
+| 2FA | [enable](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
+| Account Recovery | [turn on](https://support.apple.com/en-us/109345) | tbd |
+| Face ID | tbd | tbd |
+| Passcode | tbd | tbd |
+| Screen Time | tbd | tbd |
+| Find My | [enable](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to) Find My device tracking even when the device is turned off | tbd |
+| Location Services | tbd | tbd |
+| Allow Apps to Request to Track | [disable](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios) | tbd |
+| Stolen device protection | [enable](https://support.apple.com/en-us/120340) | tbd |
+| Airdrop | tbd | tbd |
 
 ### Face ID / Passcode Settings
 - [use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)
