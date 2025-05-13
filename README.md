@@ -60,14 +60,14 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) devices | For the love of all things holy, you do **not** need a bluetooth toothbrush that tells you your brushing habits! Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers. |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Meta is just here to get your data and make money. Here are some tips to fix that.
+Meta is just here to get your data and make money from it.
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. The best thing you can do for your privacy is:
 - opt out of third party data sharing on everything
 - delete unnecessary apps
 - reduce the amount of IoT devices you use
-- verify the type of data your smart devices gather and share with third parties (and opt out where possible)
+- verify the type of data your smart devices (and apps) gather and share with third parties (and opt out where possible)
 
 ### Manual data removal
 | Pros | Cons |
@@ -107,22 +107,22 @@ Here are some well-known examples of devices that share user data. I recommend f
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
 
-| Action | Priority | Explanation |
+| Action | Priority | Details |
 | --- | --- | --- |
-| Privacy-focused browser | tbd | tbd |
-| Privacy-focused search engine | tbd | tbd |
-| VPN | tbd | tbd |
-| Password manager | tbd | tbd |
-| Extensions | tbd | tbd |
+| Privacy-focused browser | Highest | A privacy-focused browser is the starting point to improving your data privacy. Many of these browsers have features turned on by default that put your data privacy front and center. They might mitigate fingerprinting, block third party cookies and cross-site tracking, mask your IP address, and more. |
+| Privacy-focused search engine | Highest | tbd |
+| VPN | High | tbd |
+| Password manager | Very High | tbd |
+| Extensions | Optional | tbd |
 | Cookies | tbd | tbd |
 | Third party tracking | tbd | tbd |
 | tbd | tbd | tbd |
 | tbd | tbd | tbd |
 
 ## Browsers
-Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome has [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
+Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
-| Browser | Explanation |
+| Browser | Details |
 | --- | --- |
 | [Tor](https://www.torproject.org/download/) | Tor [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/). |
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | tbd |
@@ -132,9 +132,9 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 ## Fingerprinting
 
 ## Search engines
-Google is one of the worst offenders when it comes to surveillance capitalism.
+There are many great alternatives to Google.
 
-| Search engine | Explanation |
+| Search engine | Details |
 | --- | --- |
 | [DuckDuckgo](https://duckduckgo.com/) | tbd |
 | [Start Page](https://www.startpage.com/en/) | tbd |
