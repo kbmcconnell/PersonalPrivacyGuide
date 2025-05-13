@@ -159,13 +159,13 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
 ## VPNs
-**What:** A VPN is a virtual private network that can encrypt your internet traffic and masks your IP address.
+**What:** A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address.
 
-**Why:** VPNs are useful when using public wifi or when you wish to mask your IP address while browsing the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
+**Why:** VPNs are useful when you wish to mask your IP address while on the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
 
 **What to look for:** Whether the VPN service logs/saves your activity and their reputation.
 
-Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone (hint: [Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal)) Here are some providers who have been third party verified (based on this post) and are popular:
+Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?) Here are some providers who have been third party verified and are popular:
 
 | VPN | Details |
 | --- | --- |
@@ -182,16 +182,19 @@ Select a VPN provider that does not log your activity. Confirm they don’t save
 
 **Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
+Most internet users don't really need to use a VPN in their day to day life. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
+
 ## Passwords
 For more information, see CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
 
 | Action | Priority | Explanation |
 | --- | --- | --- |
-| Strong passwords | Highest | tbd |
-| Unique Passwords | Highest | tbd |
+| Strong passwords | Highest | The longer and more complex your password is, the more difficult it is to guess. You want to aim for at least 16 characters, with a mix of upper case, lower case, numbers, and symbols. Randomly generated passwords are best (then you just save them to a password manager). For passwords you need to memorize, I recommend using a phrase you can easily remember, but that isn't easily guessable. For example "WeWent2TheMoon&Mars?" - it's a short phrase, has everything you'd want in a password, and meets the 16 character minimum. |
+| Unique Passwords | Highest | Use a different password for everything. If you utlize a password manager, then there's no need to memorize the password for every application or website you have an account with. When you reuse passwords, if your credentials for one website leak, then it puts all of your other accounts with the same credentials at risk. |
 | Passkeys | Highest | tbd |
-| Password manager | Highest | tbd |
+| Password manager | Highest | You likely have dozens of accounts that require login credentials. It's an unavoidable fact of the modern era. If you have more than a handful of accounts with login credentials, then you pretty much need a password manager. It's the way way to generate random passwords and to manage credentials for dozens of websites. |
 | MFA / 2FA | Highest | tbd |
+| Single Sign On (SSO) | tbd | tbd |
 
 ### Passkeys
 
