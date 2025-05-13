@@ -298,7 +298,7 @@ Some examples:
 ## iPhone Settings
 | Setting | Action | Details |
 | --- | --- | --- |
-| Advanced Data Protection | [toggle off](https://support.apple.com/en-us/108756) | tbd |
+| Advanced Data Protection | [toggle on](https://support.apple.com/en-us/108756) | tbd |
 | Push notifications | Consider turning off push notifications. | Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
 | 2FA | [enable](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
 | Account Recovery | [turn on](https://support.apple.com/en-us/109345) | tbd |
