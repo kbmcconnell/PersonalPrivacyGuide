@@ -11,13 +11,13 @@
 
 ---
 
-A note: this guide focuses primarily on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
+**A note**: this guide focuses primarily on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Before diving in, consider what your needs are and what you want to get out of this. It's impossible for most people to completely decouple their lives from technology. It's up to you to determine your risk tolerence; every measure you take to improve your cybersecurity and privacy will add some friction to your daily life.
 
-Your personal information is incredibly valuable. To you, scammers, businesses, the government, and more. Your information is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. These tactics ensure you don’t understand the breadth of data being collected, how it’s being used, or who gets access to it.
+Your personal information is incredibly valuable. To you, scammers, businesses, the government, and more. Your data is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more.
 
 As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
 
-You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take back some control. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
+You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
@@ -34,7 +34,7 @@ There's a lot of information here, so below are some best practices and recommen
 | Website privacy settings | Opt out of third party cookies, AI training, website tracking, and data & location services for everything |
 | Data brokers | Remove your personal information from data broker databases and reduce the amount of information you give to social media + websites |
 | Apps & software | Use applications/software that have end to end encryption (E2EE) |
-| Google | Stop using their products as much as you can - [how to de-Google your life](https://proton.me/blog/how-to-de-google) |
+| Google | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
 Try Googline yourself and look at the results. What did you find?
@@ -46,7 +46,7 @@ Publicly available information about you can be used:
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
  
-| Topic | Action |
+| Topic | Details |
 | --- | --- |
 | Social media | Social media sites are basically information-harvesting tools. Your personal information, activity, enagement, and attention are worth billions. You can combat this by deleting your social media accounts and/or reducing how much of your information they have access to.<br><br> <ul> <li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li> <li>avoid sharing detailed personal information in social media comments</li> <li>opt out of (third party) data sharing - this may be framed as "personalization"</li> <li>block access to your location</li> <li>block access to your address book</li> <li>disable cross-website tracking</li> <li>disable third party cookies</li> <li>make your profile private</li> <li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li> <li>specific instructions for Facebook / Meta will be below</li> </ul> |
 | [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br ><ul> <li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li> <li>turn off [personalized ads](https://myadcenter.google.com)</li> <li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li> <li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li> </ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google). |
@@ -63,7 +63,7 @@ Publicly available information about you can be used:
 Meta is just here to get your data and make money from it.
 
 ## Data brokers
-This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. The best thing you can do for your privacy is:
+This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture. The best thing you can do for your privacy is:
 - opt out of third party data sharing on everything
 - delete unnecessary apps
 - reduce the amount of IoT devices you use
@@ -97,12 +97,6 @@ Some popular providers:
 
 ### IoT and Smart Devices
 Here are some well-known examples of devices that share user data. I recommend finding alternatives and/or researching your options for reducing what informaton is shared by them. I will get into apps in the Phones section.
-
-| Device | Information shared |
-| --- | --- |
-| Fitbit | tbd |
-| Ring | tbd |
-| tbd | tbd |
 
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
