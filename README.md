@@ -67,7 +67,7 @@ Facebook and Instagram collect a lot of data on you, here are some recommendatio
 
 | Action item | Details |
 | --- | --- |
-| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>turn on 2FA</li> <li>turn on Advanced Protection</li> <li></li> </ul> |
+| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>enable 2FA</li> <li>enable Advanced Protection</li> <li></li> </ul> |
 | [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li></li> <li></li> <li></li> </ul> |
 | [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
 | [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li></li> <li></li> <li></li> </ul> |
@@ -304,11 +304,11 @@ Some examples:
 ## iPhone Settings
 | Setting | Action | Details |
 | --- | --- | --- |
-| Advanced Data Protection | [toggle on](https://support.apple.com/en-us/108756) | tbd |
-| Push notifications | disable | Consider turning off push notifications. Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
+| Advanced Data Protection | [enable](https://support.apple.com/en-us/108756) | tbd |
+| Push notifications | consider disabling | Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
 | 2FA | [enable](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
-| Account Recovery | [turn on](https://support.apple.com/en-us/109345) | tbd |
-| Face ID / Passcode | <ul> <li>[use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)</li> <li>[turn on ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)</li> <li>[disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)</li> <li></li> </ul> | tbd |
+| Account Recovery | [enable](https://support.apple.com/en-us/109345) | tbd |
+| Face ID / Passcode | <ul> <li>[use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)</li> <li>[enable ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)</li> <li>[disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)</li> <li></li> </ul> | tbd |
 | Screen Time | [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/) | This disables the ability to make changes to Passcode or Face ID and hides the option from your settings. To increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode. Note: to make changes to Passcode & Face ID, you must turn this setting back on |
 | Find My | [enable](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to) Find My device tracking even when the device is turned off | tbd |
 | Location Services | [disable](https://support.apple.com/en-us/102647) | Disable for any app that does not require your location for functionality and use “while using app” for everything else. |
@@ -321,47 +321,31 @@ Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand 
 
 | Setting | Action | Details |
 | --- | --- | --- |
-| Notifications | tbd | tbd |
+| Notifications | [consider disabling](https://support.google.com/android/answer/9079661?hl=en) | Don’t show any notifications or Hide silent conversations and notifications. Turn off sensitive notifications when locked |
 | Web & App Activity | [disable](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
-| Location | tbd | tbd |
+| Location | [disable](https://support.google.com/accounts/answer/3467281?hl=en) | Deny anything that doesn’t need your location, and enable “while in use” for apps that need your location sometimes |
 | Personalization | [disable](https://support.google.com/My-Ad-Center-Help/answer/12155656?hl=en&co=GENIE.Platform%3DAndroid#turn-on-or-off-personalized-ads) | tbd |
 | 2FA | [enable](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
-| Permission manager | tbd | tbd |
-| tbd | tbd | tbd |
-
-### Notifications
-Don’t show any notifications or Hide silent conversations and notifications. Turn off sensitive notifications when locked.
-- [instructions](https://support.google.com/android/answer/9079661?hl=en)
-
-### Location
-Deny anything that doesn’t need your location, and turn on “while in use” for apps that need your location sometimes.
-- [instructions](https://support.google.com/accounts/answer/3467281?hl=en)
-
-### Device admin apps
-Disable admin privileges for apps that don’t require it.
-- [instructions](https://support.google.com/android/answer/9431959?hl=en)
-
-### Permission manager
-Use this to review individual app permissions.
-- [same link as above](https://support.google.com/android/answer/9431959?hl=en)
+| Admin privileges | [disable](https://support.google.com/android/answer/9431959?hl=en) | Disable admin privileges for apps that don’t require it |
+| Permission manager | [review permissions](https://support.google.com/android/answer/9431959?hl=en) | Use this to review individual app permissions |
 
 ## Useful Apps
 - [Privacy.com](https://www.privacy.com/)
 - [Signal](https://signal.org/download/)
-  - turn on vanishing messages
+  - enable vanishing messages
 - [Threema](https://threema.ch/en)
 - [Session](https://getsession.org/)
 - [Telegram](https://telegram.org/)
 - [Briar](https://briarproject.org/)
-  - turn on vannishing messages
+  - enable vannishing messages
 
 ## Apps to Avoid
 - Temu
   - [it’s basically malware](https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/)
 - Period trackers
+  - basically all health & wellness apps, including [mental health apps](https://www.mozillafoundation.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 - DeepSeek
   - [awful security practices](https://www.forbes.com/sites/torconstantino/2025/02/04/4-warnings-about-deepseek-you-need-to-know-before-using-it/)
-- Basically all health & wellness apps, including [mental health apps](https://www.mozillafoundation.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 
 There is concern that data from period tracker apps could be used against someone who received an abortion. Even the Stardust app has been [guilty of sharing user data](https://techcrunch.com/2022/06/27/stardust-period-tracker-phone-number/). Here’s a 2022 [Wired article](https://www.wired.com/story/period-tracking-apps-flo-clue-stardust-ranked-data-privacy/) that covers the concern around period tracker privacy. Clue scored the highest, but doesn’t support local storage, which is a key privacy feature you should look for.
 
