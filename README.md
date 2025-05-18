@@ -55,27 +55,39 @@ Publicly available information about you can be used:
 | [Prescreen offers](https://consumer.ftc.gov/articles/prescreened-credit-insurance-offers) | You can opt out of prescreen offers [here](https://www.optoutprescreen.com/). You may want to consider freezing your credit with the 3 major credit bureaus as well. Info on that can be found [here](https://www.usa.gov/credit-freeze). |
 | Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. |
 | Privacy settings | Outside of social media, most websites you have an account with have privacy settings. There is no easy way to do this, but you will need to visit each website you have an account with and manually change your privacy settings to opt out of persaonization, diagnostic data sharing, third party data sharing, and anything else that could link your information or activity to you (whether it's anonymized or not). |
-| Pseudonyms | Use a pseudonym when you must create an account on a website whenever possible (you may want to tie a specific pseudonym with an email address) |
+| Pseudonyms | Use a pseudonym when you must create an account on a website whenever possible (you may want to tie a specific pseudonym with an email address). |
 | Unused accounts | If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint. |
 | Photo metadata | Photos have metadata that can contain lots of information about what device was used to take the photo, location data, and more. Remove photo metadata using [ExifTool](https://exiftool.org/). There are other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years. |
 | Data brokers | Data brokers are entities who collect information about you to sell. They exist in different forms and buy/sell different types of data to build profiles on you, the consumer. For example, people finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). Removing your information from data broker databases is a multi-step process that will take a lot of effort to accomplish, but is well-worth the energy to reduce who has access to your data. There are plenty of reasons to delete your information from these databases and prevent future information from being sold. One example is that US government agencies have been found to be [buying your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers. |
 | End to end encryption (E2EE) | Encryption is meant to keep prying eyes from accessing data without permission. For example, if you send an unencrypted text message to your friend, it could be intercepted and read by an unknown third party. Think of encryption as a process that scrambles the content of your message, so even if a third party snags the text, your message would be unreadable. Not all encryption is created equal, and here is a guide (TBD) I wrote about it. Prioritize apps and software that utlize E2EE. Encrypt your phone and computers (more details in their respective sections). |
-| Internet of Things (IoT) devices | For the love of all things holy, you do **not** need a bluetooth toothbrush that tells you your brushing habits! Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you usually need to download to manage the devices, not the devices themselves). |
+| Internet of Things (IoT) | For the love of all things holy, you do ***not*** need a bluetooth toothbrush that tells you your brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't usually *requie* and internet or bluetooth connection to function, it's good practice to skip on getting the "smart" option. |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Facebook and Instagram collect a lot of data on you, here are some recommendations to reduce that. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
+Facebook and Instagram collect a lot of data on you, here are some recommendations to reduce that. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). The best thing to do is delete Facebook and Instagram. For those who wish to keep their accounts, there are some options to improve privacy.
 
-| Action area | Action |
+| Action item | Details |
 | --- | --- |
 | [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>turn on 2FA</li> <li>turn on Advanced Protection</li> <li></li> </ul> |
 | [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li></li> <li></li> <li></li> </ul> |
 | [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
 | [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li></li> <li></li> <li></li> </ul> |
-| Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li></li> </ul> |
+| Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li>ensure all posts and photo updates are set to "friends only"</li> </ul> |
 | Page likes | tbd |
 | Connected apps | tbd |
-| Activity | tbd |
-| "Login with Facebook" | Stop using Facebook to log into unrelated applications – use an email address instead |
+| "Login with Facebook" | Don't use Facebook to log into unrelated applications – use an email address instead |
+| Friends | Remove people from your friends list that you don't know |
+
+### Facebook Activity log
+**Profile picture > Settings & privacy > Activity log**
+| Setting | Details |
+| --- | --- |
+| Your Facebook activity | tbd |
+| Personal information | tbd |
+| Connections | <ul> <li>remove followers you don't know</li> <li></li> <li></li> </ul> |
+| Apps and websites off of Facebook | tbd |
+| Logged information | tbd |
+| Pages | <ul> <li>unlike pages that represent your interests</li> <li></li> <li></li> </ul> |
+| tbd | tbd |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture when it comes to your personal data. The best thing you can do for your privacy is:
