@@ -133,8 +133,6 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 | [Brave](https://brave.com/) | Brave [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/) |
 | [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
 
-## Fingerprinting
-
 ## Search engines
 There are many great alternatives to Google. Moving away from Chrome is only part of the process of de-Googling.
 
@@ -169,8 +167,8 @@ Select a VPN provider that does not log your activity. Confirm they don’t save
 | VPN | Details |
 | --- | --- |
 | [NordVPN](https://nordvpn.com/) | tbd |
-| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly. |
-| [Mullvad](https://mullvad.net/en) | Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you. |
+| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly |
+| [Mullvad](https://mullvad.net/en) | Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you |
 | [Surfshark](https://surfshark.com/) | tbd |
 | [ExpressVPN](https://www.expressvpn.com/) | tbd |
 | [PIA](https://www.privateinternetaccess.com/) | tbd |
