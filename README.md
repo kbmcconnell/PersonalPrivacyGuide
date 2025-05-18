@@ -136,7 +136,7 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 ## Fingerprinting
 
 ## Search engines
-There are many great alternatives to Google.
+There are many great alternatives to Google. Moving away from Chrome is only part of the process of de-Googling.
 
 | Search engine | Details |
 | --- | --- |
@@ -261,13 +261,13 @@ What you can do to protect your privacy:
 
 With this in mind:
 
-- leave your phone and smartwatch at home when attending protests
+- leave your phone and smartwatch at home when attending protests or other politcal activities
 - consider manually disabling face ID / fingerprint when you’re outside of the home
 - if you are stopped by police, and it’s safe to do so, turn off your phone
   - turning off your phone may prevent police from breaking into it with [Cellebrite](https://discuss.privacyguides.net/t/claims-made-by-forensics-companies-their-capabilities-and-how-grapheneos-fares/18445)
 - for the safety of Black folks and other POC, you need your phone available to record police interactions
-  - you may want to disable face ID / fingerprint instead
-- on iOS, quickly [disable face ID](https://www.phonearena.com/news/How-to-force-iPhone-to-require-passcode-quickly-temporarily-disable-Face-ID_id121758) by triggering the “power off” screen, then canceling
+  - disable face ID / fingerprint instead
+- on iOS, quickly [disable biometrics](https://www.phonearena.com/news/How-to-force-iPhone-to-require-passcode-quickly-temporarily-disable-Face-ID_id121758) by triggering the “power off” screen, then canceling
   - this will also work if you rapidly hit the power button 5 times
 - on Android, you can [enable lockdown mode from the lock screen](https://www.androidcentral.com/apps-software/how-to-disable-biometrics-on-your-android-phone-from-the-lock-screen)
 
@@ -289,6 +289,7 @@ Some examples:
 
 - [Firefox Relay](https://relay.firefox.com/)
 - [Google Voice](https://voice.google.com/u/0/about)
+  - not the best option if you're trying to fully eliminate Google from your life as it requires you to have a Google account
 
 ## iPhone Settings
 | Setting | Action | Details |
@@ -308,32 +309,23 @@ Some examples:
 ## Android Settings
 Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand the privacy and security settings available to you.
 
-| Action | Explanation |
-| --- | --- |
-| Notifications | tbd |
-| Web & App Activity | tbd |
-| Location | tbd |
-| Personalization | tbd |
-| Enable 2FA | tbd |
-| Permission manager | tbd |
-| tbd | tbd |
+| Setting | Action | Details |
+| --- | --- | --- |
+| Notifications | tbd | tbd |
+| Web & App Activity | [toggle off](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
+| Location | tbd | tbd |
+| Personalization | [disable](https://support.google.com/My-Ad-Center-Help/answer/12155656?hl=en&co=GENIE.Platform%3DAndroid#turn-on-or-off-personalized-ads) | tbd |
+| 2FA | [enable](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
+| Permission manager | tbd | tbd |
+| tbd | tbd | tbd |
 
 ### Notifications
 Don’t show any notifications or Hide silent conversations and notifications. Turn off sensitive notifications when locked.
 - [instructions](https://support.google.com/android/answer/9079661?hl=en)
 
-### Turn off ‘Web & App Activity’
-- [instructions](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid)
-
 ### Location
 Deny anything that doesn’t need your location, and turn on “while in use” for apps that need your location sometimes.
 - [instructions](https://support.google.com/accounts/answer/3467281?hl=en)
-
-### Turn off personalization
-- [instructions](https://support.google.com/My-Ad-Center-Help/answer/12155656?hl=en&co=GENIE.Platform%3DAndroid#turn-on-or-off-personalized-ads)
-
-### Enable 2FA
-- [instructions](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid)
 
 ### Device admin apps
 Disable admin privileges for apps that don’t require it.
