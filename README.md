@@ -60,7 +60,17 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) devices | For the love of all things holy, you do **not** need a bluetooth toothbrush that tells you your brushing habits! Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you usually need to download to manage the devices, not the devices themselves). |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Meta is just here to get your data and make money from it.
+Facebook and Instagram collect a lot of data on you, here are some recommendations to reduce that. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
+
+| Action area | Action |
+| --- | --- |
+| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>turn on 2FA</li> <li>turn on Advanced Protection</li> <li></li> </ul> |
+| [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li></li> <li></li> <li></li> </ul> |
+| [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
+| [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li></li> <li></li> <li></li> </ul> |
+| tbd | tbd |
+| tbd | tbd |
+| tbd | tbd |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture. The best thing you can do for your privacy is:
@@ -101,15 +111,14 @@ Here are some well-known examples of devices that share user data. I recommend f
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
 
-| Action | Priority | Details |
+| Security measure | Priority | Details |
 | --- | --- | --- |
-| Privacy-focused browser | Highest | A privacy-focused browser is the starting point to improving your data privacy. Many of these browsers have features turned on by default that put your data privacy front and center. They might mitigate fingerprinting, block third party cookies and cross-site tracking, mask your IP address, and more. |
+| Privacy-focused browser | Highest | A privacy-focused browser is the starting point to improving your data privacy. Many of these browsers have features turned on by default that put your data privacy front and center. They might mitigate fingerprinting, block third party cookies and cross-site tracking, mask your IP address, and more |
 | Privacy-focused search engine | Highest | tbd |
-| VPN | High | tbd |
+| VPN | High | While VPNs are not required for day to day use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool to help |
 | Password manager | Very High | tbd |
 | Extensions | Optional | tbd |
-| Cookies | tbd | tbd |
-| Third party tracking | tbd | tbd |
+| Third party tracking / cookies | Highest | tbd |
 | tbd | tbd | tbd |
 | tbd | tbd | tbd |
 
@@ -118,9 +127,9 @@ Chrome is not recommended for privacy. Google [harvests vast swaths of data](htt
 
 | Browser | Details |
 | --- | --- |
-| [Tor](https://www.torproject.org/download/) | Tor [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/). |
+| [Tor](https://www.torproject.org/download/) | If you're looking to improve your anonymity and privacy, then the Tor browser is an excellent choice. It's not as user friendly as other browsers and extensions/plugins are not recommended. Tor is an excellent choice because it works by utilizing [onion routing](https://en.wikipedia.org/wiki/Onion_routing) and it [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) |
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | tbd |
-| [Brave](https://brave.com/) | Brave [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/). |
+| [Brave](https://brave.com/) | Brave [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/) |
 | [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
 
 ## Fingerprinting
@@ -130,24 +139,25 @@ There are many great alternatives to Google.
 
 | Search engine | Details |
 | --- | --- |
-| [DuckDuckgo](https://duckduckgo.com/) | tbd |
-| [Start Page](https://www.startpage.com/en/) | tbd |
+| [DuckDuckgo](https://duckduckgo.com/) | DDG is one of the most popular Google alternative search engines. Its search results are built from "over 400 sources" including Bing, Yahoo, and its own web crawler. |
+| [Startpage](https://www.startpage.com/en/) | tbd |
 | [Brave](https://search.brave.com/) | tbd |
 | [Kagi](https://kagi.com/) | tbd |
 
 ## Extensions & add-ons
 Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
 
+| Extension | Details |
+| --- | --- |
+| uBlock Origin | tbd |
+| uBlock Origin Lite | Has far less capabilities than uBlock Origin, but is an option for those who must use Chrome and can no longer access the full extension. |
+| ClearURLs | tbd |
+
 ### uBlock Origin
 - blocks ads
 - advanced mode can block scripts and is customizable
 - supports filters that prevent website tracking from sites like Facebook
 - uBlock Origin, along with other ad blockers, will be disabled when Chrome manifest v3 is released
-
-### uBlock Origin Lite
-- only use if uBlock Origin is unavailable
-
-### ClearURLs
 
 ## Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
