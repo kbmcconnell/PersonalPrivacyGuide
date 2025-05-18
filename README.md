@@ -5,30 +5,32 @@
 3. [Web Browsing](#web-browsing)
 4. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 5. [Phones](#phones)
-6. [Computers](#computers)
-7. [Email](#email)
-8. [Resources](#resources)
+   - [iPhone](#iphone-settings)
+   - [Android](#android-settings)
+7. [Computers](#computers)
+   - [MacOS](#macos-settings)
+   - [Windows](#windows-settings)
+9. [Email](#email)
+10. [Resources](#resources)
 
 ---
 
 **A note**: this guide focuses primarily on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Before diving in, consider what your needs are and what you want to get out of this. It's impossible for most people to completely decouple their lives from technology. It's up to you to determine your risk tolerence; every measure you take to improve your cybersecurity and privacy will add some friction to your daily life.
 
-Your personal information is incredibly valuable. To you, scammers, businesses, the government, and more. Your data is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more.
-
-As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
+Your personal information is incredibly valuable. To you, scammers, businesses, the government, and more. Your data is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
 # TL;DR
-There's a lot of information here, so below are some best practices and recommendations. I think the following will have the largest impact on improving your privacy and security:
+There's a lot of information here, so below are some recommendations. I think the following will have the largest impact on improving your privacy and security:
 
 | Action | Recommendation |
 | --- | --- |
 | Privacy-focused<br>browser & search engine | <ul> <li>**popular:** Firefox with DuckDuckGo</li> <li>**best for privacy:** Tor with DuckDuckGo</li> </ul> |
 | “No user logs” VPN | <ul> <li>**user-friendly:** NordVPN or Proton</li> <li>**best for privacy:** Mullvad</li> </ul> |
-| Password manager | Stop reusing passwords. The best option is to use randomly generated, long, complex passwords. A password manager will help<br><ul> <li>**user-friendly:** NordPass or 1Password</li> <li>**offers free tier:** Bitwarden</li> </ul> |
+| Password manager | The best option is to use randomly generated, long, complex passwords. A password manager will help<br><ul> <li>**user-friendly:** NordPass or 1Password</li> <li>**offers free tier:** Bitwarden</li> </ul> |
 | MFA / 2FA | Enable for everything |
 | Social media | <ul> <li>**best:** delete them</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
 | Website privacy settings | Opt out of third party cookies, AI training, website tracking, and data & location services for everything |
@@ -53,6 +55,7 @@ Publicly available information about you can be used:
 | [Prescreen offers](https://consumer.ftc.gov/articles/prescreened-credit-insurance-offers) | You can opt out of prescreen offers [here](https://www.optoutprescreen.com/). You may want to consider freezing your credit with the 3 major credit bureaus as well. Info on that can be found [here](https://www.usa.gov/credit-freeze). |
 | Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities. |
 | Privacy settings | Outside of social media, most websites you have an account with have privacy settings. There is no easy way to do this, but you will need to visit each website you have an account with and manually change your privacy settings to opt out of persaonization, diagnostic data sharing, third party data sharing, and anything else that could link your information or activity to you (whether it's anonymized or not). |
+| Pseudonyms | Use a pseudonym when you must create an account on a website whenever possible (you may want to tie a specific pseudonym with an email address) |
 | Unused accounts | If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint. |
 | Photo metadata | Photos have metadata that can contain lots of information about what device was used to take the photo, location data, and more. Remove photo metadata using [ExifTool](https://exiftool.org/). There are other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years. |
 | Data brokers | Data brokers are entities who collect information about you to sell. They exist in different forms and buy/sell different types of data to build profiles on you, the consumer. For example, people finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). Removing your information from data broker databases is a multi-step process that will take a lot of effort to accomplish, but is well-worth the energy to reduce who has access to your data. There are plenty of reasons to delete your information from these databases and prevent future information from being sold. One example is that US government agencies have been found to be [buying your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers. |
@@ -284,7 +287,6 @@ With this in mind:
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
 
 Some examples:
-
 - [Firefox Relay](https://relay.firefox.com/)
 - [Google Voice](https://voice.google.com/u/0/about)
   - not the best option if you're trying to fully eliminate Google from your life as it requires you to have a Google account
@@ -299,7 +301,7 @@ Some examples:
 | Face ID / Passcode | <ul> <li>[use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)</li> <li>[turn on ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)</li> <li>[disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)</li> <li></li> </ul> | tbd |
 | Screen Time | [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/) | This disables the ability to make changes to Passcode or Face ID and hides the option from your settings. To increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode. Note: to make changes to Passcode & Face ID, you must turn this setting back on |
 | Find My | [enable](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to) Find My device tracking even when the device is turned off | tbd |
-| Location Services | [toggle off](https://support.apple.com/en-us/102647) | Disable for any app that does not require your location for functionality and use “while using app” for everything else. |
+| Location Services | [disable](https://support.apple.com/en-us/102647) | Disable for any app that does not require your location for functionality and use “while using app” for everything else. |
 | Allow Apps to Request to Track | [disable](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios) | tbd |
 | Stolen device protection | [enable](https://support.apple.com/en-us/120340) | tbd |
 | Airdrop | [disable](https://support.apple.com/en-us/102647) or set to "Contacts Only" | tbd |
@@ -310,7 +312,7 @@ Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand 
 | Setting | Action | Details |
 | --- | --- | --- |
 | Notifications | tbd | tbd |
-| Web & App Activity | [toggle off](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
+| Web & App Activity | [disable](https://support.google.com/accounts/answer/54068?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
 | Location | tbd | tbd |
 | Personalization | [disable](https://support.google.com/My-Ad-Center-Help/answer/12155656?hl=en&co=GENIE.Platform%3DAndroid#turn-on-or-off-personalized-ads) | tbd |
 | 2FA | [enable](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid) | tbd |
@@ -361,52 +363,21 @@ Period tracker apps that store your data on your phone instead of the cloud:
 Most of you are probably not going to use Linux. I think Linux is the best option for security and usability. Consider [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/). This [TechRadar article](https://www.techradar.com/news/best-linux-distro-privacy-security) has some additional OS recommendations.
 
 ## MacOS Settings
-
-### FileVault
-Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
-- [instructions](https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac)
-
-### Antivirus
-MacOS has built-in protection tools that help prevent malware from being installed. Here’s an [explanation](https://www.macworld.com/article/670537/do-macs-need-antivirus.html) of those features and their shortfalls.
-
-Some options available for MacOS:
-
-- [NordVPN Threat Protection Pro](https://nordvpn.com/features/threat-protection/)
-- [Bitdefender](https://www.bitdefender.com/en-us/)
-- [Malwarebytes](https://www.malwarebytes.com/)
-- [Surfshark One](https://surfshark.com/one)
-
-### Updates
-Regular software updates patch vulnerabilities.
-- [instructions](https://support.apple.com/guide/mac-help/keep-your-mac-up-to-date-mchlpx1065/mac)
+| Setting | Action | Details |
+| --- | --- | --- |
+| FileVault | [enable](https://support.apple.com/guide/mac-help/protect-data-on-your-mac-with-filevault-mh11785/mac) | Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive |
+| Automatic updates | [enable](https://support.apple.com/guide/mac-help/keep-your-mac-up-to-date-mchlpx1065/mac) | Regular software updates patch vulnerabilities. Pair this with restaring your laptop every day to ensure updates are installed in a timely manner |
+| Antivirus | tbd | MacOS has built-in protection tools that help prevent malware from being installed. Here’s an [explanation](https://www.macworld.com/article/670537/do-macs-need-antivirus.html) of those features and their shortfalls. Some options available for MacOS:<br> <ul> <li>[NordVPN Threat Protection Pro](https://nordvpn.com/features/threat-protection/)</li> <li>[Bitdefender](https://www.bitdefender.com/en-us/)</li> <li>[Malwarebytes](https://www.malwarebytes.com/)</li> <li>[Surfshark One](https://surfshark.com/one)</li> </ul> |
 
 ## Windows Settings
-
-### BitLocker
-Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive.
-- [instructions](https://support.microsoft.com/en-us/windows/bitlocker-drive-encryption-76b92ac9-1040-48d6-9f5f-d14b3c5fa178)
-
-### Turn off ‘Diagnostic data’
-- [instructions](https://learn.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization#diagnostic-data-settings)
-
-### Turn off ‘Improve inking and typing’
-- [instructions](https://support.microsoft.com/en-us/windows/speech-voice-activation-inking-typing-and-privacy-149e0e60-7c93-dedd-a0d8-5731b71a4fef)
-
-### Turn off ‘Tailored experiences’
-- [instructions](https://windowsloop.com/change-privacy-settings-in-windows-11/)
-
-### Antivirus
-Windows Defender is built-in and enough for 99% of people. You may wish to supplement it if you’re torrenting or downloading unofficial software.
-
-Some options available for Windows:
-
-- [NordVPN Threat Protection Pro](https://nordvpn.com/features/threat-protection/)
-- [Bitdefender](https://www.bitdefender.com/en-us/)
-- [Malwarebytes](https://www.malwarebytes.com/)
-- [Surfshark One](https://surfshark.com/one)
-
-### Automatic Updates
-Regular software updates patch vulnerabilities.
+| Setting | Action | Details |
+| --- | --- | --- |
+| Bitlocker | [enable](https://support.microsoft.com/en-us/windows/bitlocker-drive-encryption-76b92ac9-1040-48d6-9f5f-d14b3c5fa178) | Full disk encryption prevents someone from exfiltrating data on your hard drive in the event your computer is seized or stolen. You must save your recovery key in a safe place that’s not on your computer’s hard drive |
+| Diagnostic data | [disable](https://learn.microsoft.com/en-us/windows/privacy/configure-windows-diagnostic-data-in-your-organization#diagnostic-data-settings) | tbd |
+| Improve inking and typing | [disable](https://support.microsoft.com/en-us/windows/speech-voice-activation-inking-typing-and-privacy-149e0e60-7c93-dedd-a0d8-5731b71a4fef) | tbd |
+| Tailored experiences | [disable](https://windowsloop.com/change-privacy-settings-in-windows-11/) | tbd |
+| Automatic updates | enable | Regular software updates patch vulnerabilities. Pair this with restaring your laptop every day to ensure updates are installed in a timely manner |
+| Antivirus | tbd | Windows Defender is built-in and enough for 99% of people. You may wish to supplement it if you’re torrenting or downloading unofficial software. Some options available for Windows:<br> <ul> <li>[NordVPN Threat Protection Pro](https://nordvpn.com/features/threat-protection/)</li> <li>[Bitdefender](https://www.bitdefender.com/en-us/)</li> <li>[Malwarebytes](https://www.malwarebytes.com/)</li> <li>[Surfshark One](https://surfshark.com/one)</li> </ul> |
 
 ## Cloud Storage
 The safest place your data can be stored is locally on your physical devices. If that’s not an option, it’s possible to improve cloud storage security.
@@ -426,11 +397,11 @@ These companies are required to comply with local regulations if subpoenaed. Con
 # Email
 To start, do not use email to engage in sensitive conversations. Email was not designed to be secure. Engage in sensitive conversations in person or over secure messaging apps like Signal.
 
-| Action | Explanation |
+| Action | Details |
 | --- | --- |
 | Email masking | tbd |
 | Newsletters | tbd |
-| Multiple accounts | tbd |
+| Multiple accounts | I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else |
 | Privacy-focused options | tbd |
 | Temporary options | tbd |
 
@@ -438,9 +409,6 @@ To start, do not use email to engage in sensitive conversations. Email was not d
 - [Firefox Relay](https://relay.firefox.com/)
 - [Apple iCloud+ Hide My Email](https://support.apple.com/guide/iphone/create-and-manage-hide-my-email-addresses-iphcb02e76f7/ios)
 - Startmail
-
-### Use multiple accounts
-I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else.
 
 ### Privacy-focused options
 - [ProtonMail](https://mail.proton.me/)
@@ -459,5 +427,5 @@ Here are some great resources if you’d like to learn more.
 - [IntelTechniques](https://inteltechniques.com/)
 - [Privacy Guides](https://www.privacyguides.org/en/)
 
-## What else can I do?
+# What else can I do?
 There are many, many reasons to contact the politicians who represent you. Stronger privacy laws could have a significant impact on reducing the amount of our personal information gets sold to advertisors. Find your federal and state elected officials [here](https://www.usa.gov/elected-officials/).
