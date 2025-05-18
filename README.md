@@ -15,22 +15,22 @@
 
 ---
 
-**A note**: this guide focuses primarily on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Before diving in, consider what your needs are and what you want to get out of this. It's impossible for most people to completely decouple their lives from technology. It's up to you to determine your risk tolerence; every measure you take to improve your cybersecurity and privacy will add some friction to your daily life.
+**A note**: this guide focuses on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Before diving in, consider what your needs are and what you want to get out of this. It's up to you to determine your risk tolerence; every measure you take to improve your cybersecurity and privacy will add some friction to your daily life.
 
-Your personal information is incredibly valuable. To you, scammers, businesses, the government, and more. Your data is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it? Mozilla has an ongoing list of [data breaches](https://monitor.mozilla.org/breaches).
+Your data is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
 ***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
 
 # TL;DR
-There's a lot of information here, so below are some recommendations. I think the following will have the largest impact on improving your privacy and security:
+There's a lot of information here, so below are some recommendations that I think will have the largest impact on improving your privacy and security:
 
-| Action | Recommendation |
+| Security measure | Recommendation |
 | --- | --- |
 | Privacy-focused<br>browser & search engine | <ul> <li>**popular:** Firefox with DuckDuckGo</li> <li>**best for privacy:** Tor with DuckDuckGo</li> </ul> |
 | “No user logs” VPN | <ul> <li>**user-friendly:** NordVPN or Proton</li> <li>**best for privacy:** Mullvad</li> </ul> |
-| Password manager | The best option is to use randomly generated, long, complex passwords. A password manager will help<br><ul> <li>**user-friendly:** NordPass or 1Password</li> <li>**offers free tier:** Bitwarden</li> </ul> |
+| Password manager | Best practice is to use unique, long, and complex passwords. A password manager will help:<br><ul> <li>**user-friendly:** NordPass or 1Password</li> <li>**offers free tier:** Bitwarden</li> </ul> |
 | MFA / 2FA | Enable for everything |
 | Social media | <ul> <li>**best:** delete them</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
 | Website privacy settings | Opt out of third party cookies, AI training, website tracking, and data & location services for everything |
@@ -48,7 +48,7 @@ Publicly available information about you can be used:
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
  
-| Topic | Details |
+| Action area | Details |
 | --- | --- |
 | Social media | Social media sites are basically information-harvesting tools. Your personal information, activity, enagement, and attention are worth billions. You can combat this by deleting your social media accounts and/or reducing how much of your information they have access to.<br><br> <ul> <li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li> <li>avoid sharing detailed personal information in social media comments</li> <li>opt out of (third party) data sharing - this may be framed as "personalization"</li> <li>block access to your location</li> <li>block access to your address book</li> <li>disable cross-website tracking</li> <li>disable third party cookies</li> <li>make your profile private</li> <li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li> <li>specific instructions for Facebook / Meta will be below</li> </ul> |
 | [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br ><ul> <li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li> <li>turn off [personalized ads](https://myadcenter.google.com)</li> <li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li> <li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li> </ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google). |
@@ -73,7 +73,9 @@ Facebook and Instagram collect a lot of data on you, here are some recommendatio
 | [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li></li> <li></li> <li></li> </ul> |
 | Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li></li> </ul> |
 | Page likes | tbd |
+| Connected apps | tbd |
 | Activity | tbd |
+| "Login with Facebook" | Stop using Facebook to log into unrelated applications – use an email address instead |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture when it comes to your personal data. The best thing you can do for your privacy is:
@@ -99,7 +101,7 @@ These resources will help:
 | Pros | Cons |
 | --- | --- |
 | significantly less<br> time-consuming | ongoing subscription |
-| regular reporting | limited scope<br> & still requires manual work |
+| regular reporting | limited scope & still<br> requires manual work |
 
 Some popular providers:
 
@@ -151,36 +153,36 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 
 | Extension | Details |
 | --- | --- |
-| uBlock Origin | <ul> <li>blocks ads</li> <li>customizable script blocker</li> <li>configurable website tracking filter</li> </ul> |
+| uBlock Origin | A popular extension that blocks ads, offers a customizable script blocker, and has configurable website tracking filter |
 | uBlock Origin Lite | Has far less capabilities than uBlock Origin, but is an option for those who must use Chrome and can no longer access the full extension |
-| ClearURLs | tbd |
+| [ClearURLs](https://github.com/ClearURLs/Addon) | Removes tracking elements from web urls to reduce/prevent tracking |
 
 ## Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
 ## VPNs
-**What:** A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address.
+***What:*** A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address.
 
-**Why:** VPNs are useful when you wish to mask your IP address while on the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
+***Why:*** VPNs are useful when you wish to mask your IP address while on the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
 
-**What to look for:** Whether the VPN service logs/saves your activity and their reputation.
+***What to look for:*** Whether the VPN service logs/saves your activity and their reputation.
 
-Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?) Here are some providers who have been third party verified and are popular:
+Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?). Here are some providers who have been third party verified and are popular:
 
-| VPN | Details |
-| --- | --- |
-| [NordVPN](https://nordvpn.com/) | tbd |
-| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly |
-| [Mullvad](https://mullvad.net/en) | Mullvad accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you |
-| [Surfshark](https://surfshark.com/) | tbd |
-| [ExpressVPN](https://www.expressvpn.com/) | tbd |
-| [PIA](https://www.privateinternetaccess.com/) | tbd |
+| VPN | Details | Third-party Verification |
+| --- | --- | --- |
+| [NordVPN](https://nordvpn.com/) | tbd | tbd |
+| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly | tbd |
+| [Mullvad](https://mullvad.net/en) | Accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you | tbd |
+| [Surfshark](https://surfshark.com/) | tbd | tbd |
+| [ExpressVPN](https://www.expressvpn.com/) | tbd | tbd |
+| [PIA](https://www.privateinternetaccess.com/) | tbd | tbd |
 
-**Important:** A VPN does *not* keep your online activity completely anonymous.
+***Important:*** A VPN does *not* keep your online activity completely anonymous.
 
-**Consider this:** You post from a fake account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
+***Consider this:*** You post from a fake account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
 
-**Takeaway:** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
+***Takeaway:*** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
 Most internet users don't really need to use a VPN in their day to day life. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
 
@@ -199,25 +201,24 @@ For more information, see CISA's [best practices guide](https://www.cisa.gov/sec
 ## Password Managers
 **What:** Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
 
-**Why:** They enable you to save a lot of unique passwords that you don’t have to memorize.
+***Why:*** They enable you to save a lot of unique passwords that you don’t have to memorize.
 
-**What to look for:** Reputation, features, and recent security breaches.
+***What to look for:*** Reputation, features, and recent security breaches.
 
 Apple and Google Passwords are secure if that’s your preference. The downside is if you lose access to your Apple ID or Google account, you’ll lose access to all of your passwords.
 
 Some popular password managers:
-
 - [Bitwarden](https://bitwarden.com/)
 - [LastPass](https://www.lastpass.com/)
 - [NordPass](https://nordpass.com/)
 - [1Password](https://1password.com/)
 
 ## MFA / 2FA
-**What:** Multi-factor (MFA) and 2-factor (2FA) authentication are an extra step to verifying your identity when you log into something.
+***What:*** Multi-factor (MFA) and 2-factor (2FA) authentication are an extra step to verifying your identity when you log into something.
 
-**Why:** These measures help prevent unauthorized access to your accounts by requiring additional steps to log into an account.
+***Why:*** These measures help prevent unauthorized access to your accounts by requiring additional steps to log into an account.
 
-**TL;DR:** Enable MFA and 2FA for everything.
+***TL;DR:*** Enable MFA and 2FA for everything.
 
 There are four **types** of authentication, and a variety of **methods** to achieve each type.
 
@@ -230,15 +231,14 @@ There are four **types** of authentication, and a variety of **methods** to achi
 
 Your username and password fall under the “something you know” authentication **type**.
 
-**2FA** requires you to present one (1) additional authentication **method** along with your username and password. 2FA allows you to use the same **type** of method (e.g. something you know, like a PIN or security question).
+***2FA*** requires you to present one (1) additional authentication **method** along with your username and password. 2FA allows you to use the same **type** of method (e.g. something you know, like a PIN or security question).
 
-**MFA** requires you to present at least one (1) additional authentication **method** along with your username and password. However, the additional method cannot be the same **type**. For example, if you log in with a username/password, you cannot use a PIN, but you can use an authenticator app or biometrics.
+***MFA*** requires you to present at least one (1) additional authentication **method** along with your username and password. However, the additional method cannot be the same **type**. For example, if you log in with a username/password, you cannot use a PIN, but you can use an authenticator app or biometrics.
 
 MFA is more secure than 2FA, and both are more secure than single-factor authentication (just a username and password). Always choose MFA over 2FA if it's available.
 
 # Artificial Intelligence (AI)
 There are good reasons to be concerned about how much of personal information generative AI consumes.
-
 - [privacy concerns](https://iapp.org/news/a/shaping-the-future-a-dynamic-taxonomy-for-ai-privacy-risks)
 - [steals from artists/creatives](https://www.latimes.com/opinion/story/2024-06-18/artificial-intelligence-openai-media-manager-apple)
 - [unsustainable resource consumption](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising)
@@ -247,21 +247,19 @@ There are good reasons to be concerned about how much of personal information ge
 AI can be a useful tool to those with disabilities, so abandoning it entirely is not an option for everyone. When most people think of AI, they think of generative AI, but narrow AI has been around for years. Generative AI poses a large risk to privacy. [Here’s the difference](https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/).
 
 What you can do to protect your privacy:
-
 - opt out of AI training
   - this [Wired guide](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/) is a good place to start
 - never provide personal information to AI tools like ChatGBT
 - disable unused AI features on your devices
 
 # Phones
-**Important:** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
+***Important:*** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
 
-**Testimonial act:** Providing a password or PIN is considered a testimonial act because it involves revealing potentially incriminating information. Testimonial acts are protected by the 5th amendment.
+***Testimonial act:*** Providing a password or PIN is considered a testimonial act because it involves revealing potentially incriminating information. Testimonial acts are protected by the 5th amendment.
 
-**Nontestimonial act:** Using a fingerprint or facial recognition relies on physical characteristics instead of personal knowledge, and is therefore considered (in at least some recent court cases) a nontestimonial act. Nontestimonial acts are **not** protected by the 5th amendment.
+***Nontestimonial act:*** Using a fingerprint or facial recognition relies on physical characteristics instead of personal knowledge, and is therefore considered (in at least some recent court cases) a nontestimonial act. Nontestimonial acts are **not** protected by the 5th amendment.
 
 With this in mind:
-
 - leave your phone and smartwatch at home when attending protests or other politcal activities
 - consider manually disabling face ID / fingerprint when you’re outside of the home
 - if you are stopped by police, and it’s safe to do so, turn off your phone
@@ -382,7 +380,7 @@ Most of you are probably not going to use Linux. I think Linux is the best optio
 ## Cloud Storage
 The safest place your data can be stored is locally on your physical devices. If that’s not an option, it’s possible to improve cloud storage security.
 
-**What to look for:** End to end encryption and what information could be handed over if subpoenaed.
+***What to look for:*** End to end encryption and what information could be handed over if subpoenaed.
 
 iCloud, Google Drive, and OneDrive are considered safe, but you may want to activate advanced security settings. This [Wired guide](https://www.wired.com/story/9-tips-cloud-storage-security/) is a good starting point.
 - [iCloud security overview](https://support.apple.com/en-us/102651)
