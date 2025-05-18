@@ -68,16 +68,17 @@ Facebook and Instagram collect a lot of data on you, here are some recommendatio
 | [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li></li> <li></li> <li></li> </ul> |
 | [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
 | [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li></li> <li></li> <li></li> </ul> |
-| tbd | tbd |
-| tbd | tbd |
-| tbd | tbd |
+| Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li></li> </ul> |
+| Page likes | tbd |
+| Activity | tbd |
 
 ## Data brokers
-This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture. The best thing you can do for your privacy is:
+This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture when it comes to your personal data. The best thing you can do for your privacy is:
 - opt out of third party data sharing on everything
 - delete unnecessary apps
 - reduce the amount of IoT devices you use
 - verify the type of data your smart devices (and apps) gather and share with third parties (and opt out where possible)
+- turn off location tracking
 
 ### Manual data removal
 | Pros | Cons |
@@ -115,8 +116,8 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | --- | --- | --- |
 | Privacy-focused browser | Highest | A privacy-focused browser is the starting point to improving your data privacy. Many of these browsers have features turned on by default that put your data privacy front and center. They might mitigate fingerprinting, block third party cookies and cross-site tracking, mask your IP address, and more |
 | Privacy-focused search engine | Highest | tbd |
-| VPN | High | While VPNs are not required for day to day use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool to help |
-| Password manager | Very High | tbd |
+| VPN | High | While VPNs are not required for daily use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool |
+| Password manager | Highest | Reusing passwords puts your privacy and security at risk. It's not recommended to save your passwords in the browser, so the next best option is to use a password manager. Most, if not all, password managers have browser extensions available make their use more convenient |
 | Extensions | Optional | tbd |
 | Third party tracking / cookies | Highest | tbd |
 | tbd | tbd | tbd |
@@ -149,15 +150,9 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 
 | Extension | Details |
 | --- | --- |
-| uBlock Origin | tbd |
-| uBlock Origin Lite | Has far less capabilities than uBlock Origin, but is an option for those who must use Chrome and can no longer access the full extension. |
+| uBlock Origin | <ul> <li>blocks ads</li> <li>customizable script blocker</li> <li>configurable website tracking filter</li> </ul> |
+| uBlock Origin Lite | Has far less capabilities than uBlock Origin, but is an option for those who must use Chrome and can no longer access the full extension |
 | ClearURLs | tbd |
-
-### uBlock Origin
-- blocks ads
-- advanced mode can block scripts and is customizable
-- supports filters that prevent website tracking from sites like Facebook
-- uBlock Origin, along with other ad blockers, will be disabled when Chrome manifest v3 is released
 
 ## Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
@@ -193,16 +188,12 @@ For more information, see CISA's [best practices guide](https://www.cisa.gov/sec
 
 | Action | Priority | Explanation |
 | --- | --- | --- |
-| Strong passwords | Highest | The longer and more complex your password is, the more difficult it is to guess. You want to aim for at least 16 characters, with a mix of upper case, lower case, numbers, and symbols. Randomly generated passwords are best (then you just save them to a password manager). For passwords you need to memorize, I recommend using a phrase you can easily remember, but that isn't easily guessable. For example "WeWent2TheMoon&Mars?" - it's a short phrase, has everything you'd want in a password, and meets the 16 character minimum. |
-| Unique Passwords | Highest | Use a different password for everything. If you utlize a password manager, then there's no need to memorize the password for every application or website you have an account with. When you reuse passwords, if your credentials for one website leak, then it puts all of your other accounts with the same credentials at risk. |
-| Passkeys | Highest | tbd |
-| Password manager | Highest | You likely have dozens of accounts that require login credentials. It's an unavoidable fact of the modern era. If you have more than a handful of accounts with login credentials, then you pretty much need a password manager. It's the way way to generate random passwords and to manage credentials for dozens of websites. |
+| Strong passwords | Highest | The longer and more complex your password is, the more difficult it is to guess. You want to aim for at least 16 characters, with a mix of upper case, lower case, numbers, and symbols. Randomly generated passwords are best (then you just save them to a password manager). For passwords you need to memorize, I recommend using a phrase you can easily remember, but that isn't easily guessable. For example "WeWent2TheMoon&Mars?" - it's not the best, but it's short, has everything you'd want in a password, and meets the 16 character minimum |
+| Unique Passwords | Highest | Use a different password for everything. If you utlize a password manager, then there's no need to memorize the password for every application or website you have an account with. When you reuse passwords, if your credentials for one website leak, then it puts all of your other accounts with the same credentials at risk |
+| Passkeys | Highest | Passkeys are a more secure alternative to passwords. More information [here](https://www.passkeys.com/passkey-vs-password) |
+| Password manager | Highest | You likely have dozens of accounts that require login credentials. It's an unavoidable fact of the modern era. If you have more than a handful of accounts with login credentials, then you pretty much need a password manager. It's the way way to generate random passwords and to manage credentials for dozens of websites |
 | MFA / 2FA | Highest | tbd |
 | Single Sign On (SSO) | tbd | tbd |
-
-### Passkeys
-
-If setting up a passkey is an option, choose it over a password. More information [here](https://www.passkeys.com/passkey-vs-password).
 
 ## Password Managers
 **What:** Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
@@ -280,7 +271,7 @@ With this in mind:
   - this will also work if you rapidly hit the power button 5 times
 - on Android, you can [enable lockdown mode from the lock screen](https://www.androidcentral.com/apps-software/how-to-disable-biometrics-on-your-android-phone-from-the-lock-screen)
 
-| Action | Explanation |
+| Action item | Details |
 | --- | --- |
 | Daily restart | tbd |
 | Automatic updates | Regular software updates patch vulnerabilities. The latest versions may foil tools like Cellebrite and GrayKey | 
@@ -303,36 +294,16 @@ Some examples:
 | Setting | Action | Details |
 | --- | --- | --- |
 | Advanced Data Protection | [toggle on](https://support.apple.com/en-us/108756) | tbd |
-| Push notifications | Consider turning off push notifications. | Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
+| Push notifications | disable | Consider turning off push notifications. Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
 | 2FA | [enable](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
 | Account Recovery | [turn on](https://support.apple.com/en-us/109345) | tbd |
-| Face ID | tbd | tbd |
-| Passcode | tbd | tbd |
-| Screen Time | tbd | tbd |
+| Face ID / Passcode | <ul> <li>[use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)</li> <li>[turn on ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)</li> <li>[disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)</li> <li></li> </ul> | tbd |
+| Screen Time | [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/) | This disables the ability to make changes to Passcode or Face ID and hides the option from your settings. To increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode. Note: to make changes to Passcode & Face ID, you must turn this setting back on |
 | Find My | [enable](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to) Find My device tracking even when the device is turned off | tbd |
-| Location Services | tbd | tbd |
+| Location Services | [toggle off](https://support.apple.com/en-us/102647) | Disable for any app that does not require your location for functionality and use “while using app” for everything else. |
 | Allow Apps to Request to Track | [disable](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios) | tbd |
 | Stolen device protection | [enable](https://support.apple.com/en-us/120340) | tbd |
-| Airdrop | tbd | tbd |
-
-### Face ID / Passcode Settings
-- [use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)
-- [Turn on ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)
-- [Disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)
-
-### Screen Time Settings
-- [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/)
-  - this disables the ability to make changes to Passcode or Face ID and hides the option from your settings
-  - to increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode
-  - note: to make changes to Passcode & Face ID, you must turn this setting back on
-
-### Turn off ‘Location Services’
-Toggle off for any app that does not require your location for functionality and use “while using app” for everything else. Location data brokers.
-- [instructions](https://support.apple.com/en-us/102647)
-
-### Turn off Airdrop
-Or set to “Contacts Only.”
-- [instructions](https://support.apple.com/en-us/119857)
+| Airdrop | [disable](https://support.apple.com/en-us/102647) or set to "Contacts Only" | tbd |
 
 ## Android Settings
 Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand the privacy and security settings available to you.
