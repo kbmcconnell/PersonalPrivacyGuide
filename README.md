@@ -141,6 +141,9 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | tbd | tbd | tbd |
 | tbd | tbd | tbd |
 
+## Home network setup
+Router configuration tbd
+
 ## Browsers
 Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
