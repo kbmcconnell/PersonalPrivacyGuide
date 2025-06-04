@@ -15,18 +15,18 @@
 
 ---
 
-**A note**: this guide focuses on data privacy, however, it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Before diving in, consider what your needs are and what you want to get out of this. It's up to you to determine your risk tolerence; every measure you take to improve your cybersecurity and privacy will add some friction to your daily life.
+**A note**: this guide focuses on data privacy but it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
 
-Your data is often gathered without your fully informed consent through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
+Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
-***Disclaimer: I’m not an expert on every topic here - there are gaps in my knowledge. It’s up to you to understand the tools you use.***
+***Disclaimer: You recommend ***
 
 # TL;DR
 There's a lot of information here, so below are some recommendations that I think will have the largest impact on improving your privacy and security:
 
-| Security measure | Recommendation |
+| Action item | Details |
 | --- | --- |
 | Privacy-focused<br>browser & search engine | <ul> <li>**popular:** Firefox with DuckDuckGo</li> <li>**best for privacy:** Tor with DuckDuckGo</li> </ul> |
 | “No user logs” VPN | <ul> <li>**user-friendly:** NordVPN or Proton</li> <li>**best for privacy:** Mullvad</li> </ul> |
@@ -48,7 +48,7 @@ Publicly available information about you can be used:
 - against you politically or socially
   - your sexual orientation, political affiliation, or gender identity
  
-| Action area | Details |
+| Action item | Details |
 | --- | --- |
 | Social media | Social media sites are basically information-harvesting tools. Your personal information, activity, enagement, and attention are worth billions. You can combat this by deleting your social media accounts and/or reducing how much of your information they have access to.<br><br> <ul> <li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li> <li>avoid sharing detailed personal information in social media comments</li> <li>opt out of (third party) data sharing - this may be framed as "personalization"</li> <li>block access to your location</li> <li>block access to your address book</li> <li>disable cross-website tracking</li> <li>disable third party cookies</li> <li>make your profile private</li> <li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li> <li>specific instructions for Facebook / Meta will be below</li> </ul> |
 | [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br ><ul> <li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li> <li>turn off [personalized ads](https://myadcenter.google.com)</li> <li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li> <li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li> </ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google). |
@@ -67,10 +67,11 @@ Facebook and Instagram collect a lot of data on you, here are some recommendatio
 
 | Action item | Details |
 | --- | --- |
-| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>enable 2FA</li> <li>enable Advanced Protection</li> <li></li> </ul> |
-| [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li></li> <li></li> <li></li> </ul> |
+| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>enable 2FA</li> <li>enable Advanced Protection</li> <li>turn on Advanced Protection</li> </ul> |
+| [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li>Your activity off Meta technologies</li> <li>Clear specific activity</li> <li>remove external accounts under "Specific ad partners"</li> </ul> |
+| [Your activity off Meta technologies](https://accountscenter.facebook.com/info_and_permissions/off_facebook_activity/?entry_point=ACCOUNTS_CENTER) | <ul> <li></li> <li></li> </ul>
 | [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
-| [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li></li> <li></li> <li></li> </ul> |
+| [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li>Disconnect specific activity</li> <li></li> <li></li> </ul> |
 | Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li>ensure all posts and photo updates are set to "friends only"</li> </ul> |
 | Page likes | tbd |
 | Connected apps | tbd |
@@ -308,7 +309,7 @@ Some examples:
 | Push notifications | consider disabling | Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
 | 2FA | [enable](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
 | Account Recovery | [enable](https://support.apple.com/en-us/109345) | tbd |
-| Face ID / Passcode | <ul> <li>[use a 6 digit passcode instead of 4](https://support.apple.com/en-us/119586)</li> <li>[enable ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)</li> <li>[disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)</li> <li></li> </ul> | tbd |
+| Face ID / Passcode | <ul> <li>[use a 6 digit passcode](https://support.apple.com/en-us/119586)</li> <li>[enable ‘Face ID Attention’](https://support.apple.com/guide/iphone/change-face-id-and-attention-settings-iph646624222/ios)</li> <li>[disable control center when the phone is locked](https://www.tomsguide.com/how-to/how-to-disable-control-center-on-a-locked-iphone)</li> <li></li> </ul> | tbd |
 | Screen Time | [turn off ‘Allow changes to: Passcode & Face ID’](https://www.techbout.com/prevent-others-from-changing-iphone-passcode-87736/) | This disables the ability to make changes to Passcode or Face ID and hides the option from your settings. To increase the effectiveness of this setting, you should set a Screen Time passcode and make sure it’s different from your iPhone passcode. Note: to make changes to Passcode & Face ID, you must turn this setting back on |
 | Find My | [enable](https://www.theverge.com/22697218/iphone-apple-ios-15-find-my-how-to) Find My device tracking even when the device is turned off | tbd |
 | Location Services | [disable](https://support.apple.com/en-us/102647) | Disable for any app that does not require your location for functionality and use “while using app” for everything else. |
