@@ -21,7 +21,7 @@ Your data is often gathered through complex terms & conditions, features such as
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
-***Disclaimer: You recommend ***
+***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
 # TL;DR
 There's a lot of information here, so below are some recommendations that I think will have the largest impact on improving your privacy and security:
