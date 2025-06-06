@@ -20,7 +20,7 @@
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
-If you need another reason, then read this article about how the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on every single one of us, then read about [Project Esther]([https://truthout.org/articles/project-esther-is-a-mccarthy-era-blueprint-for-crushing-the-american-left/](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
+If you need another reason, then read this article about how the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on all of us, then read about [Project Esther]([https://truthout.org/articles/project-esther-is-a-mccarthy-era-blueprint-for-crushing-the-american-left/](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
@@ -92,7 +92,7 @@ Ideally, we all just delete our Meta accounts. Most people won't, so here is an 
 | Logged information | tbd |
 
 ## Data brokers
-This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture when it comes to your personal data. The best thing you can do for your privacy is:
+This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal data. Some things you can do to keep your data out of databases are:
 - opt out of third party data sharing on everything
 - delete unnecessary apps
 - reduce the amount of IoT devices you use
@@ -126,7 +126,7 @@ Some popular providers:
 - [Optery](https://www.optery.com/)
 
 ### IoT and Smart Devices
-Here are some well-known examples of devices that share user data. I recommend finding alternatives and/or researching your options for reducing what informaton is shared by them. I will get into apps in the Phones section.
+If a device doesn't *need* to be connected to the internet or to an app on your phone to function, then don't do it. Toothbrushes really, really don't need bluetooth connectivity.
 
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
@@ -137,8 +137,8 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | Privacy-focused search engine | Highest | tbd |
 | VPN | High | While VPNs are not required for daily use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool |
 | Password manager | Highest | Reusing passwords puts your privacy and security at risk. It's not recommended to save your passwords in the browser, so the next best option is to use a password manager. Most, if not all, password managers have browser extensions available make their use more convenient |
-| Extensions | Optional | tbd |
-| Third party tracking / cookies | Highest | tbd |
+| Extensions | Optional | Extensions *can* compromise your privacy, so you may want to do some research on an extension before adding it to your browser. There are also plenty of extensions that are meant to aid in privacy and security, such as uBlock Origin and ClearURLs |
+| Third party tracking / cookies | Highest | Starting with a browser + search engine that prioritizes privacy will significantly help with this. To go even further, whenever you access a website that prompts you to accept cookies, always reject them all |
 | tbd | tbd | tbd |
 | tbd | tbd | tbd |
 
@@ -148,6 +148,7 @@ Configure your home network in a way to prevent unauthorized access and protect 
 | Action | Details |
 | --- | --- |
 | Router password | Always change the default password for all of your devices or accounts |
+| Router encryption | tbd |
 | Wifi network (SSID) | Change the default SSID and make sure the router make/model is not apart of it. This information could be used by bad actors to try to exploit known vulnerabilities, or it can indicate to an attaker that whoever owns the router did not take necessary precautions to protect their network. It's also not generally recommended to "hide" your network broadcast because that can be circumvented and might pique the curiosity of would-be attackers  |
 | Router firmware | Update your router's firmware regularly. Refer to the manufacturer's website on how to do so for your specific router make/model |
 | Router ports | Check your router's settings for any insecure open ports (might be listed as "port forwarding"). These ports are usually closed by default on consumer routers but it doesn't hurt to check. Refer to the manufacturer's website on how to close ports. An incomplete list of commonly open ports that most of you will want to have disabled is below (I assume if you're using one of these ports you already understand the security implications and do not need me to tell you what to do) |
@@ -184,16 +185,16 @@ Configure your home network in a way to prevent unauthorized access and protect 
 | 6379 | Redis |
 | 27017, 27018 | MongoDB |
 
-| Encryption type | Details |
+| Router encryption type | Details |
 | --- | --- |
-| WEP | Older encryption standard that's very insecure. Some routers support it for backwards compatibility reasons, but you should not use it for your home wifi |
+| WEP | Old encryption standard that's very insecure. Some routers support it for backwards compatibility reasons, but you should not use it for your home wifi |
 | WPS | tbd |
 | WPA | tbd |
 | WPA2 | tbd |
 | WPA3 | tbd |
 
 ## Browsers
-Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
+Chrome is not recommended for privacy. Google [harvests a lot of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
 
 | Browser | Details |
 | --- | --- |
@@ -315,6 +316,11 @@ What you can do to protect your privacy:
   - this [Wired guide](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/) is a good place to start
 - never provide personal information to AI tools like ChatGBT
 - disable unused AI features on your devices
+- host your own local installation of an LLM
+  - [LM Studio](https://lmstudio.ai/) is an excellent option for most people
+  - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/)(still in beta)
+  - for more technically advanced users, consider something directly from [Hugging Face](https://huggingface.co/)
+  - for even more technically advanced users, consider spinning up your own instance of [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 # Phones
 ***Important:*** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
