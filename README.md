@@ -316,7 +316,7 @@ What you can do to protect your privacy:
 
 Consider hosting your own local installation of an LLM. The benefit of hosting an LLM locally is that all of your interactions are saved locally and not sent to some tech giant.
   - [LM Studio](https://lmstudio.ai/) is an excellent option for most people
-  - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/)(still in beta)
+  - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/) (still in beta)
   - for more technically advanced users, consider something directly from [Hugging Face](https://huggingface.co/)
   - for even more technically advanced users, consider spinning up your own instance of [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -393,7 +393,7 @@ Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand 
 - [Session](https://getsession.org/)
 - [Telegram](https://telegram.org/)
 - [Briar](https://briarproject.org/)
-  - enable vannishing messages
+  - enable vanishing messages
 
 ## Apps to Avoid
 - Temu
@@ -444,7 +444,7 @@ These companies are required to comply with local regulations if subpoenaed. Con
 - [encrypt using 7zip](https://info.lse.ac.uk/staff/divisions/dts/help/guides-faqs/software/using-7-Zip-to-encrypt-and-decrypt-files)
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
 
-#Travel
+# Travel
 tbd
 
 # Email
