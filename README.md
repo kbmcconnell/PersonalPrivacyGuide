@@ -11,13 +11,16 @@
    - [MacOS](#macos-settings)
    - [Windows](#windows-settings)
 9. [Email](#email)
-10. [Resources](#resources)
+10. [Travel](#travel)
+11. [Resources](#resources)
 
 ---
 
 **A note**: this guide focuses on data privacy but it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
+
+If you need another reason, then read this article about how the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on every single one of us, then read about [Project Esther]([https://truthout.org/articles/project-esther-is-a-mccarthy-era-blueprint-for-crushing-the-american-left/](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
@@ -63,7 +66,7 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) | For the love of all things holy, you do ***not*** need a bluetooth toothbrush that tells you your brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't usually *requie* and internet or bluetooth connection to function, it's good practice to skip on getting the "smart" option |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Facebook and Instagram collect a lot of data on you, here are some recommendations to reduce that. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). The best thing to do is delete Facebook and Instagram. For those who wish to keep their accounts, there are some options to improve privacy.
+Ideally, we all just delete our Meta accounts. Most people won't, so here is an extensive list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
 
 | Action item | Details |
 | --- | --- |
@@ -87,8 +90,6 @@ Facebook and Instagram collect a lot of data on you, here are some recommendatio
 | Connections | <ul> <li>remove followers you don't know</li> <li></li> <li></li> </ul> |
 | Apps and websites off of Facebook | tbd |
 | Logged information | tbd |
-| Pages | <ul> <li>unlike pages that represent your interests</li> <li></li> <li></li> </ul> |
-| tbd | tbd |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand the breadth and depth of information gathered on you. Data brokers are only a small part of the overall picture when it comes to your personal data. The best thing you can do for your privacy is:
@@ -113,8 +114,8 @@ These resources will help:
 ### Paid data removal
 | Pros | Cons |
 | --- | --- |
-| significantly less<br> time-consuming | ongoing subscription |
-| regular reporting | limited scope & still<br> requires manual work |
+| significantly less time-consuming | ongoing subscription |
+| regular reporting | limited scope & requires manual work |
 
 Some popular providers:
 
@@ -142,7 +143,54 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | tbd | tbd | tbd |
 
 ## Home network setup
-Router configuration tbd
+Configure your home network in a way to prevent unauthorized access and protect your privacy.
+
+| Action | Details |
+| --- | --- |
+| Router password | Always change the default password for all of your devices or accounts |
+| Wifi network (SSID) | Change the default SSID and make sure the router make/model is not apart of it. This information could be used by bad actors to try to exploit known vulnerabilities, or it can indicate to an attaker that whoever owns the router did not take necessary precautions to protect their network. It's also not generally recommended to "hide" your network broadcast because that can be circumvented and might pique the curiosity of would-be attackers  |
+| Router firmware | Update your router's firmware regularly. Refer to the manufacturer's website on how to do so for your specific router make/model |
+| Router ports | Check your router's settings for any insecure open ports (might be listed as "port forwarding"). These ports are usually closed by default on consumer routers but it doesn't hurt to check. Refer to the manufacturer's website on how to close ports. An incomplete list of commonly open ports that most of you will want to have disabled is below (I assume if you're using one of these ports you already understand the security implications and do not need me to tell you what to do) |
+| Router firewall | tbd |
+
+| Port | Service |
+| --- | --- |
+| 20 & 21 | FTP |
+| 22 | SSH |
+| 23 | Telnet |
+| 25 | SMTP |
+| 53 | DNS |
+| 69 | TFTP |
+| 80, 8000, 8080, 8888 | HTTP |
+| 110 | POP3 |
+| 111 & 2049 | NFS |
+| 135 | RPC |
+| 137 | NetBIOS |
+| 138 | NBDS |
+| 139 | NBSS |
+| 143 | IMAP |
+| 161 | SNMP |
+| 389 | LDAP |
+| 445 | SMB |
+| 512, 513, 514 | Linux rexec |
+| 873 | Rsync |
+| 1433 | SQL Server |
+| 1521 | Oracle |
+| 3306 | MySQL |
+| 3389 | RDP |
+| 5000 | Sybase/DB2 |
+| 5432 | PostgreSQL |
+| 5900, 5901, 5902 | VNC |
+| 6379 | Redis |
+| 27017, 27018 | MongoDB |
+
+| Encryption type | Details |
+| --- | --- |
+| WEP | Older encryption standard that's very insecure. Some routers support it for backwards compatibility reasons, but you should not use it for your home wifi |
+| WPS | tbd |
+| WPA | tbd |
+| WPA2 | tbd |
+| WPA3 | tbd |
 
 ## Browsers
 Chrome is not recommended for privacy. Google [harvests vast swaths of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
@@ -391,6 +439,9 @@ These companies are required to comply with local regulations if subpoenaed. Con
 - [encrypt on Windows](https://support.microsoft.com/en-us/windows/how-to-encrypt-a-file-1131805c-47b8-2e3e-a705-807e13c10da7)
 - [encrypt using 7zip](https://info.lse.ac.uk/staff/divisions/dts/help/guides-faqs/software/using-7-Zip-to-encrypt-and-decrypt-files)
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
+
+#Travel
+tbd
 
 # Email
 To start, do not use email to engage in sensitive conversations. Email was not designed to be secure. Engage in sensitive conversations in person or over secure messaging apps like Signal.
