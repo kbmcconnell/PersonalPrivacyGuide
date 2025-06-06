@@ -313,7 +313,8 @@ What you can do to protect your privacy:
   - this [Wired guide](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/) is a good place to start
 - never provide personal information to AI tools like ChatGBT
 - disable unused AI features on your devices
-- host your own local installation of an LLM
+
+Consider hosting your own local installation of an LLM. The benefit of hosting an LLM locally is that all of your interactions are saved locally and not sent to some tech giant.
   - [LM Studio](https://lmstudio.ai/) is an excellent option for most people
   - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/)(still in beta)
   - for more technically advanced users, consider something directly from [Hugging Face](https://huggingface.co/)
