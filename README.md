@@ -125,9 +125,6 @@ Some popular providers:
 - [Kanary](https://www.kanary.com/)
 - [Optery](https://www.optery.com/)
 
-### IoT and Smart Devices
-If a device doesn't *need* to be connected to the internet or to an app on your phone to function, then don't do it. Toothbrushes really, really don't need bluetooth connectivity.
-
 # Web Browsing
 Your ISP (internet service provider), phone apps, cellular provider, web browser, and websites all see some amount of information about you when you use their services.
 
