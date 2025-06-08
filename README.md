@@ -148,47 +148,17 @@ Configure your home network in a way to prevent unauthorized access and protect 
 | Router encryption | tbd |
 | Wifi network (SSID) | Change the default SSID and make sure the router make/model is not apart of it. This information could be used by bad actors to try to exploit known vulnerabilities, or it can indicate to an attaker that whoever owns the router did not take necessary precautions to protect their network. It's also not generally recommended to "hide" your network broadcast because that can be circumvented and might pique the curiosity of would-be attackers  |
 | Router firmware | Update your router's firmware regularly. Refer to the manufacturer's website on how to do so for your specific router make/model |
-| Router ports | Check your router's settings for any insecure open ports (might be listed as "port forwarding"). These ports are usually closed by default on consumer routers but it doesn't hurt to check. Refer to the manufacturer's website on how to close ports. An incomplete list of commonly open ports that most of you will want to have disabled is below (I assume if you're using one of these ports you already understand the security implications and do not need me to tell you what to do) |
+| Router ports | Check your router's settings for any insecure open ports (might be listed as "port forwarding"). These ports are usually disabled by default on consumer routers but it doesn't hurt to check. Refer to the manufacturer's website on how to disable port forwarding |
 | Router firewall | tbd |
 
-| Port | Service |
-| --- | --- |
-| 20 & 21 | FTP |
-| 22 | SSH |
-| 23 | Telnet |
-| 25 | SMTP |
-| 53 | DNS |
-| 69 | TFTP |
-| 80, 8000, 8080, 8888 | HTTP |
-| 110 | POP3 |
-| 111 & 2049 | NFS |
-| 135 | RPC |
-| 137 | NetBIOS |
-| 138 | NBDS |
-| 139 | NBSS |
-| 143 | IMAP |
-| 161 | SNMP |
-| 389 | LDAP |
-| 445 | SMB |
-| 512, 513, 514 | Linux rexec |
-| 873 | Rsync |
-| 1433 | SQL Server |
-| 1521 | Oracle |
-| 3306 | MySQL |
-| 3389 | RDP |
-| 5000 | Sybase/DB2 |
-| 5432 | PostgreSQL |
-| 5900, 5901, 5902 | VNC |
-| 6379 | Redis |
-| 27017, 27018 | MongoDB |
-
+Some routers have multiple options encrypt your wirless network. 
 | Router encryption type | Details |
 | --- | --- |
-| WEP | Old encryption standard that's very insecure. Some routers support it for backwards compatibility reasons, but you should not use it for your home wifi |
-| WPS | tbd |
-| WPA | tbd |
-| WPA2 | tbd |
-| WPA3 | tbd |
+| [WEP]() | Old encryption standard that's very insecure. Some routers support it for backwards compatibility reasons, but you *should not use it* for your home wifi |
+| [WPS](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup) | An older design meant to make home wifi setup easier. Users just needed to push a button to connect to the wireless network. This option is very insecure and *should not* be used for your home wifi |
+| [WPA](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) | First network standard to replace WEP. Considered largely insecure now, so you *should not* use it for your home wifi |
+| [WPA2](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) | Next iteration of WPA. Considered secure when you also incorporate strong passwords. Configure your router to use WPA2-AES if available as it's [more secure than WPA2-TKIP](https://www.howtogeek.com/204697/wi-fi-security-should-you-use-wpa2-aes-wpa2-tkip-or-both/) |
+| [WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) | The most secure option for home network routers |
 
 ## Browsers
 Chrome is not recommended for privacy. Google [harvests a lot of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
