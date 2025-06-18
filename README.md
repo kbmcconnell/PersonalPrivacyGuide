@@ -5,11 +5,7 @@
 3. [Web Browsing](#web-browsing)
 4. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 5. [Phones](#phones)
-   - [iPhone](#iphone-settings)
-   - [Android](#android-settings)
 7. [Computers](#computers)
-   - [MacOS](#macos-settings)
-   - [Windows](#windows-settings)
 9. [Email](#email)
 10. [Travel](#travel)
 11. [Resources](#resources)
@@ -42,7 +38,7 @@ Here are some recommendations that I think will have the largest impact on impro
 | Google | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
-Try Googline yourself and look at the results. What did you find?
+Try Googling yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
 - in targeted ads
