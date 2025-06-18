@@ -16,7 +16,7 @@
 
 ---
 
-**A note**: this guide focuses on data privacy but it often veers into cybersecurity. While security and privacy are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
+This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Why should we trust them to dutifully care for our information, when there aren’t consequences when they lose it?
 
@@ -27,7 +27,7 @@ You deserve to control access to your personal information - who gets it, when i
 ***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
 # TL;DR
-There's a lot of information here, so below are some recommendations that I think will have the largest impact on improving your privacy and security:
+Here are some recommendations that I think will have the largest impact on improving your privacy and security:
 
 | Action item | Details |
 | --- | --- |
