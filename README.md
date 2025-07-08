@@ -23,12 +23,11 @@ You deserve to control access to your personal information - who gets it, when i
 ***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
 # TL;DR
-Here are some recommendations that I think will have the largest impact on improving your privacy and security:
+Here are some recommendations that I think will have the largest impact on improving your privacy and security. You do not need perfection to get some benefit.
 
 | Action item | Details |
 | --- | --- |
 | Privacy-focused<br>browser & search engine | <ul> <li>**popular:** Firefox with DuckDuckGo</li> <li>**best for privacy:** Tor with DuckDuckGo</li> </ul> |
-| “No user logs” VPN | <ul> <li>**user-friendly:** NordVPN or Proton</li> <li>**best for privacy:** Mullvad</li> </ul> |
 | Password manager | Best practice is to use unique, long, and complex passwords. A password manager will help:<br><ul> <li>**user-friendly:** NordPass or 1Password</li> <li>**offers free tier:** Bitwarden</li> </ul> |
 | MFA / 2FA | Enable for everything |
 | Social media | <ul> <li>**best:** delete them</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
