@@ -342,6 +342,7 @@ Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand 
   - [it’s basically malware](https://arstechnica.com/tech-policy/2024/06/shopping-app-temu-is-dangerous-malware-spying-on-your-texts-lawsuit-claims/)
 - Period trackers
   - basically all health & wellness apps, including [mental health apps](https://www.mozillafoundation.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
+  - some exceptions to this are listed below
 - DeepSeek
   - [awful security practices](https://www.forbes.com/sites/torconstantino/2025/02/04/4-warnings-about-deepseek-you-need-to-know-before-using-it/)
 
@@ -394,24 +395,12 @@ To start, do not use email to engage in sensitive conversations. Email was not d
 
 | Action | Details |
 | --- | --- |
-| Email masking | tbd |
+| Email masking | <ul> <li>[Firefox Relay](https://relay.firefox.com/)</li> <li>[Apple iCloud+ Hide My Email](https://support.apple.com/guide/iphone/create-and-manage-hide-my-email-addresses-iphcb02e76f7/ios)</li> </ul> |
 | Newsletters | tbd |
 | Multiple accounts | I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else |
-| Privacy-focused options | tbd |
-| Temporary options | tbd |
+| Privacy-focused options | <ul> <li>[ProtonMail](https://mail.proton.me/)</li> <li>[Startmail](https://www.startmail.com/)</li> </ul> |
+| Temporary options | <ul> <li>[Emailnator](https://www.emailnator.com/)</li> <li>[10 minute mail](https://10minutemail.com/)</li> </ul> |
 | Delete sensitive documents | Google was found to be snooping in users' gmail accounts. Many people use their email to store sensitive documents. Once you've downloaded a document, delete the email |
-
-### Email masking
-- [Firefox Relay](https://relay.firefox.com/)
-- [Apple iCloud+ Hide My Email](https://support.apple.com/guide/iphone/create-and-manage-hide-my-email-addresses-iphcb02e76f7/ios)
-- Startmail
-
-### Privacy-focused options
-- [ProtonMail](https://mail.proton.me/)
-
-### Temporary email options
-- [Emailnator](https://www.emailnator.com/)
-- [10 minute mail](https://10minutemail.com/)
 
 # Resources
 Here are some great resources if you’d like to learn more.
