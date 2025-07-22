@@ -33,8 +33,8 @@ Here are some recommendations that I think will have the largest impact on impro
 | [Social media](#reduce-digital-footprint) | <ul> <li>**best:** delete them and any unused accounts</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
 | [Website privacy settings](#reduce-digital-footprint) | When you visit a website that asks you to accept their cookie policy, reject all or as many cookies as you are able. Sometimes you need to customize settings to do this. There are browser extensions that offer this capability as well as browser settings. On websites where you have an account (think social media, ecommcerce, etc.), opt out of AI training, website tracking, and data & location services in your account settings |
 | [Data brokers](#data-brokers) | Data brokers are really any entity that stores, buys, sells, or uses your data, which is basically all of them. Reducing the amount of information you share on social media or with online companies, the less information will reach their databases. It's also possible to remove your personal information from data broker databases directly, which I also recommend if you have the time |
-| [Apps & software]() | Use applications / software that have end to end encryption (E2EE) |
-| [Google]() | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
+| [Apps & software](#useful-apps) | Use applications / software that have end to end encryption (E2EE) |
+| Google | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
 Try Googling yourself and look at the results. What did you find?
