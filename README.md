@@ -58,7 +58,7 @@ Publicly available information about you can be used:
 | Photo metadata | Photos have metadata that can contain lots of information about what device was used to take the photo, location data, and more. Remove photo metadata using [ExifTool](https://exiftool.org/). There are other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years |
 | Data brokers | Data brokers are entities who collect information about you to sell. They exist in different forms and buy/sell different types of data to build profiles on you, the consumer. For example, people finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). Removing your information from data broker databases is a multi-step process that will take a lot of effort to accomplish, but is well-worth the energy to reduce who has access to your data. There are plenty of reasons to delete your information from these databases and prevent future information from being sold. One example is that US government agencies have been found to be [buying your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers |
 | End to end encryption (E2EE) | Encryption is meant to keep prying eyes from accessing data without permission. For example, if you send an unencrypted text message to your friend, it could be intercepted and read by an unknown third party. Think of encryption as a process that scrambles the content of your message, so even if a third party snags the text, your message would be unreadable. Not all encryption is created equal, and here is a guide (TBD) I wrote about it. Prioritize apps and software that utlize E2EE. Encrypt your phone and computers (more details in their respective sections) |
-| Internet of Things (IoT) | For the love of all things holy, you do ***not*** need a bluetooth toothbrush that tells you your brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" option |
+| Internet of Things (IoT) | We don't need a bluetooth toothbrush that tells us our brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" option |
 
 ## Meta (Facebook, Instagram, Whatsapp)
 Ideally, we all just delete our Meta accounts. Most people won't, so here is an extensive list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
@@ -147,9 +147,9 @@ Chrome is not recommended for privacy. Google [harvests a lot of data](https://w
 | Browser | Details |
 | --- | --- |
 | [Tor](https://www.torproject.org/download/) | If you're looking to improve your anonymity and privacy, then the Tor browser is an excellent choice. It's not as user friendly as other browsers and extensions/plugins are not recommended. Tor is an excellent choice because it works by utilizing [onion routing](https://en.wikipedia.org/wiki/Onion_routing) and it [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) |
-| [Firefox](https://www.mozilla.org/en-US/firefox/) | tbd |
-| [Brave](https://brave.com/) | Brave [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/) |
-| [DuckDuckGo](https://start.duckduckgo.com/) | tbd |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | Firefox is one of the more well-known and popular browsers and is great for people who want a little more privacy without a lot of technical knowledge. Firefox offers custom settings to further improve your data privacy |
+| [Brave](https://brave.com/) | Brave is a great option that [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/) |
+| [DuckDuckGo](https://start.duckduckgo.com/) | Most oeople know about DDG as a search engine but it offers a security-focused browser as well |
 
 ## Search engines
 There are many great alternatives to Google. Moving away from Chrome is only part of the process of de-Googling.
@@ -157,47 +157,41 @@ There are many great alternatives to Google. Moving away from Chrome is only par
 | Search engine | Details |
 | --- | --- |
 | [DuckDuckgo](https://duckduckgo.com/) | DDG is one of the most popular Google alternative search engines. Its search results are built from "over 400 sources" including Bing, Yahoo, and its own web crawler. |
-| [Startpage](https://www.startpage.com/en/) | tbd |
-| [Brave](https://search.brave.com/) | tbd |
-| [Kagi](https://kagi.com/) | tbd |
+| [Startpage](https://www.startpage.com/en/) | A search engine that pulls from Google's search results so you get the results without the tracking |
+| [Brave](https://search.brave.com/) | Much like the browser, Brave is a search engine alternative that is focused on privacy and is a good replacement if you don't like the DDG search engine |
+| [Kagi](https://kagi.com/) | A paid search engine that uses its subscription revenue to pay for operations instead of advertising |
 
 ## Extensions & add-ons
-Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing.
+Be aware that extensions and add-ons can compromise your security. Thoroughly research extensions before installing and keep in mind the more you have installed, the easier it is to identify your browser.
 
 | Extension | Details |
 | --- | --- |
 | uBlock Origin | A popular extension that blocks ads, offers a customizable script blocker, and has configurable website tracking filter |
 | uBlock Origin Lite | Has far less capabilities than uBlock Origin, but is an option for those who must use Chrome and can no longer access the full extension |
-| [ClearURLs](https://github.com/ClearURLs/Addon) | Removes tracking elements from web urls to reduce/prevent tracking |
+| [ClearURLs](https://github.com/ClearURLs/Addon) | Removes tracking elements from web urls to reduce / prevent tracking |
 
 ## Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
 ## VPNs
-***What:*** A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address.
+A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address. They can be useful when you wish to mask your IP address while on the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip). Most internet users don't really need to use a VPN in their day to day life as they won't necessarily provide you enhanced privacy or security. Unless you have specific use cases for a VPN, this one is okay to skip. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
 
-***Why:*** VPNs are useful when you wish to mask your IP address while on the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip).
+If you choose to use a VPN: select a provider that does not log identifying information along with your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?). Here are some providers who have been third party verified and are popular:
 
-***What to look for:*** Whether the VPN service logs/saves your activity and their reputation.
-
-Select a VPN provider that does not log your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?). Here are some providers who have been third party verified and are popular:
-
-| VPN | Details | Third-party Verification |
-| --- | --- | --- |
-| [NordVPN](https://nordvpn.com/) | tbd | tbd |
-| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly | tbd |
-| [Mullvad](https://mullvad.net/en) | Accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you | tbd |
-| [Surfshark](https://surfshark.com/) | tbd | tbd |
-| [ExpressVPN](https://www.expressvpn.com/) | tbd | tbd |
-| [PIA](https://www.privateinternetaccess.com/) | tbd | tbd |
+| VPN | Details |
+| --- | --- |
+| [NordVPN](https://nordvpn.com/) | tbd |
+| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly |
+| [Mullvad](https://mullvad.net/en) | Accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you |
+| [Surfshark](https://surfshark.com/) | tbd |
+| [ExpressVPN](https://www.expressvpn.com/) | tbd |
+| [PIA](https://www.privateinternetaccess.com/) | tbd |
 
 ***Important:*** A VPN does *not* keep your online activity completely anonymous.
 
 ***Consider this:*** You post from a fake account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
 
-***Takeaway:*** A VPN masks your IP address but can still be linked to you based on your online activity. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
-
-Most internet users don't really need to use a VPN in their day to day life. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
+***Takeaway:*** A VPN masks your IP address but can still be linked to you based on your online activity, fingerprinting, and other data. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
 ## Passwords
 For more information, see CISA's [best practices guide](https://www.cisa.gov/secure-our-world/use-strong-passwords).
@@ -227,9 +221,7 @@ Some popular password managers:
 - [1Password](https://1password.com/)
 
 ## MFA / 2FA
-***What:*** Multi-factor (MFA) and 2-factor (2FA) authentication are an extra step to verifying your identity when you log into something.
-
-***Why:*** These measures help prevent unauthorized access to your accounts by requiring additional steps to log into an account.
+Multi-factor (MFA) and 2-factor (2FA) authentication are an extra step to verifying your identity when you log into something. These measures help prevent unauthorized access to your accounts by requiring additional steps to log into an account.
 
 ***TL;DR:*** Enable MFA and 2FA for everything.
 
@@ -242,18 +234,18 @@ There are four **types** of authentication, and a variety of **methods** to achi
 | something you are | biometrics such as face ID or fingerprint | 
 | somewhere you are | geolocation | 
 
-Your username and password fall under the “something you know” authentication **type**.
+For example, your username and password fall under “something you know” authentication **type**.
 
 ***2FA*** requires you to present one (1) additional authentication **method** along with your username and password. 2FA allows you to use the same **type** of method (e.g. something you know, like a PIN or security question).
 
-***MFA*** requires you to present at least one (1) additional authentication **method** along with your username and password. However, the additional method cannot be the same **type**. For example, if you log in with a username/password, you cannot use a PIN, but you can use an authenticator app or biometrics.
+***MFA*** requires you to present *at least* one (1) additional authentication **method** along with your username and password. However, the additional method cannot be the same **type**. For example, if you log in with a username/password, you cannot use a PIN, but you can use an authenticator app or biometrics.
 
 MFA is more secure than 2FA, and both are more secure than single-factor authentication (just a username and password). Always choose MFA over 2FA if it's available.
 
 # Artificial Intelligence (AI)
-There are good reasons to be concerned about how much of personal information generative AI consumes.
+There are good reasons to be concerned about how much of personal information generative AI (aka LLMs) consumes.
 - [privacy concerns](https://iapp.org/news/a/shaping-the-future-a-dynamic-taxonomy-for-ai-privacy-risks)
-- [steals from artists/creatives](https://www.latimes.com/opinion/story/2024-06-18/artificial-intelligence-openai-media-manager-apple)
+- [steals from artists / creatives](https://www.latimes.com/opinion/story/2024-06-18/artificial-intelligence-openai-media-manager-apple)
 - [unsustainable resource consumption](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising)
 - [generative AI uses more resources than task-specific tools](https://www.rwdigital.ca/blog/how-much-energy-do-google-search-and-chatgpt-use/)
 
@@ -267,7 +259,7 @@ What you can do to protect your privacy:
 
 Consider hosting your own local installation of an LLM. The benefit of hosting an LLM locally is that all of your interactions are saved locally and not sent to some tech giant.
   - [LM Studio](https://lmstudio.ai/) is an excellent option for most people
-  - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/) (still in beta)
+  - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/)
   - for more technically advanced users, consider something directly from [Hugging Face](https://huggingface.co/)
   - for even more technically advanced users, consider spinning up your own instance of [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
@@ -298,7 +290,6 @@ With this in mind:
 | Location services | tbd |
 | Phone number masking | tbd |
 | Biometrics | tbd |
-| tbd | tbd |
 
 ## Phone Number Masking
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
@@ -396,7 +387,7 @@ These companies are required to comply with local regulations if subpoenaed. Con
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
 
 # Travel
-tbd
+If you're an American citizen traveling in the U.S., you can request that TSA not take your photo at the airport. They cannot bar you from entering or leaving the country if you opt out.
 
 # Email
 To start, do not use email to engage in sensitive conversations. Email was not designed to be secure. Engage in sensitive conversations in person or over secure messaging apps like Signal.
@@ -408,6 +399,7 @@ To start, do not use email to engage in sensitive conversations. Email was not d
 | Multiple accounts | I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else |
 | Privacy-focused options | tbd |
 | Temporary options | tbd |
+| Delete sensitive documents | Google was found to be snooping in users' gmail accounts. Many people use their email to store sensitive documents. Once you've downloaded a document, delete the email |
 
 ### Email masking
 - [Firefox Relay](https://relay.firefox.com/)
