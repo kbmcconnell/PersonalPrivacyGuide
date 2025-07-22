@@ -65,14 +65,14 @@ Ideally, we all just delete our Meta accounts. Most people won't, so here is an 
 
 | Action item | Details |
 | --- | --- |
-| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>enable 2FA</li> <li>enable Advanced Protection</li> <li></li> </ul> |
+| [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>enable 2FA</li> <li>enable Advanced Protection</li> </ul> |
 | [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li>Your activity off Meta technologies</li> <li>Clear specific activity</li> <li>remove external accounts under "Specific ad partners"</li> </ul> |
 | [Your activity off Meta technologies](https://accountscenter.facebook.com/info_and_permissions/off_facebook_activity/?entry_point=ACCOUNTS_CENTER) | <ul> <li></li> <li></li> </ul>
 | [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
-| [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | <ul> <li>Disconnect specific activity</li> <li></li> <li></li> </ul> |
+| [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | Disconnect specific activity |
 | Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li>ensure all posts and photo updates are set to "friends only"</li> </ul> |
-| Page likes | tbd |
-| Connected apps | tbd |
+| Page likes | Consider reducing the number of pages you like that might have political affiliations |
+| [Connected apps & websites](https://www.facebook.com/settings/?tab=applications) | Remove all connected apps and websites. They're just mining your data |
 | "Login with Facebook" | Don't use Facebook to log into unrelated applications – use an email address instead |
 | Friends | Remove people from your friends list that you don't know |
 
@@ -80,15 +80,15 @@ Ideally, we all just delete our Meta accounts. Most people won't, so here is an 
 **Profile picture > Settings & privacy > Activity log**
 | Setting | Details |
 | --- | --- |
-| Your Facebook activity | tbd |
-| Personal information | tbd |
+| Your Facebook activity | Use this section to check if you have comments or posts that you wish to delete or make visible to "friends only" |
+| Personal information | Check that account and profile updates are set to "friends only" or hide them from your profile |
 | Connections | <ul> <li>remove followers you don't know</li> <li></li> <li></li> </ul> |
 | Apps and websites off of Facebook | tbd |
 | Logged information | tbd |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal data. Some things you can do to keep your data out of databases are:
-- opt out of third party data sharing on everything
+- opt out of third party data sharing on websites and apps
 - delete unnecessary apps
 - reduce the amount of IoT devices you use
 - verify the type of data your smart devices (and apps) gather and share with third parties (and opt out where possible)
@@ -131,29 +131,15 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | Password manager | Highest | Reusing passwords puts your privacy and security at risk. It's not recommended to save your passwords in the browser, so the next best option is to use a password manager. Most, if not all, password managers have browser extensions available make their use more convenient |
 | Extensions | Optional | Extensions *can* compromise your privacy, so you may want to do some research on an extension before adding it to your browser. There are also plenty of extensions that are meant to aid in privacy and security, such as uBlock Origin and ClearURLs |
 | Third party tracking / cookies | Highest | Starting with a browser + search engine that prioritizes privacy will significantly help with this. To go even further, whenever you access a website that prompts you to accept cookies, always reject them all |
-| tbd | tbd | tbd |
-| tbd | tbd | tbd |
 
 ## Home network setup
-Configure your home network in a way to prevent unauthorized access and protect your privacy.
+Configure your home network in a way to prevent unauthorized access and protect your privacy. For more advanced settings like port forwarding, look into your router manufacturer's documentation.
 
 | Action | Details |
 | --- | --- |
 | Router password | Always change the default password for all of your devices or accounts |
-| Router encryption | tbd |
-| Wifi network (SSID) | Change the default SSID and make sure the router make/model is not apart of it. This information could be used by bad actors to try to exploit known vulnerabilities, or it can indicate to an attaker that whoever owns the router did not take necessary precautions to protect their network. It's also not generally recommended to "hide" your network broadcast because that can be circumvented and might pique the curiosity of would-be attackers  |
-| Router firmware | Update your router's firmware regularly. Refer to the manufacturer's website on how to do so for your specific router make/model |
-| Router ports | Check your router's settings for any insecure open ports (might be listed as "port forwarding"). These ports are usually disabled by default on consumer routers but it doesn't hurt to check. Refer to the manufacturer's website on how to disable port forwarding |
-| Router firewall | tbd |
-
-Some routers have multiple options encrypt your wirless network. 
-| Router encryption type | Details |
-| --- | --- |
-| [WEP]() | Old encryption standard that's very insecure. Some routers support it for backwards compatibility reasons, but you *should not use it* for your home wifi |
-| [WPS](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup) | An older design meant to make home wifi setup easier. Users just needed to push a button to connect to the wireless network. This option is very insecure and *should not* be used for your home wifi |
-| [WPA](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) | First network standard to replace WEP. Considered largely insecure now, so you *should not* use it for your home wifi |
-| [WPA2](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) | Next iteration of WPA. Considered secure when you also incorporate strong passwords. Configure your router to use WPA2-AES if available as it's [more secure than WPA2-TKIP](https://www.howtogeek.com/204697/wi-fi-security-should-you-use-wpa2-aes-wpa2-tkip-or-both/) |
-| [WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) | The most secure option for home network routers |
+| Router encryption | If you have an older router, verify that [WPS](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup) is disabled (unless it's necessary for older equipment) and that it's set to use [WPA2 or WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) |
+| Wifi network name (SSID) | Change the default SSID and make sure the router make/model is not in it. This information could be used by bad actors to try to exploit known vulnerabilities, or it can indicate to an attaker that whoever owns the router did not take necessary precautions to protect their network. It's also not generally recommended to "hide" your network broadcast because that can be circumvented and might pique the curiosity of would-be attackers |
 
 ## Browsers
 Chrome is not recommended for privacy. Google [harvests a lot of data](https://www.wired.com/story/google-chrome-browser-data/), and Chrome [disabled ad blockers](https://www.theverge.com/2024/10/15/24270981/google-chrome-ublock-origin-phaseout-manifest-v3-ad-blocker) with manifest v3.
