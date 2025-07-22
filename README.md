@@ -23,16 +23,16 @@ You deserve to control access to your personal information - who gets it, when i
 ***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
 # TL;DR
-Here are some recommendations that I think will have the largest impact on improving your privacy and security. You do not need perfection to get some benefit. If you only do one or two of these things then you're doing great. If you wish to read more of what I've written about each topic, click on the linked topic name and it will take you to the appropriate section
+Here are some recommendations that I think will have the largest impact on improving your privacy and security. You do not need perfection to get some benefit. If you only do one or two of these things then you're doing great. If you wish to read more of what I've written about each topic, just click on the action item name and it will take you to the appropriate section.
 
 | Action item | Details |
 | --- | --- |
 | [Privacy-focused<br>browser & search engine](#browsers) | Firefox with DuckDuckGo is a popular option that will suit most users |
 | [Password manager](#passwords) | Best practice is to use unique, long, and complex passwords. A password manager will help. Here are some popular options:<br><ul> <li>1Password</li> <li>Bitwarden</li> <li>NordPass</li> </ul> |
-| [MFA / 2FA](#mfa--2fa) | Enable for everything |
+| [MFA / 2FA](#mfa--2fa) | Enable for everything, especially the important stuff |
 | [Social media](#reduce-digital-footprint) | <ul> <li>**best:** delete them and any unused accounts</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
-| [Website privacy settings](#reduce-digital-footprint) | When you visit a website that asks you to accept their cookie policy, reject all or as many cookies as you are able. Sometimes you need to customize settings in order to do this. There are browser extensions that offer this capability as well as browser settings but you may still receive the prompt anyway. On websites where you have an account (think social media, ecommcerce, etc.), opt out of third party cookies, AI training, website tracking, and data & location services in your account settings |
-| [Data brokers](#data-brokers) | Remove your personal information from data broker databases and reduce the amount of information you give to social media + websites |
+| [Website privacy settings](#reduce-digital-footprint) | When you visit a website that asks you to accept their cookie policy, reject all or as many cookies as you are able. Sometimes you need to customize settings to do this. There are browser extensions that offer this capability as well as browser settings. On websites where you have an account (think social media, ecommcerce, etc.), opt out of AI training, website tracking, and data & location services in your account settings |
+| [Data brokers](#data-brokers) | Data brokers are really any entity that stores, buys, sells, or uses your data, which is basically all of them. Reducing the amount of information you share on social media or with online companies, the less information will reach their databases. It's also possible to remove your personal information from data broker databases directly, which I also recommend if you have the time |
 | [Apps & software]() | Use applications / software that have end to end encryption (E2EE) |
 | [Google]() | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
