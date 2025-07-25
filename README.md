@@ -12,11 +12,11 @@
 
 ---
 
-This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Security and privacy are a process, not a product.
+This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Security and privacy are a process.
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few.
 
-If you need another reason, then read this article about how the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on all of us, then read about [Project Esther](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
+In case you're not convinced, read this article on how the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on all of us, then read about [Project Esther](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
 
 You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. This guide will help you take some control back. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
 
