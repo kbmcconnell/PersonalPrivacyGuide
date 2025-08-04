@@ -48,7 +48,7 @@ Publicly available information about you can be used:
  
 | Action item | Details |
 | --- | --- |
-| Social media | Social media sites are basically information-harvesting tools. Your personal information, activity, enagement, and attention are worth billions. You can combat this by deleting your social media accounts and/or reducing how much of your information they have access to.<br><br> <ul> <li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li> <li>avoid sharing detailed personal information in social media comments</li> <li>opt out of (third party) data sharing - this may be framed as "personalization"</li> <li>block access to your location</li> <li>block access to your address book</li> <li>disable cross-website tracking</li> <li>disable third party cookies</li> <li>make your profile private</li> <li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li> <li>specific instructions for Facebook / Meta will be below</li> </ul> |
+| Social media | Your personal information, activity, enagement, and attention are worth billions. You can combat data harvesting by deleting your social media accounts and/or reducing how much of your information they have access to.<br><br> <ul> <li>remove personal details such as your employer, full name, relatives, gender identity, etc, from your profile</li> <li>avoid sharing detailed personal information in social media comments</li> <li>opt out of (third party) data sharing - this may be framed as "personalization"</li> <li>block access to your location</li> <li>block access to your address book</li> <li>disable cross-website tracking</li> <li>disable third party cookies</li> <li>make your profile private</li> <li>don't use "Sign in with Google/Facebook/etc" on websites - sign up with an email address instead</li> <li>specific instructions for Facebook / Meta will be below</li> </ul> |
 | [Google account](https://myaccount.google.com) | If you have a gmail account, then this applies to you. Google has a lot of settings and features that are designed to track your activity. Here are some suggestions to get you started.<br><br ><ul> <li>turn off [search personalization](https://www.google.com/search-personalization/?continue=https://myaccount.google.com/data-and-privacy&hl=en)</li> <li>turn off [personalized ads](https://myadcenter.google.com)</li> <li>turn off [web & app activity](https://myactivity.google.com/activitycontrols) - additionally, delete stored activity data</li> <li>turn off [YouTube history](https://myactivity.google.com/activitycontrols)</li> </ul>Some more ways to [de-Google your life](https://proton.me/blog/how-to-de-google) |
 | [Prescreen offers](https://consumer.ftc.gov/articles/prescreened-credit-insurance-offers) | You can opt out of prescreen offers [here](https://www.optoutprescreen.com/). You may want to consider freezing your credit with the 3 major credit bureaus as well. Info on that can be found [here](https://www.usa.gov/credit-freeze) |
 | Public records | Depending on your location and situation, you may request your public records be hidden from public-facing websites run by local, county, and state-wide entities |
@@ -58,7 +58,7 @@ Publicly available information about you can be used:
 | Photo metadata | Photos have metadata that can contain lots of information about what device was used to take the photo, location data, and more. Remove photo metadata using [ExifTool](https://exiftool.org/). There are other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years |
 | Data brokers | Data brokers are entities who collect information about you to sell. They exist in different forms and buy/sell different types of data to build profiles on you, the consumer. For example, people finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). Removing your information from data broker databases is a multi-step process that will take a lot of effort to accomplish, but is well-worth the energy to reduce who has access to your data. There are plenty of reasons to delete your information from these databases and prevent future information from being sold. One example is that US government agencies have been found to be [buying your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers |
 | End to end encryption (E2EE) | Encryption is meant to keep prying eyes from accessing data without permission. For example, if you send an unencrypted text message to your friend, it could be intercepted and read by an unknown third party. Think of encryption as a process that scrambles the content of your message, so even if a third party snags the text, your message would be unreadable. Not all encryption is created equal, and here is a guide (TBD) I wrote about it. Prioritize apps and software that utlize E2EE. Encrypt your phone and computers (more details in their respective sections) |
-| Internet of Things (IoT) | We don't need a bluetooth toothbrush that tells us our brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" option |
+| Internet of Things (IoT) | We don't need a bluetooth toothbrush that tells us our brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" version |
 
 ## Meta (Facebook, Instagram, Whatsapp)
 Ideally, we all just delete our Meta accounts. Most people won't, so here is an extensive list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
@@ -87,7 +87,7 @@ Ideally, we all just delete our Meta accounts. Most people won't, so here is an 
 | Logged information | tbd |
 
 ## Data brokers
-This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal data. Some things you can do to keep your data out of databases are:
+This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal information. Some things you can do to keep your data out of databases are:
 - opt out of third party data sharing on websites and apps
 - delete unnecessary apps
 - reduce the amount of IoT devices you use
@@ -127,9 +127,9 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | --- | --- | --- |
 | Privacy-focused browser | Highest | A privacy-focused browser is the starting point to improving your data privacy. Many of these browsers have features turned on by default that put your data privacy front and center. They might mitigate fingerprinting, block third party cookies and cross-site tracking, mask your IP address, and more |
 | Privacy-focused search engine | Highest | tbd |
-| VPN | High | While VPNs are not required for daily use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool |
+| VPN | High | While VPNs are not required for daily use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool if used correctly |
 | Password manager | Highest | Reusing passwords puts your privacy and security at risk. It's not recommended to save your passwords in the browser, so the next best option is to use a password manager. Most, if not all, password managers have browser extensions available make their use more convenient |
-| Extensions | Optional | Extensions *can* compromise your privacy, so you may want to do some research on an extension before adding it to your browser. There are also plenty of extensions that are meant to aid in privacy and security, such as uBlock Origin and ClearURLs |
+| Extensions | Optional | Extensions *can* compromise your privacy, so you may want to do some research on an extension before adding it to your browser. There are also plenty of extensions that are meant to aid in privacy and security, such as uBlock Origin and ClearURLs. Keep in mind that extensions can also compromise your privacy and security |
 | Third party tracking / cookies | Highest | Starting with a browser + search engine that prioritizes privacy will significantly help with this. To go even further, whenever you access a website that prompts you to accept cookies, always reject them all |
 
 ## Home network setup
@@ -147,9 +147,11 @@ Chrome is not recommended for privacy. Google [harvests a lot of data](https://w
 | Browser | Details |
 | --- | --- |
 | [Tor](https://www.torproject.org/download/) | If you're looking to improve your anonymity and privacy, then the Tor browser is an excellent choice. It's not as user friendly as other browsers and extensions/plugins are not recommended. Tor is an excellent choice because it works by utilizing [onion routing](https://en.wikipedia.org/wiki/Onion_routing) and it [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) |
-| [Firefox](https://www.mozilla.org/en-US/firefox/) | Firefox is one of the more well-known and popular browsers and is great for people who want a little more privacy without a lot of technical knowledge. Firefox offers custom settings to further improve your data privacy |
+| [Firefox](https://www.mozilla.org/en-US/firefox/) | Firefox is one of the more well-known and popular browsers and is great for people who want a little more privacy paired with Chrome's functionality |
 | [Brave](https://brave.com/) | Brave is a great option that [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/) |
 | [DuckDuckGo](https://start.duckduckgo.com/) | Most oeople know about DDG as a search engine but it offers a security-focused browser as well |
+
+Be sure to configure additional privacy settings for any web browser you choose to get the most out of it.
 
 ## Search engines
 There are many great alternatives to Google. Moving away from Chrome is only part of the process of de-Googling.
@@ -180,16 +182,16 @@ If you choose to use a VPN: select a provider that does not log identifying info
 
 | VPN | Details |
 | --- | --- |
-| [NordVPN](https://nordvpn.com/) | tbd |
+| [NordVPN](https://nordvpn.com/) | (Mostly) reputable provider who offers bundled products |
 | [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly |
 | [Mullvad](https://mullvad.net/en) | Accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you |
-| [Surfshark](https://surfshark.com/) | tbd |
-| [ExpressVPN](https://www.expressvpn.com/) | tbd |
-| [PIA](https://www.privateinternetaccess.com/) | tbd |
+| [Surfshark](https://surfshark.com/) | Another well-known provider who also offers bundled products |
+| [ExpressVPN](https://www.expressvpn.com/) | VPN and password manager provider that's been in service since 2009 |
+| [PIA](https://www.privateinternetaccess.com/) | Provider that's been in service since 2010 |
 
 ***Important:*** A VPN does *not* keep your online activity completely anonymous.
 
-***Consider this:*** You post from a fake account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
+***Consider this:*** You post from an anonymous account on a forum, but you’re on a VPN, so your IP address is masked. However, you then place an online order for pizza delivery while still logged into the VPN. That IP address is now directly tied to your address and forum post.
 
 ***Takeaway:*** A VPN masks your IP address but can still be linked to you based on your online activity, fingerprinting, and other data. This is why disabling things like tracking and third party cookies is useful. If anonymity is your goal, check out [The Hitchhiker’s Guide](https://anonymousplanet.org/guide.htmlw).
 
