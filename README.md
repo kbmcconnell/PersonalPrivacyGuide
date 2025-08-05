@@ -396,6 +396,7 @@ There are many options out there who aren't Google or Microsoft.
 | --- | --- |
 | [Proton Drive](https://drive.proton.me/) | Encrypted email and documents |
 | [CryptPad](https://cryptpad.fr/) | Open source encrypted documents |
+| [Grist](https://www.getgrist.com/) | Open source encrypted spreadsheets that can be self-hosted |
 
 # Travel
 If you're an American citizen traveling in the U.S., you can request that TSA not take your photo at the airport. They cannot bar you from entering or leaving the country if you opt out.
