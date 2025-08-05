@@ -384,10 +384,18 @@ iCloud, Google Drive, and OneDrive are considered safe, but you may want to acti
 - [Google Drive key security controls](https://cloud.google.com/docs/security/overview/whitepaper#key_security_controls)
 - [OneDrive security overview](https://learn.microsoft.com/en-us/sharepoint/onedrive-privacy-security-overview)
 
-These companies are required to comply with local regulations if subpoenaed. Consider manually encrypting sensitive files/folders. Use a long, complex password and store it in a fire safe AND password manager.
+These companies are required to comply with local regulations if subpoenaed. Assume anything stored in the cloud owned by a US-based company is under the purview of the US government. Consider manually encrypting sensitive files/folders. Use a long, complex password and store it in a fire safe AND password manager.
 - [encrypt on Windows](https://support.microsoft.com/en-us/windows/how-to-encrypt-a-file-1131805c-47b8-2e3e-a705-807e13c10da7)
 - [encrypt using 7zip](https://info.lse.ac.uk/staff/divisions/dts/help/guides-faqs/software/using-7-Zip-to-encrypt-and-decrypt-files)
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
+
+## Word Processors
+There are many options out there who aren't Google or Microsoft.
+
+| Provider | Details |
+| --- | --- |
+| [Proton Drive](https://drive.proton.me/) | Encrypted email and documents |
+| [CryptPad](https://cryptpad.fr/) | Open source encrypted documents |
 
 # Travel
 If you're an American citizen traveling in the U.S., you can request that TSA not take your photo at the airport. They cannot bar you from entering or leaving the country if you opt out.
