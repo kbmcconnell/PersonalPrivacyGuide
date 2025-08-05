@@ -67,8 +67,8 @@ Ideally, we all just delete our Meta accounts. Most people won't, so here is an 
 | --- | --- |
 | [Password and Security](https://accountscenter.facebook.com/password_and_security) | <ul> <li>enable 2FA</li> <li>enable Advanced Protection</li> </ul> |
 | [Your information and permissions](https://accountscenter.facebook.com/info_and_permissions) | <ul> <li>Your activity off Meta technologies</li> <li>Clear specific activity</li> <li>remove external accounts under "Specific ad partners"</li> </ul> |
-| [Your activity off Meta technologies](https://accountscenter.facebook.com/info_and_permissions/off_facebook_activity/?entry_point=ACCOUNTS_CENTER) | <ul> <li></li> <li></li> </ul>
-| [Ad preferences](https://accountscenter.facebook.com/ads) | <ul> <li></li> <li></li> <li></li> </ul> |
+| [Your activity off Meta technologies](https://accountscenter.facebook.com/info_and_permissions/off_facebook_activity/?entry_point=ACCOUNTS_CENTER) | <ul> <li>Disconnect specific activity - remove any connected brands or services</li> <li>Clear previous activity - select "clear" for all of your Meta accounts</li> <li>Manage future activity - "Disconnect future activity"</li> </ul>
+| [Ad preferences](https://accountscenter.facebook.com/ads) | Turn off all of the settings under "Manage info" |
 | [Connected experiences](https://accountscenter.facebook.com/connected_experiences) | Disconnect specific activity |
 | Profile settings | <ul> <li>remove personal details such as your marital status, location, job, school, family members, etc</li> <li>make your profile private</li> <li>ensure all posts and photo updates are set to "friends only"</li> </ul> |
 | Page likes | Consider reducing the number of pages you like that might have political affiliations |
