@@ -158,7 +158,7 @@ There are many great alternatives to Google. Moving away from Chrome is only par
 
 | Search engine | Details |
 | --- | --- |
-| [DuckDuckgo](https://duckduckgo.com/) | DDG is one of the most popular Google alternative search engines. Its search results are built from "over 400 sources" including Bing, Yahoo, and its own web crawler. |
+| [DuckDuckgo](https://duckduckgo.com/) | DDG is one of the most popular Google alternative search engines. Its search results are built from "over 400 sources" including Bing, Yahoo, and its own web crawler |
 | [Startpage](https://www.startpage.com/en/) | A search engine that pulls from Google's search results so you get the results without the tracking |
 | [Brave](https://search.brave.com/) | Much like the browser, Brave is a search engine alternative that is focused on privacy and is a good replacement if you don't like the DDG search engine |
 | [Kagi](https://kagi.com/) | A paid search engine that uses its subscription revenue to pay for operations instead of advertising |
@@ -171,12 +171,13 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 | uBlock Origin | A popular extension that blocks ads, offers a customizable script blocker, and has configurable website tracking filter |
 | uBlock Origin Lite | Has far less capabilities than uBlock Origin, but is an option for those who must use Chrome and can no longer access the full extension |
 | [ClearURLs](https://github.com/ClearURLs/Addon) | Removes tracking elements from web urls to reduce / prevent tracking |
+| [Privacy Badger](https://privacybadger.org/) | Blocks third party tracking |
 
 ## Website cookies
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
 ## VPNs
-A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address. They can be useful when you wish to mask your IP address while on the web. [Reasons to mask your IP address](https://usa.kaspersky.com/resource-center/preemptive-safety/how-to-hide-ip). Most internet users don't really need to use a VPN in their day to day life as they won't necessarily provide you enhanced privacy or security. Unless you have specific use cases for a VPN, this one is okay to skip. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
+A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address. They can be useful when you wish to mask your IP address while on the web. Most internet users don't really need to use a VPN in their day to day life as they won't necessarily provide you enhanced privacy or security. Unless you have specific use cases for a VPN, this one is okay to skip. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
 
 If you choose to use a VPN: select a provider that does not log identifying information along with your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?). Here are some providers who have been third party verified and are popular:
 
@@ -204,15 +205,10 @@ For more information, see CISA's [best practices guide](https://www.cisa.gov/sec
 | Unique Passwords | Highest | Use a different password for everything. If you utlize a password manager, then there's no need to memorize the password for every application or website you have an account with. When you reuse passwords, if your credentials for one website leak, then it puts all of your other accounts with the same credentials at risk |
 | Passkeys | Highest | Passkeys are a more secure alternative to passwords. More information [here](https://www.passkeys.com/passkey-vs-password) |
 | Password manager | Highest | You likely have dozens of accounts that require login credentials. It's an unavoidable fact of the modern era. If you have more than a handful of accounts with login credentials, then you pretty much need a password manager. It's the way way to generate random passwords and to manage credentials for dozens of websites |
-| MFA / 2FA | Highest | tbd |
-| Single Sign On (SSO) | tbd | tbd |
+| MFA / 2FA | Highest | Turn on MFA (best) or 2FA for every account you have. If you need to prioritize what to activate it for, start with your bank, email, Apple/Windows accounts, and social media |
 
 ## Password Managers
-**What:** Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
-
-***Why:*** They enable you to save a lot of unique passwords that you don’t have to memorize.
-
-***What to look for:*** Reputation, features, and recent security breaches.
+Password managers store login credentials, contact details, secure notes, and more in an encrypted “vault.”
 
 Apple and Google Passwords are secure if that’s your preference. The downside is if you lose access to your Apple ID or Google account, you’ll lose access to all of your passwords.
 
@@ -251,7 +247,7 @@ There are good reasons to be concerned about how much of personal information ge
 - [unsustainable resource consumption](https://www.vox.com/climate/2024/3/28/24111721/climate-ai-tech-energy-demand-rising)
 - [generative AI uses more resources than task-specific tools](https://www.rwdigital.ca/blog/how-much-energy-do-google-search-and-chatgpt-use/)
 
-AI can be a useful tool to those with disabilities, so abandoning it entirely is not an option for everyone. When most people think of AI, they think of generative AI, but narrow AI has been around for years. Generative AI poses a large risk to privacy. [Here’s the difference](https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/).
+When most people think of AI, they think of generative AI, but narrow AI has been around for years. Generative AI poses a large risk to privacy. [Here’s the difference](https://www.forbes.com/sites/bernardmarr/2023/07/24/the-difference-between-generative-ai-and-traditional-ai-an-easy-explanation-for-anyone/). Narrow AI can be a better solution in many cases over generative AI.
 
 What you can do to protect your privacy:
 - opt out of AI training
@@ -260,10 +256,10 @@ What you can do to protect your privacy:
 - disable unused AI features on your devices
 
 Consider hosting your own local installation of an LLM. The benefit of hosting an LLM locally is that all of your interactions are saved locally and not sent to some tech giant.
-  - [LM Studio](https://lmstudio.ai/) is an excellent option for most people
-  - Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/)
-  - for more technically advanced users, consider something directly from [Hugging Face](https://huggingface.co/)
-  - for even more technically advanced users, consider spinning up your own instance of [llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [LM Studio](https://lmstudio.ai/) is an excellent option for most people
+- Mac users can try [Docker Model Runner](https://docs.docker.com/ai/model-runner/)
+- for more technically advanced users, consider something directly from [Hugging Face](https://huggingface.co/)
+- for even more technically advanced users, consider spinning up your own instance of [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 # Phones
 ***Important:*** Police may legally compel you to use biometrics to unlock your phone. Some courts currently consider the use of biometrics as a “nontestimonial act.”
