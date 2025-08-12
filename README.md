@@ -12,7 +12,7 @@
 
 ---
 
-This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy. Security and privacy are a process.
+This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few.
 
@@ -32,12 +32,12 @@ Here are some recommendations that I think will have the largest impact on impro
 | [MFA / 2FA](#mfa--2fa) | Enable for everything, especially the important stuff |
 | [Social media](#reduce-digital-footprint) | <ul> <li>**best:** delete them and any unused accounts</li> <li>**good:** remove personal information, make accounts private, opt out of third party sharing</li> </ul> |
 | [Website privacy settings](#reduce-digital-footprint) | When you visit a website that asks you to accept their cookie policy, reject all or as many cookies as you are able. Sometimes you need to customize settings to do this. There are browser extensions that offer this capability as well as browser settings. On websites where you have an account (think social media, ecommcerce, etc.), opt out of AI training, website tracking, and data & location services in your account settings |
-| [Data brokers](#data-brokers) | Data brokers are really any entity that stores, buys, sells, or uses your data, which is basically all of them. Reducing the amount of information you share on social media or with online companies, the less information will reach their databases. It's also possible to remove your personal information from data broker databases directly, which I also recommend if you have the time |
+| [Data brokers](#data-brokers) | Data brokers are really any entity that stores, buys, sells, or uses a person's personal data to earn revenue. Reducing the amount of information you share on social media or with online companies reduces the amount of data they can gather on you. It's also possible to remove your personal information from data broker databases directly, which I also recommend if you have the time |
 | [Apps & software](#useful-apps) | Use applications / software that have end to end encryption (E2EE) |
 | Google | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
-Try Googling yourself and look at the results. What did you find?
+Try searching for yourself and look at the results. What did you find?
 
 Publicly available information about you can be used:
 - in targeted ads
