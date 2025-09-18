@@ -37,8 +37,6 @@ Here are some recommendations that I think will have the largest impact on impro
 | Google | [How to de-Google your life](https://proton.me/blog/how-to-de-google) |
 
 # Reduce Digital Footprint
-Try searching for yourself and look at the results. What did you find?
-
 Publicly available information about you can be used:
 - in targeted ads
 - to [dox you](https://en.wikipedia.org/wiki/Doxing#:~:text=Doxing%20or%20doxxing%20is%20the,Internet%20and%20without%20their%20consent.)
@@ -61,7 +59,7 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) | We don't need a bluetooth toothbrush that tells us our brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" version |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Ideally, we all just delete our Meta accounts. Most people won't, so here is an extensive list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
+Ideally, we all delete our Meta accounts (after wiping our personal details from them first). If not, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
 
 | Action item | Details |
 | --- | --- |
