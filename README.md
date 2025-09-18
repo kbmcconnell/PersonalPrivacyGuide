@@ -410,6 +410,7 @@ To start, do not use email to engage in sensitive conversations. Email was not d
 # Resources
 Here are some great resources if you’d like to learn more.
 - [Electronic Frontier Foundation](https://www.eff.org/)
+  - [EFF Security Starter Pack](https://ssd.eff.org/playlist/want-security-starter-pack)
 - [Privacy Rights Clearinghouse](https://privacyrights.org/)
 - [The Digital Standard](https://thedigitalstandard.org/)
 - [Surveillance Technology Oversight Project](https://www.stopspying.org/)
