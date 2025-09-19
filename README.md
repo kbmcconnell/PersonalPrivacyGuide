@@ -238,6 +238,14 @@ For example, your username and password fall under “something you know” auth
 
 MFA is more secure than 2FA, and both are more secure than single-factor authentication (just a username and password). Always choose MFA over 2FA if it's available.
 
+MFA / 2FA tier list:
+
+| Option | Rank | Examples | Rationale |
+| --- | --- | --- | --- |
+| security key | top choice | yubikey | tbd |
+| authenticator app | great choice | tbd | tbd |
+| OTP | not ideal | codes sent via text or email | tbd |
+
 # Artificial Intelligence (AI)
 There are good reasons to be concerned about how much of personal information generative AI (aka LLMs) consumes.
 - [privacy concerns](https://iapp.org/news/a/shaping-the-future-a-dynamic-taxonomy-for-ai-privacy-risks)
