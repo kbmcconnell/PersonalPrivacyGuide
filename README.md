@@ -179,14 +179,12 @@ A VPN is a virtual private network that can encrypt your internet traffic and ma
 
 If you choose to use a VPN: select a provider that does not log identifying information along with your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?). Here are some providers who have been third party verified and are popular:
 
-| VPN | Details |
-| --- | --- |
-| [NordVPN](https://nordvpn.com/) | (Mostly) reputable provider who offers bundled products |
-| [Proton](https://protonvpn.com/) | Accepts cash payments, which will reduce the amount of information linked to you directly |
-| [Mullvad](https://mullvad.net/en) | Accounts are randomly generated without your personal details, and they accept cash payment, meaning your account can’t easily be tied to you |
-| [Surfshark](https://surfshark.com/) | Another well-known provider who also offers bundled products |
-| [ExpressVPN](https://www.expressvpn.com/) | VPN and password manager provider that's been in service since 2009 |
-| [PIA](https://www.privateinternetaccess.com/) | Provider that's been in service since 2010 |
+- [Proton](https://protonvpn.com/)
+- [NordVPN](https://nordvpn.com/)
+- [Mullvad](https://mullvad.net/en)
+- [Surfshark](https://surfshark.com/)
+- [ExpressVPN](https://www.expressvpn.com/)
+- [PIA](https://www.privateinternetaccess.com/)
 
 ***Important:*** A VPN does *not* keep your online activity completely anonymous.
 
@@ -242,8 +240,8 @@ MFA / 2FA tier list:
 
 | Option | Rank | Examples | Details |
 | --- | --- | --- | --- |
-| security key | top choice | yubikey | tbd |
-| authenticator app | great choice | tbd | tbd |
+| security key | top choice | yubikey | (PCMag on using security keys)[https://www.pcmag.com/how-to/protect-your-online-accounts-physical-security-key#] |
+| authenticator app | great choice | Proton Auth | tbd |
 | OTP | avoid when possible | codes sent via text or email | tbd |
 
 # Artificial Intelligence (AI)
