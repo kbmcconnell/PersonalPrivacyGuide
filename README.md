@@ -226,7 +226,7 @@ There are four **types** of authentication, and a variety of **methods** to achi
 | Type | Method(s) |
 | --- | --- |
 | something you know | password, PIN, security questions |
-| something you have | one time password (OTP), authenticator app | 
+| something you have | yubikey, one time password (OTP), authenticator app | 
 | something you are | biometrics such as face ID or fingerprint | 
 | somewhere you are | geolocation | 
 
@@ -240,11 +240,11 @@ MFA is more secure than 2FA, and both are more secure than single-factor authent
 
 MFA / 2FA tier list:
 
-| Option | Rank | Examples | Rationale |
+| Option | Rank | Examples | Details |
 | --- | --- | --- | --- |
 | security key | top choice | yubikey | tbd |
 | authenticator app | great choice | tbd | tbd |
-| OTP | not ideal | codes sent via text or email | tbd |
+| OTP | avoid when possible | codes sent via text or email | tbd |
 
 # Artificial Intelligence (AI)
 There are good reasons to be concerned about how much of personal information generative AI (aka LLMs) consumes.
