@@ -81,8 +81,8 @@ Ideally, we all delete our Meta accounts (after wiping our personal details from
 | Your Facebook activity | Use this section to check if you have comments or posts that you wish to delete or make visible to "friends only" |
 | Personal information | Check that account and profile updates are set to "friends only" or hide them from your profile |
 | Connections | <ul> <li>remove followers you don't know</li> <li></li> <li></li> </ul> |
-| Apps and websites off of Facebook | tbd |
-| Logged information | tbd |
+| Apps and websites off of Facebook | Check to see if anything needs to be removed |
+| Logged information | Check for public activity you wish to remove |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal information. Some things you can do to keep your data out of databases are:
