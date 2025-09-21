@@ -59,7 +59,7 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) | We don't need a bluetooth toothbrush that tells us our brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" version |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Ideally, we all delete our Meta accounts (after wiping our personal details from them first). If not, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com).
+Ideally, we all delete our Meta accounts. If not, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). Details on (permanently deactivating your Facebook account)[https://www.facebook.com/help/224562897555674/FACEBOOK/].
 
 | Action item | Details |
 | --- | --- |
@@ -80,14 +80,14 @@ Ideally, we all delete our Meta accounts (after wiping our personal details from
 | --- | --- |
 | Your Facebook activity | Use this section to check if you have comments or posts that you wish to delete or make visible to "friends only" |
 | Personal information | Check that account and profile updates are set to "friends only" or hide them from your profile |
-| Connections | <ul> <li>remove followers you don't know</li> <li></li> <li></li> </ul> |
+| Connections | remove followers you don't know |
 | Apps and websites off of Facebook | Check to see if anything needs to be removed |
 | Logged information | Check for public activity you wish to remove |
 
 ## Data brokers
 This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal information. Some things you can do to keep your data out of databases are:
 - opt out of third party data sharing on websites and apps
-- delete unnecessary apps
+- delete unnecessary apps and unused accounts
 - reduce the amount of IoT devices you use
 - verify the type of data your smart devices (and apps) gather and share with third parties (and opt out where possible)
 - turn off location tracking
