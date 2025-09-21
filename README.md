@@ -59,7 +59,7 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) | We don't need a bluetooth toothbrush that tells us our brushing habits. Nearly ALL smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices, not the devices themselves). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" version |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Ideally, we all delete our Meta accounts. If not, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). Details on (permanently deactivating your Facebook account)[https://www.facebook.com/help/224562897555674/FACEBOOK/].
+Ideally, we all delete our Meta accounts. If not, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). Details on [permanently deactivating your Facebook account](https://www.facebook.com/help/224562897555674/FACEBOOK/).
 
 | Action item | Details |
 | --- | --- |
@@ -147,7 +147,7 @@ Chrome is not recommended for privacy. Google [harvests a lot of data](https://w
 | [Tor](https://www.torproject.org/download/) | If you're looking to improve your anonymity and privacy, then the Tor browser is an excellent choice. It's not as user friendly as other browsers and extensions/plugins are not recommended. Tor is an excellent choice because it works by utilizing [onion routing](https://en.wikipedia.org/wiki/Onion_routing) and it [mitigates fingerprinting](https://tb-manual.torproject.org/anti-fingerprinting/) |
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | Firefox is one of the more well-known and popular browsers and is great for people who want a little more privacy paired with Chrome's functionality |
 | [Brave](https://brave.com/) | Brave is a great option that [mitigates fingerprinting](https://brave.com/privacy-updates/3-fingerprint-randomization/) |
-| [DuckDuckGo](https://start.duckduckgo.com/) | Most oeople know about DDG as a search engine but it offers a security-focused browser as well |
+| [DuckDuckGo](https://start.duckduckgo.com/) | Most people know about DDG as a search engine but it offers a security-focused browser as well |
 
 Be sure to configure additional privacy settings for any web browser you choose to get the most out of it.
 
