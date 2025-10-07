@@ -18,7 +18,7 @@ Your data is often gathered through complex terms & conditions, features such as
 
 The US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on all of us. Read about [Project Esther](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
 
-You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html).
+You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. If you want a more thorough guide, check out [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide/).
 
 ***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
