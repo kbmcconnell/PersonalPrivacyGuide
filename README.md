@@ -374,7 +374,15 @@ Period tracker apps that store your data on your phone instead of the cloud:
 - [Drip](https://bloodyhealth.gitlab.io/)
 
 # Computers
-Most of you are probably not going to use Linux. I think Linux is the best option for security and usability. Consider [Debian](https://www.debian.org/) or [Ubuntu](https://ubuntu.com/). This [TechRadar article](https://www.techradar.com/news/best-linux-distro-privacy-security) has some additional OS recommendations.
+Most of you are probably not going to use Linux, but I think everyone should use it. Linux is great for privacy, but it only has a fraction of the market share of operating systems. Some good options for Linux newbies:
+
+| Linux distro | Details |
+| --- | --- |
+| [Linux Mint](https://linuxmint.com/) | A free, user-friendly OS that looks and operates like an older Windows OS |
+| [Zorin OS](https://zorin.com/os/pro/) | A user-friendly OS that offers a paid pro version and can support many Windows apps |
+| [Ubuntu](https://ubuntu.com/) | A classic Linux distro that's beginner friendly |
+
+Note that these Linux distros don't formally support Apple Silicon chips, so you might not have much success repalcing the OS unless you're working with older hardware that still has Intel chips.
 
 ## MacOS Settings
 | Setting | Action | Details |
