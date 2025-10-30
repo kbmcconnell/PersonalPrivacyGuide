@@ -73,6 +73,7 @@ Ideally, we all delete our Meta accounts. If not, here is a list of actions you 
 | [Connected apps & websites](https://www.facebook.com/settings/?tab=applications) | Remove all connected apps and websites. They're just mining your data |
 | "Login with Facebook" | Don't use Facebook to log into unrelated applications – use an email address instead |
 | Friends | Remove people from your friends list that you don't know |
+| [How people find and contact you](https://www.facebook.com/settings/?tab=how_people_find_and_contact_you) | Restrict or turn off most of these settings |
 
 ### Facebook Activity log
 **Profile picture > Settings & privacy > Activity log**
