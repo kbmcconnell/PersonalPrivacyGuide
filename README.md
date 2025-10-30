@@ -382,7 +382,7 @@ Most of you are probably not going to use Linux, but I think everyone should use
 | [Zorin OS](https://zorin.com/os/pro/) | A user-friendly OS that offers a paid pro version and can support many Windows apps |
 | [Ubuntu](https://ubuntu.com/) | A classic Linux distro that's beginner friendly |
 
-Note that these Linux distros don't formally support Apple Silicon chips, so you might not have much success repalcing the OS unless you're working with older hardware that still has Intel chips.
+Note that these Linux distros don't formally support Apple Silicon chips, so you might not have much success replacing the OS unless you're working with older hardware that still has Intel chips.
 
 ## MacOS Settings
 | Setting | Action | Details |
