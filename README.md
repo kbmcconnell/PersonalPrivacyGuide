@@ -384,6 +384,8 @@ Most of you are probably not going to use Linux, but I think everyone should use
 
 Note that these Linux distros don't formally support Apple Silicon chips, so you might not have much success replacing the OS unless you're working with older hardware that still has Intel chips.
 
+Looking to disappear? Consider [Tails](https://tails.net/index.en.html).
+
 ## MacOS Settings
 | Setting | Action | Details |
 | --- | --- | --- |
@@ -424,6 +426,7 @@ There are many options out there who aren't Google or Microsoft.
 | [Proton Drive](https://drive.proton.me/) | Encrypted email and documents |
 | [CryptPad](https://cryptpad.fr/) | Open source encrypted documents |
 | [Grist](https://www.getgrist.com/) | Open source encrypted spreadsheets that can be self-hosted |
+| [LibreOffice](https://www.libreoffice.org/) | Open source office suite with robust productivity tools |
 
 # Travel
 If you're an American citizen traveling in the U.S., you can request that TSA not take your photo at the airport. They cannot bar you from entering or leaving the country if you opt out.
