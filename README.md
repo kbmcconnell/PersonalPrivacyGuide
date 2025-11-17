@@ -440,7 +440,6 @@ To start, do not use email to engage in sensitive conversations. Email was not d
 | Action | Details |
 | --- | --- |
 | Email masking | <ul> <li>[Firefox Relay](https://relay.firefox.com/)</li> <li>[Apple iCloud+ Hide My Email](https://support.apple.com/guide/iphone/create-and-manage-hide-my-email-addresses-iphcb02e76f7/ios)</li> </ul> |
-| Newsletters | tbd |
 | Multiple accounts | I recommend one email address to use professionally (resume, job apps, etc). Then use other email accounts for everything else. e.g. relay services, temporary email, etc |
 | Privacy-focused options | <ul> <li>[ProtonMail](https://mail.proton.me/)</li> <li>[Startmail](https://www.startmail.com/)</li> </ul> |
 | Temporary options | <ul> <li>[Emailnator](https://www.emailnator.com/)</li> <li>[10 minute mail](https://10minutemail.com/)</li> </ul> |
