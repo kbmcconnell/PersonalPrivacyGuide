@@ -25,7 +25,7 @@
     - [MacOS](#macos-settings)
     - [Windows](#windows-settings)
     - [Cloud storage](#cloud-storage)
-    - [Word processors](#word-processors)
+10. [Software alternatives](#software-alternatives)
 11. [Email](#email)
 12. [Travel](#travel)
 13. [Resources](#resources)
@@ -418,15 +418,18 @@ These companies are required to comply with local regulations if subpoenaed. Ass
 - [encrypt using 7zip](https://info.lse.ac.uk/staff/divisions/dts/help/guides-faqs/software/using-7-Zip-to-encrypt-and-decrypt-files)
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
 
-## Word Processors
-There are many options out there who aren't Google or Microsoft.
+# Software alternatives
+For a comprehensive list of software alternatives, check out [AlternativeTo](https://alternativeto.net/).
 
-| Provider | Details |
-| --- | --- |
-| [Proton Drive](https://drive.proton.me/) | Encrypted email and documents |
-| [CryptPad](https://cryptpad.fr/) | Open source encrypted documents |
-| [Grist](https://www.getgrist.com/) | Open source encrypted spreadsheets that can be self-hosted |
-| [LibreOffice](https://www.libreoffice.org/) | Open source office suite with robust productivity tools |
+| Tool | Replaces | Features |
+| --- | --- | --- |
+| [Proton Docs](https://drive.proton.me/) | Google Docs / Word Online | E2EE cloud-based word processor |
+| [CryptPad](https://cryptpad.fr/) | Google Docs / Microsoft Office | E2EE office suite |
+| [Grist](https://www.getgrist.com/) | Google Sheets / Excel | a spreadsheet service that you can host locally |
+| [LibreOffice](https://www.libreoffice.org/) | Google suite / Microsoft Office | a free, open source office suite |
+| tbd | tbd | tbd |
+| tbd | tbd | tbd |
+| tbd | tbd | tbd |
 
 # Travel
 If you're an American citizen traveling in the U.S., you can request that TSA not take your photo at the airport. They cannot bar you from entering or leaving the country if you opt out.
