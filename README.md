@@ -334,6 +334,7 @@ Some examples:
 | Allow Apps to Request to Track | [disable](https://support.apple.com/guide/iphone/control-app-tracking-permissions-iph4f4cbd242/ios) | tbd |
 | Stolen device protection | [enable](https://support.apple.com/en-us/120340) | tbd |
 | Airdrop | [disable](https://support.apple.com/en-us/102647) or set to "Contacts Only" | tbd |
+| Advertising ID | tbd | tbd |
 
 ## Android Settings
 Start [here](https://veepn.com/blog/10-android-privacy-settings/) to understand the privacy and security settings available to you.
@@ -417,6 +418,14 @@ These companies are required to comply with local regulations if subpoenaed. Ass
 - [encrypt on Windows](https://support.microsoft.com/en-us/windows/how-to-encrypt-a-file-1131805c-47b8-2e3e-a705-807e13c10da7)
 - [encrypt using 7zip](https://info.lse.ac.uk/staff/divisions/dts/help/guides-faqs/software/using-7-Zip-to-encrypt-and-decrypt-files)
 - [encrypt on MacOS](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
+
+# Smart devices
+As mentioned before, you want to avoid using smart devices if they don't require an internet connection to function. If you already own smart devices and want to improve your privacy, here are some tips for the biggest offenders.
+
+| Device | Guide |
+| --- | --- |
+| smart TVs | tbd |
+| Fitbit | tbd |
 
 # Software alternatives
 For a comprehensive list of software alternatives, check out [AlternativeTo](https://alternativeto.net/).
