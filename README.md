@@ -260,7 +260,7 @@ MFA / 2FA tier list:
 
 | Option | Examples | Details |
 | --- | --- | --- |
-| security key | yubikey | A physical key protects your devices as the key is required to authenticate to your accounts, which makes hijacking your account significantly more difficult. (PCMag on using security keys)[https://www.pcmag.com/how-to/protect-your-online-accounts-physical-security-key#] |
+| security key | yubikey | A physical key protects your devices as the key is required to authenticate to your accounts, which makes hijacking your account significantly more difficult. [PCMag on using security keys](https://www.pcmag.com/how-to/protect-your-online-accounts-physical-security-key#) |
 | authenticator app | Proton Auth | Authenticator apps are an easy to setup option for configuring MFA. [Lifewire blog about authenticator apps](https://www.lifewire.com/what-is-an-authenticator-app-8634672) |
 | OTP (One-Time Password) | codes sent via text or email | Avoid using OTPs where possible as they're at a much higher risk of interception / compromise. [Forbes article on why you should stop using OTP](https://www.forbes.com/sites/zakdoffman/2025/06/18/why-you-should-stop-using-sms-2fa-codes-on-your-smartphone/) |
 
