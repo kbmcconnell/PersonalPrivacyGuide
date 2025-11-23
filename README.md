@@ -145,10 +145,10 @@ Your ISP (internet service provider), phone apps, cellular provider, web browser
 | --- | --- | --- |
 | Privacy-focused browser | Highest | A privacy-focused browser is the starting point to improving your data privacy. Many of these browsers have features turned on by default that put your data privacy front and center. They might mitigate fingerprinting, block third party cookies and cross-site tracking, mask your IP address, and more |
 | Privacy-focused search engine | Highest | Search engines play a big role in third party advertiser tracking |
-| VPN | High | While VPNs are not required for daily use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool if used correctly |
 | Password manager | Highest | Reusing passwords puts your privacy and security at risk. It's not recommended to save your passwords in the browser, so the next best option is to use a password manager. Most, if not all, password managers have browser extensions available make their use more convenient |
-| Extensions | Optional | Extensions *can* compromise your privacy, so you may want to do some research on an extension before adding it to your browser. There are also plenty of extensions that are meant to aid in privacy and security, such as uBlock Origin and ClearURLs. Keep in mind that extensions can also compromise your privacy and security |
 | Third party tracking / cookies | Highest | Starting with a browser + search engine that prioritizes privacy will significantly help with this. To go even further, whenever you access a website that prompts you to accept cookies, always reject them all |
+| VPN | High | While VPNs are not required for daily use, if you wish to increase your level of privacy while on the web, a VPN can be a useful tool if used correctly |
+| Extensions | Optional | Extensions *can* compromise your privacy, so you may want to do some research on an extension before adding it to your browser. There are also plenty of extensions that are meant to aid in privacy and security, such as uBlock Origin and ClearURLs. Keep in mind that extensions can also compromise your privacy and security |
 
 ## Home network setup
 Configure your home network in a way to prevent unauthorized access and protect your privacy. For more advanced settings like port forwarding, look into your router manufacturer's documentation.
