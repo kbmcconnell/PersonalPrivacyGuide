@@ -310,7 +310,6 @@ With this in mind:
 | Public activity | Turn off your public activity on apps like Venmo. There's no good reason for your transations to be public. This activity can be used to tie you to others. [Instructions](https://www.wikihow.com/Delete-Venmo-History) | 
 | Tracking | tbd |
 | Location services | Disable location services by default for apps that don't require your location, then set other apps to "turn on while using" for apps that require your location in the moment like maps, food delivery, or rideshares |
-| Phone number masking | tbd |
 | Biometrics | If you don't need biometric authentication (Face ID, fingerprint), it's a good idea to not configure them. Some phones allow you to customize how frequently you're prompted for your passcode. Unfortunately some advanced security settings are unavailable without biometric authentication enabled |
 
 ## Phone Number Masking
