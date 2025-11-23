@@ -4,7 +4,7 @@
 2. [Reduce Digital Footprint](#reduce-digital-footprint)
    - [Meta](#meta-facebook-instagram-whatsapp)
    - [Data brokers](#data-brokers)
-4. [Web Browsing](#web-browsing)
+3. [Web Browsing](#web-browsing)
    - [Home network setup](#home-network-setup)
    - [Browsers](#browsers)
    - [Search engines](#search-engines)
@@ -14,21 +14,22 @@
    - [Passwords](#passwords)
    - [Password managers](#password-managers)
    - [MFA / 2FA](mfa--2fa)
-6. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-7. [Phones](#phones)
+4. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
+5. [Phones](#phones)
    - [Phone number masking](#phone-number-masking)
    - [iPhone](#iphone-settings)
    - [Android](#android-settings)
    - [Useful apps](#useful-apps)
    - [Apps to avoid](#apps-to-avoid)
-9. [Computers](#computers)
+6. [Computers](#computers)
     - [MacOS](#macos-settings)
     - [Windows](#windows-settings)
     - [Cloud storage](#cloud-storage)
-10. [Software alternatives](#software-alternatives)
-11. [Email](#email)
-12. [Travel](#travel)
-13. [Resources](#resources)
+7. [Smart devices](#smart-devices)
+8. [Software alternatives](#software-alternatives)
+9. [Email](#email)
+10. [Travel](#travel)
+11. [Resources](#resources)
 
 ---
 
@@ -36,7 +37,7 @@ This guide focuses on data privacy but it often veers into cybersecurity. While 
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Additionally, the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on all of us. Read about [Project Esther](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
 
-You deserve to control access to your personal information - who gets it, when it’s given, how it’s used, and for how long. I know fighting for data privacy feels overwhelming and seems hopeless - you may be asking yourself what's the point. Fighting against surveillance, fighting for your right to data privacy, even in the smallest way, is worth everything.
+You deserve to control access to your personal information – who gets it, when it’s given, how it’s used, and for how long. I know fighting for data privacy feels overwhelming and seems hopeless - you may be asking yourself what's the point. Fighting against surveillance, fighting for your right to data privacy, even in the smallest way, is worth everything.
 
 ***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
@@ -73,7 +74,7 @@ Publicly available information about you can be used:
 | Unused accounts | If you have accounts on websites that you’re no longer active on, deactivate or delete them. Before deletion, you may need to request your information be removed from their database. Deleting unused accounts will shrink your digital footprint |
 | Photo metadata | Photos have metadata that can contain lots of information about what device was used to take the photo, location data, and more. Remove photo metadata using [ExifTool](https://exiftool.org/). There are other tools out there that don't use the command line, like ExifCleaner, however, ExifCleaner hasn't been updated in 3 years |
 | Data brokers | Data brokers are entities who collect information about you to sell. They exist in different forms and buy/sell different types of data to build profiles on you, the consumer. For example, people finder sites are a type of [data broker](https://consumer.ftc.gov/articles/what-know-about-people-search-sites-sell-your-information). Removing your information from data broker databases is a multi-step process that will take a lot of effort to accomplish, but is well-worth the energy to reduce who has access to your data. There are plenty of reasons to delete your information from these databases and prevent future information from being sold. One example is that US government agencies have been found to be [buying your location data](https://www.theverge.com/2024/12/3/24312313/ftc-bans-sensitive-location-data-brokers-gravy-analytics-venntel-mobilewalla) from brokers |
-| End to end encryption (E2EE) | Encryption is meant to keep prying eyes from accessing data without permission. For example, if you send an unencrypted text message to your friend, it could be intercepted and read by an unknown third party. Think of encryption as a process that scrambles the content of your message, so even if a third party snags the text, your message would be unreadable. Not all encryption is created equal, and here is a guide (TBD) I wrote about it. Prioritize apps and software that utlize E2EE. Encrypt your phone and computers (more details in their respective sections) |
+| End to end encryption (E2EE) | Encryption is meant to keep prying eyes from accessing data without permission. For example, if you send an unencrypted text message to your friend, it could be intercepted and read by an unknown third party. Prioritize apps and software that utlize E2EE. Encrypt your phone and computers (more details in their respective sections) |
 | Internet of Things (IoT) | You don't need a bluetooth toothbrush that tells us your brushing habits. Many smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" version |
 
 ## Meta (Facebook, Instagram, Whatsapp)
@@ -257,11 +258,11 @@ MFA is more secure than 2FA, and both are more secure than single-factor authent
 
 MFA / 2FA tier list:
 
-| Option | Rank | Examples | Details |
-| --- | --- | --- | --- |
-| security key | top choice | yubikey | (PCMag on using security keys)[https://www.pcmag.com/how-to/protect-your-online-accounts-physical-security-key#] |
-| authenticator app | great choice | Proton Auth | tbd |
-| OTP | avoid when possible | codes sent via text or email | tbd |
+| Option | Examples | Details |
+| --- | --- | --- |
+| security key | yubikey | A physical key protects your devices as the key is required to authenticate to your accounts, which makes hijacking your account significantly more difficult. (PCMag on using security keys)[https://www.pcmag.com/how-to/protect-your-online-accounts-physical-security-key#] |
+| authenticator app | Proton Auth | Authenticator apps are an easy to setup option for configuring MFA. [Lifewire blog about authenticator apps](https://www.lifewire.com/what-is-an-authenticator-app-8634672) |
+| OTP (One-Time Password) | codes sent via text or email | Avoid using OTPs where possible as they're at a much higher risk of interception / compromise. [Forbes article on why you should stop using OTP](https://www.forbes.com/sites/zakdoffman/2025/06/18/why-you-should-stop-using-sms-2fa-codes-on-your-smartphone/) |
 
 # Artificial Intelligence (AI)
 There are good reasons to be concerned about how much of personal information generative AI (aka LLMs) consumes.
@@ -304,13 +305,13 @@ With this in mind:
 
 | Action item | Details |
 | --- | --- |
-| Daily restart | tbd |
+| Daily restart | Ensures updates are installed |
 | Automatic updates | Regular software updates patch vulnerabilities. The latest versions may foil tools like Cellebrite and GrayKey | 
 | Public activity | Turn off your public activity on apps like Venmo. There's no good reason for your transations to be public. This activity can be used to tie you to others. [Instructions](https://www.wikihow.com/Delete-Venmo-History) | 
 | Tracking | tbd |
-| Location services | tbd |
+| Location services | Disable location services by default for apps that don't require your location, then set other apps to "turn on while using" for apps that require your location in the moment like maps, food delivery, or rideshares |
 | Phone number masking | tbd |
-| Biometrics | tbd |
+| Biometrics | If you don't need biometric authentication (Face ID, fingerprint), it's a good idea to not configure them. Some phones allow you to customize how frequently you're prompted for your passcode. Unfortunately some advanced security settings are unavailable without biometric authentication enabled |
 
 ## Phone Number Masking
 Alternative to giving your actual phone number out. This Proton [blog post](https://protonvpn.com/blog/protect-your-privacy-with-second-phone-number-app/) offers tips on what to look for.
@@ -323,7 +324,7 @@ Some examples:
 ## iPhone Settings
 | Setting | Action | Details |
 | --- | --- | --- |
-| Advanced Data Protection | [enable](https://support.apple.com/en-us/108756) | tbd |
+| Advanced Data Protection | [enable](https://support.apple.com/en-us/108756) | Note this is only available if you have Face ID turned on. This feature configures E2EE encryption for your entire iCloud, including reminders, iMessage, backups, and more |
 | Push notifications | consider disabling | Push alerts from apps can be [tied to your identity](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/). If you leave them turned on, you should [turn off notification previews while your phone is locked](https://www.lifewire.com/turn-off-message-preview-iphone-4175842) |
 | 2FA | [enable](https://support.apple.com/guide/iphone/use-two-factor-authentication-iphd709a3c46/ios) | tbd |
 | Account Recovery | [enable](https://support.apple.com/en-us/109345) | An option you can use if you lose access to your account or it's compromised |
