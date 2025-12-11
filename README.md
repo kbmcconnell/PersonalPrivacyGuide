@@ -33,11 +33,11 @@
 
 ---
 
-This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good cybersecurity practices will go a long way in protecting your personal privacy.
+This guide focuses on data privacy but it often veers into cybersecurity. While they are not synonomous, it's important to emphasize that good digital security practices will go a long way in protecting your personal privacy.
 
 Your data is often gathered through complex terms & conditions, features such as personalized recommendations, location tracking, activity habits, and more. As we’ve seen, data collected by corporations often ends up in data breaches; [AT&T](https://www.cnet.com/tech/mobile/at-t-data-breach-what-is-at-t-doing-for-the-73-million-accounts-breached/), [Change Healthcare](https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/), and [Ticketmaster](https://www.pcmag.com/news/ticketmaster-confirms-user-email-addresses-phone-numbers-stolen-in-hack) to name a few. Additionally, the US government is [partnering with Palantir](https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html) to build a database on all of us. Read about [Project Esther](https://contendingmodernities.nd.edu/global-currents/jvp-rejecting-project-esther/).
 
-You deserve to control access to your personal information – who gets it, when it’s given, how it’s used, and for how long. I know fighting for data privacy feels overwhelming and seems hopeless - you may be asking yourself what's the point. Fighting against surveillance, fighting for your right to data privacy, even in the smallest way, is worth everything.
+You deserve to control access to your personal information – who gets it, when it’s given, how it’s used, and for how long. I know fighting for data privacy feels overwhelming and seems hopeless - you may be asking yourself what's the point. Fighting against surveillance, fighting for your right to data privacy, even in the smallest way, is worth the effort.
 
 ***Disclaimer: Be sure to research any privacy measures you implement - don't just take an internet stranger's word for it!***
 
@@ -78,7 +78,7 @@ Publicly available information about you can be used:
 | Internet of Things (IoT) | You don't need a bluetooth toothbrush that tells us your brushing habits. Many smart devices and activity & wellness apps sell usage data to advertisers (more specifically, the usage data they gather through their mobile apps that you download to manage the devices). If it's something that doesn't *requie* an internet or bluetooth connection to function, it's good practice to skip on getting the "smart" version |
 
 ## Meta (Facebook, Instagram, Whatsapp)
-Ideally, you and everyone you know delete your Meta accounts. In the meantime, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). Details on [permanently deactivating your Facebook account](https://www.facebook.com/help/224562897555674/FACEBOOK/).
+Ideally, you and everyone you know delete your Meta accounts. In the meantime, here is a list of actions you can take to reduce how much data their products collect on you. Many of these settings can be found in your [Accounts Center](https://accountscenter.facebook.com). How to [permanently deactivate your Facebook account](https://www.facebook.com/help/224562897555674/FACEBOOK/).
 
 | Action item | Details |
 | --- | --- |
@@ -105,7 +105,7 @@ Ideally, you and everyone you know delete your Meta accounts. In the meantime, h
 | Logged information | Check for public activity you wish to remove |
 
 ## Data brokers
-This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the overall picture when it comes to your personal information. Some things you can do to keep your data out of databases are:
+This [YouTube video](https://www.youtube.com/watch?v=iX3JT6q3AxA) is a great starting point to help you understand how data is gathered and used. Data brokers are only a small part of the data ecosystem. Some things you can do to keep your data out of databases are:
 - opt out of third party data sharing on websites and apps
 - delete unnecessary apps and unused accounts
 - reduce the amount of IoT devices you use
@@ -155,7 +155,7 @@ Configure your home network in a way to prevent unauthorized access and protect 
 
 | Action | Details |
 | --- | --- |
-| Router password | Always change the default password for all of your devices or accounts |
+| Router password | Always change the default password |
 | Router encryption | If you have an older router, verify that [WPS](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup) is disabled (unless it's necessary for older equipment) and that it's set to use [WPA2 or WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) |
 | Wifi network name (SSID) | Change the default SSID and make sure the router make/model is not in it. This information could be used by bad actors to try to exploit known vulnerabilities, or it can indicate to an attaker that whoever owns the router did not take necessary precautions to protect their network. It's also not generally recommended to "hide" your network broadcast because that can be circumvented and might pique the curiosity of would-be attackers |
 
@@ -195,7 +195,7 @@ Be aware that extensions and add-ons can compromise your security. Thoroughly re
 Think of cookies as identifiers that tie your browsing activity to you. There are browser settings and extensions that will block third party cookies automatically. When a website asks you to accept cookies, choose “reject” or “necessary cookies only.”
 
 ## VPNs
-A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address. They can be useful when you wish to mask your IP address while on the web. Most internet users don't really need to use a VPN in their day to day life as they won't necessarily provide you enhanced privacy or security. Unless you have specific use cases for a VPN, this one is okay to skip. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
+A VPN is a virtual private network that can encrypt your internet traffic and mask your IP address. They are useful when you wish to mask your IP address while on the web. Most internet users don't really need to use a VPN in their day to day life as they won't necessarily provide you enhanced privacy or security. Unless you have specific use cases for a VPN, this one is okay to skip. Here's a good video on VPNs by [Reject Convenience](https://www.youtube.com/watch?v=mIwfNw5UaHA).
 
 If you choose to use a VPN: select a provider that does not log identifying information along with your activity. Confirm they don’t save user logs by checking if they’ve been independently audited. Avoid using free VPNs (except for Proton) or you might end up with spyware on your phone ([Facebook Onavo](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal), anyone?). Here are some providers who have been third party verified and are popular:
 
