@@ -278,6 +278,7 @@ What you can do to protect your privacy:
   - this [Wired guide](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/) is a good place to start
 - never provide personal information to AI tools like ChatGBT
 - disable unused AI features on your devices
+- [disable Gemini features on Google](https://www.digitaltrends.com/computing/how-to-turn-off-gemini-across-google-services-you-visit-everyday/)
 
 Consider hosting your own local installation of an LLM. The benefit of hosting an LLM locally is that all of your interactions are saved locally and not sent to some tech giant.
 - [LM Studio](https://lmstudio.ai/) is an excellent option for most people
