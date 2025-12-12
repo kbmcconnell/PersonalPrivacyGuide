@@ -434,13 +434,12 @@ For a comprehensive list of software alternatives, check out [AlternativeTo](htt
 
 | Tool | Replaces | Features |
 | --- | --- | --- |
-| [Proton Docs](https://drive.proton.me/) | Google Docs / Word Online | E2EE cloud-based word processor |
-| [CryptPad](https://cryptpad.fr/) | Google Docs / Microsoft Office | E2EE office suite |
-| [Grist](https://www.getgrist.com/) | Google Sheets / Excel | a spreadsheet service that you can host locally |
-| [LibreOffice](https://www.libreoffice.org/) | Google suite / Microsoft Office | a free, open source office suite |
-| tbd | tbd | tbd |
-| tbd | tbd | tbd |
-| tbd | tbd | tbd |
+| [Proton Docs](https://drive.proton.me/) | Google Docs, Word Online | E2EE cloud-based word processor |
+| [CryptPad](https://cryptpad.fr/) | Google Docs, Microsoft Office | E2EE office suite |
+| [Grist](https://www.getgrist.com/) | Google Sheets, Excel, a spreadsheet service that you can host locally |
+| [LibreOffice](https://www.libreoffice.org/) | Google suite, Microsoft Office | a free, open source office suite |
+| [Wormhole](https://wormhole.app/) | Dropbox | secure, anonymous file transfer service |
+| [OnionShare](https://onionshare.org/) | Dropbox, Google Drive | secure, anonymous file transfer service that allows you to host your own websites |
 
 # Travel
 If you're an American citizen traveling in the U.S., you can request that TSA not take your photo at the airport. They cannot bar you from entering or leaving the country if you opt out.
